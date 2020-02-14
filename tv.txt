@@ -244,6 +244,7 @@ CHANNEL[V],http://pili-live-hdl.qhmywl.com/dsdtv/c8ade260941e368acfdb110a04811b3
 
 
 OOO_520,#genre#
+卡通,https://mmxzqxl1.com/common/all/201906/dm_cDgwUUUS/dm_cDgwUUUS.mp4
 1,https://www.mmxzxl1.com/common/zw/2020_02/13/zw_meBBpUsm_wm.mp4
 2,https://www.mmxzxl1.com/common/zw/2020_02/12/zw_xCVjtbcC_wm.mp4
 3,https://www.mmxzxl1.com/common/zw/2020_02/11/zw_SXdVkJas_wm.mp4
