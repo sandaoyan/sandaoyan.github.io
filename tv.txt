@@ -38,6 +38,10 @@ CCTV4,http://223.110.245.138/PLTV/1/224/3221227549/index.m3u8
 安徽卫视,http://223.110.245.172/PLTV/1/224/3221227558/index.m3u8
 辽宁卫视,http://183.207.249.8/PLTV/1/224/3221227485/index.m3u8
 
+
+爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
+
+
 电信高清,#genre#
 邳州综合频道,http://stream.pznews.com/pztv1/sd/live.m3u8
 邳州综艺频道,http://stream.pznews.com/pztv2/sd/live.m3u8
