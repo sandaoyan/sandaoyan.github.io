@@ -244,6 +244,21 @@ CHANNEL[V],http://pili-live-hdl.qhmywl.com/dsdtv/c8ade260941e368acfdb110a04811b3
 
 
 XXX_520,#genre#
+1,https://www.mmxzxl1.com/common/zw/2020_02/13/zw_meBBpUsm_wm.mp4
+2,https://www.mmxzxl1.com/common/zw/2020_02/12/zw_xCVjtbcC_wm.mp4
+3,https://www.mmxzxl1.com/common/zw/2020_02/11/zw_SXdVkJas_wm.mp4
+4,https://mmxzqxl1.com/common/all/201906/MrhEJgXk/MrhEJgXk.rmvb
+5,https://mmxzqxl1.com/common/all/201906/KMjFUAEh/KMjFUAEh.rmvb
+6,https://mmxzqxl1.com/common/all/201906/PDUVXdmE/PDUVXdmE.rmvb
+7,https://mmxzqxl1.com/common/all/201906/VgRwtWpJ/VgRwtWpJ.rmvb
+8,https://mmxzqxl1.com/common/all/201906/xbxwpwqa/xbxwpwqa.rmvb
+9,https://mmxzqxl1.com/common/all/201906/wwJqCxLC/wwJqCxLC.mp4
+10,https://mmxzqxl1.com/common/all/201906/fBSvGLBP/fBSvGLBP.mp4
+11,https://www.mmxzxl1.com/common/gc/20200212/tSNfgwT.mp4
+12,https://www.mmxzxl1.com/common/gc/20200212/RRrjCna.mp4
+13,https://www.mmxzxl1.com/common/gc/20200213/nFbseQY.mp4
+14,https://mmxzqxl1.com/common/all/201906/om_LVRWGxAR/om_LVRWGxAR.mp4
+15,https://mmxzqxl1.com/common/all/201906/om_xwmjRgEp/om_xwmjRgEp.mp4
 东京热美少妇,https://qqc1107.phpdaniu.com/japan/ZW0910/8F8YJ4lB/800kb/hls/index.m3u8
 东京热奸空姐,https://qqc1107.phpdaniu.com/japan/ZW0910/AITV4deO/index.m3u8
 牛仔裤女郎,https://qqc1107.phpdaniu.com/japan/20191013/jz4knROn/500kb/hls/index.m3u8
