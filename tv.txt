@@ -106,7 +106,6 @@ ICS,http://117.156.28.21/PLTV/88888888/224/3221225639/index.m3u8
 茶频道,http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
 Bestv4K,http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
 Bestv4K,http://112.17.40.140/PLTV/88888888/224/3221226718/index.m3u8
-爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 
 CCTV1,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 CCTV2,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
@@ -367,22 +366,6 @@ CHANNEL[V],http://pili-live-hdl.qhmywl.com/dsdtv/c8ade260941e368acfdb110a04811b3
 
 
 OOO_520,#genre#
-卡通,https://mmxzqxl1.com/common/all/201906/dm_cDgwUUUS/dm_cDgwUUUS.mp4
-1,https://www.mmxzxl1.com/common/zw/2020_02/13/zw_meBBpUsm_wm.mp4
-2,https://www.mmxzxl1.com/common/zw/2020_02/12/zw_xCVjtbcC_wm.mp4
-3,https://www.mmxzxl1.com/common/zw/2020_02/11/zw_SXdVkJas_wm.mp4
-4,https://mmxzqxl1.com/common/all/201906/MrhEJgXk/MrhEJgXk.rmvb
-5,https://mmxzqxl1.com/common/all/201906/KMjFUAEh/KMjFUAEh.rmvb
-6,https://mmxzqxl1.com/common/all/201906/PDUVXdmE/PDUVXdmE.rmvb
-7,https://mmxzqxl1.com/common/all/201906/VgRwtWpJ/VgRwtWpJ.rmvb
-8,https://mmxzqxl1.com/common/all/201906/xbxwpwqa/xbxwpwqa.rmvb
-9,https://mmxzqxl1.com/common/all/201906/wwJqCxLC/wwJqCxLC.mp4
-10,https://mmxzqxl1.com/common/all/201906/fBSvGLBP/fBSvGLBP.mp4
-11,https://www.mmxzxl1.com/common/gc/20200212/tSNfgwT.mp4
-12,https://www.mmxzxl1.com/common/gc/20200212/RRrjCna.mp4
-13,https://www.mmxzxl1.com/common/gc/20200213/nFbseQY.mp4
-14,https://mmxzqxl1.com/common/all/201906/om_LVRWGxAR/om_LVRWGxAR.mp4
-15,https://mmxzqxl1.com/common/all/201906/om_xwmjRgEp/om_xwmjRgEp.mp4
 东京热美少妇,https://qqc1107.phpdaniu.com/japan/ZW0910/8F8YJ4lB/800kb/hls/index.m3u8
 东京热奸空姐,https://qqc1107.phpdaniu.com/japan/ZW0910/AITV4deO/index.m3u8
 牛仔裤女郎,https://qqc1107.phpdaniu.com/japan/20191013/jz4knROn/500kb/hls/index.m3u8
@@ -435,8 +418,4 @@ OOO_520,#genre#
 洗澡的翘屁少妇被操,https://qqc1107.phpdaniu.com/japan/20191101/VwgHYSi8/index.m3u8
 妹子被大屌插到尖叫,https://qqc1107.phpdaniu.com/japan/20191101/x7qjNL7o/index.m3u8
 你的鸡巴好长,https://mmssxs1.com/%E6%80%A7%E7%88%B1%E5%BD%95%E9%9F%B3/%E4%BD%A0%E7%9A%84%E9%B8%A1%E5%B7%B4%E5%A5%BD%E9%95%BF%E5%95%8A.mp3
-录音,https://mmssxs1.com/%E6%80%A7%E7%88%B1%E5%BD%95%E9%9F%B3/VIP%E5%BD%95%E9%9F%B3%E7%B2%BE%E5%93%81%E3%80%90%E4%B8%80%E3%80%91%E4%BA%BA%E5%A6%BB%E7%B3%BB%E5%88%9707%E8%80%81%E5%A9%86%E7%9A%84%E9%AB%98%E6%BD%AE%E7%B3%BB%E5%88%97%E4%B9%8B%E4%BA%8C.mp3
-录音2,https://mmssxs1.com/%E6%80%A7%E7%88%B1%E5%BD%95%E9%9F%B3/%E5%97%AF%E5%97%AF%E5%91%83%E5%97%AF%E5%97%AF%E5%95%8A%E9%94%80%E9%AD%82%E7%9A%84%E5%8F%AB%E5%A3%B0%20%E3%80%9005_04%E3%80%91.mp3
-录音3,https://mmssxs1.com/%E6%80%A7%E7%88%B1%E5%BD%95%E9%9F%B3/VIP%E5%BD%95%E9%9F%B3%E7%B2%BE%E5%93%81%E3%80%90%E4%B8%80%E3%80%91%E4%BA%BA%E5%A6%BB%E7%B3%BB%E5%88%9705%E8%80%81%E5%A9%86%E7%9A%84%E9%AB%98%E6%BD%AE%E7%B3%BB%E5%88%97%E4%B9%8B%E5%9B%9B.mp3
-录音4,https://mmssxs1.com/%E6%80%A7%E7%88%B1%E5%BD%95%E9%9F%B3/VIP%E5%BD%95%E9%9F%B3%E7%B2%BE%E5%93%81%E3%80%90%E4%B8%80%E3%80%91%E4%BA%BA%E5%A6%BB%E7%B3%BB%E5%88%9704%E8%80%81%E5%A9%86%E7%9A%84%E9%AB%98%E6%BD%AE%E7%B3%BB%E5%88%97%E4%B9%8B%E4%BA%94.mp3
-录音5,https://mmssxs1.com/%E6%80%A7%E7%88%B1%E5%BD%95%E9%9F%B3/%E5%A5%B3%E5%AD%A9%E4%B8%8D%E7%9F%A5%E9%81%93%E8%A2%AB%E5%BD%95%E9%9F%B3%E4%BA%86%E3%80%905_48%E3%80%91.mp3
+
