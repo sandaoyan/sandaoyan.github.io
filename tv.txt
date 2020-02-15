@@ -713,31 +713,12 @@ TGN,p8p://0198.02686.cc:16871/5d1a69ee00020c6911bebf57495301ab.ts
 
 
 MV,#genre#
-
-9,http://he.yinyuetai.com/uploads/videos/common/B9C4014C558B6435DEDEEC8E36BBEC72.flv
-11,http://sh.yinyuetai.com/uploads/videos/common/A1BF01623E8A2670EE83926220A37529.mp4
-16,http://hd.yinyuetai.com/uploads/videos/common/4F7B014BC9DDCFFFDA9E550D356AE27D.flv
-18,http://he.yinyuetai.com/uploads/videos/common/78A90162D8FBE391C98653C27D7CA3B2.mp4
-36,http://he.yinyuetai.com/C57A01411655702736EFA8B1EC37AE5D.flv
-37,http://he.yinyuetai.com/2DDA013F312DEA0ADDA11C2A4D223C23.flv
-67,http://he.yinyuetai.com/FD43016245A1E04B4428D6F1DA0C21CF.mp4
-68,http://he.yinyuetai.com/630A016145B97174C7F5C12458EC0F2D.mp4
-71,http://he.yinyuetai.com/F5AC01614FDF18BB2B5FB9D19A193574.mp4
-72,http://he.yinyuetai.com/7E230162136CA46F5BF81A4861E7ABE6.mp4
-73,http://he.yinyuetai.com/F7880162D09F69AF6515BB914E6B2296.mp4
-92,http://sh.yinyuetai.com/uploads/videos/common/D4770162BCFB868B6200C69A916B0479.mp4
-94,http://hc.yinyuetai.com/uploads/videos/common/BB88012CDED6D36F1B2F6018544CB88A.flv
-96,http://hd.yinyuetai.com/uploads/videos/common/30D60147BAD7056A1F82300FD2941CF8.flv
-97,http://he.yinyuetai.com/uploads/videos/common/1811319_he_18290145B677ECA6003C8772DB7D3790.flv
-100,http://he.yinyuetai.com/uploads/videos/common/B470013F1D37712D42D3FA54214B6998.flv
-106,http://sh.yinyuetai.com/uploads/videos/common/10ED01504A96D94E7A31354C7B371837.mp4
-110,http://he.yinyuetai.com/uploads/videos/common/9B8B01409FF9258BC73DC01F26833574.flv
-117,http://he.yinyuetai.com/uploads/videos/common/B8E70140B9A9612E06DB3B6EE6CEF48B.flv
-128,http://hd.yinyuetai.com/2492014C94D1CE691B241D075542D15C.flv
-130,http://he.yinyuetai.com/1697016183BBE07FA2979898BA7C7606.mp4
-134,http://he.yinyuetai.com/B9E9014E4C45D45E86C85426ED1BC405.flv
-137,http://he.yinyuetai.com/75F6013F8FB8CC5CBEE8C667A259CDFA.flv
-140,http://hc.yinyuetai.com/uploads/videos/common/1E5801454B73B9CAFDCF9BC1A97D244E.flv
+凤凰传奇-自由飞翔,http://he.yinyuetai.com/uploads/videos/common/78A90162D8FBE391C98653C27D7CA3B2.mp4
+卓依婷-恭喜发财,http://he.yinyuetai.com/uploads/videos/common/B470013F1D37712D42D3FA54214B6998.flv
+大庆小芳-爱情伤了你,http://hd.yinyuetai.com/2492014C94D1CE691B241D075542D15C.flv
+我要去西藏,http://he.yinyuetai.com/B9E9014E4C45D45E86C85426ED1BC405.flv
+庄心妍-一万个舍不得,http://he.yinyuetai.com/75F6013F8FB8CC5CBEE8C667A259CDFA.flv
+郭玲-冷漠的爱,http://hc.yinyuetai.com/uploads/videos/common/1E5801454B73B9CAFDCF9BC1A97D244E.flv
 阿妮桑-伤的都是有情人,http://he.yinyuetai.com/uploads/videos/common/5F2E01660A27B8BEAA57CDA3E088D41A.mp4
 阿妮桑-情愿孤独终老,http://he.yinyuetai.com/uploads/videos/common/770501660A2E4F89402BC5E56C73F226.mp4
 阿妮桑-孤独的人最懂伤感情歌,http://he.yinyuetai.com/uploads/videos/common/5FE3015ABCDB5121EFF756429ED53878.mp4
