@@ -407,21 +407,6 @@ MV,#genre#
 大水库,https://gccncc.v.wscdns.com/gc/ljgcdsc_1/index.m3u8?contentid=2820180516001
 
 收音机,#genre#
-态度音乐电台,mms://45.114.11.54:1755/taidufmwr"
-AsiaFM亚洲音乐台,mms://58.218.211.188:1755/asiafm"
-AsiaFM亚洲经典台,mms://58.218.211.188:1755/goldfm"
-AsiaFM亚洲天空台,mms://58.218.211.188:1755/funradio"
-AsiaFMHD音乐台,mms://58.218.211.188:1755/asiahd"
-smaradio新鲜音乐台,mms://58.218.211.188:1755/smaradio"
-AutoFM汽车广播,mms://58.218.211.188:1755/autofm"
-Tiktok音悦台,mms://222.186.59.247:1755/wanwanw"
-郁南网络电台,mms://122.228.244.212:1755/YnDT,http://ls.qingting.fm/live/23893.m3u8
-
-清晨音乐台,mms://122.228.236.151:1755/live"
-
-CRIMUSICMIX,mms://210.51.185.30:1755/chi/inet/ad090302001.wma"
-
-
 收音机网络电台,http://live.xmcdn.com/live/1006/64.m3u8
 萤火虫网络电台,http://ls.qingting.fm/live/4998.m3u8
 中国校园之声,http://live.xmcdn.com/live/9/64.m3u8
