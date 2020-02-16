@@ -255,10 +255,6 @@ TVBS欢乐台,vjms://121.14.222.75:8500:3502/live/cid=438#vjms://23.237.33.155:8
 
 
 MV,#genre#
-草蜢-失恋阵线联盟,http://vodcdn.video.taobao.com/oss/ali-video/bbae2fc164d9517913ed5a9117f8455b/video.m3u8
-草蜢-忘情森巴舞,http://vodcdn.video.taobao.com/oss/ali-video/a30020a6cd9ce2a8b387e029f9c5365c/video.m3u8
-草蜢-半点心,http://vodcdn.video.taobao.com/oss/ali-video/68fc953ff930412784dada5eb79d0821/1461058499/video.m3u8.m3u8
-草蜢-宝贝对不起,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/RQdMfitGKCINh4BPzc9%40%40sd.m3u8
 韩雪-想起,http://hc.yinyuetai.com/uploads/videos/common/208A012CE45A945FF5D859C30E09DEB4.flv
 王靖雯-容易受伤的女人(现场版),http://hc.yinyuetai.com/uploads/videos/common/744D013C4956A33A659964DA5A9BEFE8.flv
 王菲-容易受伤的女人(粤语),http://vodcdn.video.taobao.com/oss/ali-video/ed5aed790e002b229c9a8870e900f985/video.m3u8
@@ -327,6 +323,10 @@ MV,#genre#
 周传雄-黄昏,http://hc.yinyuetai.com/uploads/videos/common/62BF012CD3BD538CDF884505277BB594.flv
 小虎队-青苹果乐园,http://hc.yinyuetai.com/uploads/videos/common/5366_xiaohudui_qingpingguoleyuan.flv
 小虎队-爱,http://hc.yinyuetai.com/uploads/videos/common/4F5F0159966499AB169381530769FD4C.mp4
+草蜢-失恋阵线联盟,http://vodcdn.video.taobao.com/oss/ali-video/bbae2fc164d9517913ed5a9117f8455b/video.m3u8
+草蜢-忘情森巴舞,http://vodcdn.video.taobao.com/oss/ali-video/a30020a6cd9ce2a8b387e029f9c5365c/video.m3u8
+草蜢-半点心,http://vodcdn.video.taobao.com/oss/ali-video/68fc953ff930412784dada5eb79d0821/1461058499/video.m3u8.m3u8
+草蜢-宝贝对不起,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/RQdMfitGKCINh4BPzc9%40%40sd.m3u8
 云菲菲-邂逅,http://hc.yinyuetai.com/uploads/videos/common/6B5E01454A6A1F7CDF329DDD8555465F.flv
 车静子-其实我很在乎你,http://hc.yinyuetai.com/uploads/videos/common/2E65A4BBCC10E118BAFFF065BEDDE793.flv
 宇桐非-感动天感动地,http://hc.yinyuetai.com/uploads/videos/common/187FF81F1570ECF47CD31DCD046C48E9.flv
