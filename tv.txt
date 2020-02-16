@@ -255,6 +255,15 @@ TVBS欢乐台,vjms://121.14.222.75:8500:3502/live/cid=438#vjms://23.237.33.155:8
 
 
 MV,#genre#
+庄心妍-一万个舍不得,http://he.yinyuetai.com/75F6013F8FB8CC5CBEE8C667A259CDFA.flv
+郭玲-冷漠的爱,http://hc.yinyuetai.com/uploads/videos/common/1E5801454B73B9CAFDCF9BC1A97D244E.flv
+阿妮桑-伤的都是有情人,http://he.yinyuetai.com/uploads/videos/common/5F2E01660A27B8BEAA57CDA3E088D41A.mp4
+阿妮桑-孤独的人最懂伤感情歌,http://he.yinyuetai.com/uploads/videos/common/5FE3015ABCDB5121EFF756429ED53878.mp4
+任妙音-爱的期限,http://sh.yinyuetai.com/uploads/videos/common/85DF016208843CD9A93A74DDB8DE9266.mp4
+任妙音-天在下雨我在等你,http://he.yinyuetai.com/uploads/videos/common/1697016183BBE07FA2979898BA7C7606.mp4
+任妙音-烫情,http://he.yinyuetai.com/uploads/videos/common/D49D016538D0F05FEC088212D854B4E9.mp4
+任妙音-今生不想失去你,http://he.yinyuetai.com/uploads/videos/common/628D01638137355F24965CFAAD22D889.mp4
+龙梅子-今生有你,http://he.yinyuetai.com/uploads/videos/common/4A46014149169AA34B7BBA9ABC0D5499.flv
 韩雪-想起,http://hc.yinyuetai.com/uploads/videos/common/208A012CE45A945FF5D859C30E09DEB4.flv
 王靖雯-容易受伤的女人(现场版),http://hc.yinyuetai.com/uploads/videos/common/744D013C4956A33A659964DA5A9BEFE8.flv
 王菲-容易受伤的女人(粤语),http://vodcdn.video.taobao.com/oss/ali-video/ed5aed790e002b229c9a8870e900f985/video.m3u8
@@ -372,18 +381,8 @@ MV,#genre#
 那英-放爱一条生路,http://hc.yinyuetai.com/uploads/videos/common/A7370151530EC65A168A6E2C52CF0CF7.flv
 蔡妍-两个人,http://hc.yinyuetai.com/uploads/videos/common/EF4C015E5BFA53B98918E76F8F8C9F98.mp4
 凤凰传奇-自由飞翔,http://he.yinyuetai.com/uploads/videos/common/78A90162D8FBE391C98653C27D7CA3B2.mp4
-卓依婷-恭喜发财,http://he.yinyuetai.com/uploads/videos/common/B470013F1D37712D42D3FA54214B6998.flv
 大庆小芳-爱情伤了你,http://hd.yinyuetai.com/2492014C94D1CE691B241D075542D15C.flv
 我要去西藏,http://he.yinyuetai.com/B9E9014E4C45D45E86C85426ED1BC405.flv
-庄心妍-一万个舍不得,http://he.yinyuetai.com/75F6013F8FB8CC5CBEE8C667A259CDFA.flv
-郭玲-冷漠的爱,http://hc.yinyuetai.com/uploads/videos/common/1E5801454B73B9CAFDCF9BC1A97D244E.flv
-阿妮桑-伤的都是有情人,http://he.yinyuetai.com/uploads/videos/common/5F2E01660A27B8BEAA57CDA3E088D41A.mp4
-阿妮桑-孤独的人最懂伤感情歌,http://he.yinyuetai.com/uploads/videos/common/5FE3015ABCDB5121EFF756429ED53878.mp4
-任妙音-爱的期限,http://sh.yinyuetai.com/uploads/videos/common/85DF016208843CD9A93A74DDB8DE9266.mp4
-任妙音-天在下雨我在等你,http://he.yinyuetai.com/uploads/videos/common/1697016183BBE07FA2979898BA7C7606.mp4
-任妙音-烫情,http://he.yinyuetai.com/uploads/videos/common/D49D016538D0F05FEC088212D854B4E9.mp4
-任妙音-今生不想失去你,http://he.yinyuetai.com/uploads/videos/common/628D01638137355F24965CFAAD22D889.mp4
-龙梅子-今生有你,http://he.yinyuetai.com/uploads/videos/common/4A46014149169AA34B7BBA9ABC0D5499.flv
 邓丽君-柔情专辑,http://he.yinyuetai.com/uploads/videos/common/6B5E015B3CE0749FCECB2C4692AA2839.mp4
 邓丽君-香港特辑(上),http://he.yinyuetai.com/uploads/videos/common/C909015B050F76FB1A1ED213A0493266.mp4
 邓丽君-香港特辑(下),http://he.yinyuetai.com/uploads/videos/common/5E94015B189295148EC9101818D6E282.mp4
@@ -521,14 +520,4 @@ MV,#genre#
 观景台,https://gccncc.v.wscdns.com/gc/mdjxxmhjygjt_1/index.m3u8?contentid=2820180516001
 嘉峪关长城,https://gctxyc.liveplay.myqcloud.com/gc/jyg04_1/index.m3u8?contentid=2820180516001
 大水库,https://gccncc.v.wscdns.com/gc/ljgcdsc_1/index.m3u8?contentid=2820180516001
-
-收音机,#genre#
-安徽小说评书广播,http://stream1.ahrtv.cn/xspsgb/sd/live.m3u8
-北京故事广播AM603,http://123.56.16.201:1935/live/am603/96K/tzwj_video.m3u8
-北京长书广播FM104.3,http://audiolive.rbc.cn:1935/live/fm1043/96K/tzwj_video.m3u8
-新疆故事广播FM102.8,http://aod.xjbs.com.cn:1935/live/1028/32K/tzwj_video.m3u8
-广东故事频道,http://ctt.rgd.com.cn/story?type=.mp3"
-金十电台,http://fmcdn.jin10.com/AAC/voice.m3u8
-HitFMFM88.7,http://sk.cri.cn/887.m3u8
-北京怀旧金曲FM107.5,http://123.56.16.201:1935/live/fm1075/96K/tzwj_video.m3u8
 
