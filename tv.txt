@@ -1,5 +1,4 @@
 移动高清,#genre#
-女儿小时候,http://v26-tt.ixigua.com:80/3dbc6707c995c853f7de6bd9f4b62e72/5e494347/video/tos/hxsy/tos-hxsy-ve-26/515d759c7b7349b297887160f7619692/?a=13&br=3954&bt=1318&cr=1&cs=0&dr=0&ds=3&er=&l=2020021620272601013003616036269BAE&lr=&qs=0&rc=M3ZnbjlkdzttczMzPGQzM0ApOTo3OjszOjxlNzY8Nzs7ZGdoLjQ2ZTVyNjFfLS1eLi9zczMvLS8tXi00XzMxYGI1NjM6Yw%3D%3D&vl=&vr=
 CCTV4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
 CCTV4K,http://117.148.187.56:80/PLTV/88888888/224/3221226758/1.m3u8
 广东卫视,http://223.110.245.172/PLTV/1/224/3221227476/index.m3u8
@@ -292,7 +291,6 @@ TVBS欢乐台,vjms://121.14.222.75:8500:3502/live/cid=438#vjms://23.237.33.155:8
 
 
 MV,#genre#
-张震岳-念念不忘,http://fs.mv.web.kugou.com/202002161959/ae92c3b652916e50a8aa269505564d69/G173/M00/02/14/TYcBAF3beL2Aaez6AdTw3HjoA5I122.mkv?from=share
 庄心妍-一万个舍不得,http://he.yinyuetai.com/75F6013F8FB8CC5CBEE8C667A259CDFA.flv
 郭玲-冷漠的爱,http://hc.yinyuetai.com/uploads/videos/common/1E5801454B73B9CAFDCF9BC1A97D244E.flv
 阿妮桑-孤独的人最懂伤感情歌,http://he.yinyuetai.com/uploads/videos/common/5FE3015ABCDB5121EFF756429ED53878.mp4
