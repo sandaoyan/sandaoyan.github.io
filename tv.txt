@@ -1,4 +1,5 @@
 移动高清,#genre#
+瑜伽,http://mobilelive-play.ysp.cctv.cn/ysp/2002187201_fhd.m3u8
 CCTV4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
 CCTV4K,http://117.148.187.56:80/PLTV/88888888/224/3221226758/1.m3u8
 广东卫视,http://223.110.245.172/PLTV/1/224/3221227476/index.m3u8
@@ -293,6 +294,7 @@ TVBS欢乐台,vjms://121.14.222.75:8500:3502/live/cid=438#vjms://23.237.33.155:8
 
 
 MV,#genre#
+张也-万事如意,http://v6-tt.ixigua.com/32c3eec01bcfb7eb0ecf5669df4f6126/5e4bba67/video/tos/cn/tos-cn-v-0000/ddb32e3a109d46bb9502204df5422b70/?a=1112&br=6308&bt=3154&cr=0&cs=&dr=3&ds=6&er=&l=202002181716290100080570940B099EB6&lr=&qs=13&rc=andwOWxmd3BuczMzN2QzM0ApaDRxOTh3dmw3ZTMzaTQ1eWdiLmszMnFwZjFfLS1jLi9zc2RxajNmYHFqaG0tLTFeLS06Yw%3D%3D&vl=&vr=
 庄心妍-一万个舍不得,http://he.yinyuetai.com/75F6013F8FB8CC5CBEE8C667A259CDFA.flv
 郭玲-冷漠的爱,http://hc.yinyuetai.com/uploads/videos/common/1E5801454B73B9CAFDCF9BC1A97D244E.flv
 阿妮桑-孤独的人最懂伤感情歌,http://he.yinyuetai.com/uploads/videos/common/5FE3015ABCDB5121EFF756429ED53878.mp4
