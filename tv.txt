@@ -145,7 +145,38 @@ CGTN,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 重庆卫视,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
 安徽卫视,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
 
+CCTV1,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8
+CCTV2,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
+CCTV3,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225801/index.m3u8
+CCTV4,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/index.m3u8
+CCTV5,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225925/index.m3u8
+CCTV5+,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225821/index.m3u8
+CCTV6,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225804/index.m3u8
+CCTV7,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225805/index.m3u8
+CCTV8,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225806/index.m3u8
+CCTV9,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225820/index.m3u8
+CCTV10,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225814/index.m3u8
+CCTV11,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/index.m3u8
+CCTV12,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225816/index.m3u8
+CCTV13,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
+CCTV14,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225819/index.m3u8
+CCTV15,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/index.m3u8
+CGTN,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225822/index.m3u8
 
+重庆卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
+安徽卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225945/1.m3u8
+江苏卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225930/1.m3u8
+浙江卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225934/1.m3u8
+湖南卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225935/1.m3u8
+东方卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225936/1.m3u8
+北京卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225937/1.m3u8
+黑龙江卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225940/1.m3u8
+天津卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225941/1.m3u8
+广东卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
+山东卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225943/1.m3u8
+辽宁卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225947/1.m3u8
+冬奥纪实,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/1.m3u8
+纪实人文,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225946/1.m3u8
 
 电信高清,#genre#
 CETV4教育,http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8
@@ -194,20 +225,7 @@ CGTN,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 重庆卫视,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
 安徽卫视,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
 
-重庆卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
-安徽卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225945/1.m3u8
-江苏卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225930/1.m3u8
-浙江卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225934/1.m3u8
-湖南卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225935/1.m3u8
-东方卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225936/1.m3u8
-北京卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225937/1.m3u8
-黑龙江卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225940/1.m3u8
-天津卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225941/1.m3u8
-广东卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
-山东卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225943/1.m3u8
-辽宁卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225947/1.m3u8
-冬奥纪实,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/1.m3u8
-纪实人文,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225946/1.m3u8
+
 
 港澳台,#genre#
 东森财经,vjms://58.215.133.185:8500:3502/live/cid=456#vjms://121.14.222.75:8500:3502/live/cid=456#p8p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts#vjms://23.237.33.155:8500:3502/live/cid=456
