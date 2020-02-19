@@ -327,8 +327,6 @@ TVBS欢乐,P2p://190.2.146.92:18912/5c72488a000a56b71d52e3a07060345e.ts
 
 
 MV,#genre#
-瑜伽,http://mobilelive-play.ysp.cctv.cn/ysp/2002187201_fhd.m3u8
-张也-万事如意,http://v6-tt.ixigua.com/32c3eec01bcfb7eb0ecf5669df4f6126/5e4bba67/video/tos/cn/tos-cn-v-0000/ddb32e3a109d46bb9502204df5422b70/?a=1112&br=6308&bt=3154&cr=0&cs=&dr=3&ds=6&er=&l=202002181716290100080570940B099EB6&lr=&qs=13&rc=andwOWxmd3BuczMzN2QzM0ApaDRxOTh3dmw3ZTMzaTQ1eWdiLmszMnFwZjFfLS1jLi9zc2RxajNmYHFqaG0tLTFeLS06Yw%3D%3D&vl=&vr=
 庄心妍-一万个舍不得,http://he.yinyuetai.com/75F6013F8FB8CC5CBEE8C667A259CDFA.flv
 郭玲-冷漠的爱,http://hc.yinyuetai.com/uploads/videos/common/1E5801454B73B9CAFDCF9BC1A97D244E.flv
 任妙音-爱的期限,http://sh.yinyuetai.com/uploads/videos/common/85DF016208843CD9A93A74DDB8DE9266.mp4
