@@ -296,6 +296,71 @@ MYKIDS,P2p://sdgdklwos.finetv.tv:9906/59fd3515000d559a02e3d8b272784315
 历史频道1,P2p://sdgdklwos.finetv.tv:9906/59fd16f900060059026e396d395f3348
 历史频道2,P2p://sdgdklwos.finetv.tv:9906/59fd2b7900012c9002be4c3577197bb9
 
+美食星球,P2p://sdgdklwos.finetv.tv:9906/59fd07190004a07d0230361f798d3b15
+国兴卫视,P2p://sdgdklwos.finetv.tv:9906/59fd0565000d04390229912232d21634
+非凡商业,P2p://sdgdklwos.finetv.tv:9906/5b07a59b0005c8ff766a65e653565438
+非凡新闻,P2p://sdgdklwos.finetv.tv:9906/59fd05f30007004f022bba4b77671d93
+采昌影剧,P2p://sdgdklwos.finetv.tv:9906/59fd15cc000cd7cc0269a36a466420ca
+日舞电影,P2p://sdgdklwos.finetv.tv:9906/59fd30960001991702d2459c74bd52f1
+动物星球,P2p://sdgdklwos.finetv.tv:9906/59fd254500042de102a611e03cd83fa7
+台视新闻,P2p://sdgdklwos.finetv.tv:9906/59fd299b00054a3002b7020e67d657e3
+年代新闻,P2p://sdgdklwos.finetv.tv:9906/5a56230e0004af51617ff5935a3e292e
+JET 综合台,P2p://sdgdklwos.finetv.tv:9906/59fd054a00006c030229246e6fa27a75
+EYETV 旅游,P2p://sdgdklwos.finetv.tv:9906/59fd27c4000cb3b102afd41b5cc4003d
+EYETV 戏剧,P2p://sdgdklwos.finetv.tv:9906/59fd35bd00061f9e02e6671d60d7011c
+Elta体育台,P2p://sdgdklwos.finetv.tv:9906/59fd07ba000a4d260232ac6f507c5a84
+信大电视台,P2p://sdgdklwos.finetv.tv:9906/5afbd0d7000dfbc54833015a3ca55f37
+美亚电影台,P2p://sdgdklwos.finetv.tv:9906/59fd08470008d4d60234d2d92e65644c
+迪士尼频道,P2p://sdgdklwos.finetv.tv:9906/59fd1766000a51cc026fe44f425c5788
+好莱坞电影,P2p://sdgdklwos.finetv.tv:9906/5a141b66000b4be65f90135822b40e43
+亚洲旅游台,P2p://sdgdklwos.finetv.tv:9906/59fd0809000909e90233e0b820d34ea5
+亚洲美食台,P2p://sdgdklwos.finetv.tv:9906/59fd27e40007382002b04fb323e85206
+八大第一台,P2p://sdgdklwos.finetv.tv:9906/59fd22540006fb57029a95244a947e57
+八大戏剧台,P2p://sdgdklwos.finetv.tv:9906/59fd21c7000edfe70298706f2ef217c7
+八大娱乐台,P2p://sdgdklwos.finetv.tv:9906/59fd38fe000e2eeb02f31f187a8b3f49
+八大综合台,P2p://sdgdklwos.finetv.tv:9906/59fd22220005cbed0299d18627a207f7
+三立都会台,P2p://sdgdklwos.finetv.tv:9906/59fd20f5000e6b4602953c0079210fd1
+三立台湾台,P2p://sdgdklwos.finetv.tv:9906/5a1425f00009bfad5fb93e0a6f7070c4
+三立戏剧台,P2p://sdgdklwos.finetv.tv:9906/59fd274c0001400d02adfc6d23452c25
+三立新闻台,P2p://sdgdklwos.finetv.tv:9906/59fd08fd000707490237995b3c9f2775
+三立综合台,P2p://sdgdklwos.finetv.tv:9906/59fd27240003732f02ad60c95d8e10a7
+华艺影剧台,P2p://sdgdklwos.finetv.tv:9906/59fd2a8b000cb57f02baad731b97024c
+华纳电视台,P2p://sdgdklwos.finetv.tv:9906/5a321796000072dfd4b2057134a263e5
+华视教体台,P2p://sdgdklwos.finetv.tv:9906/59fd23240005c9a4029dc1561885012e
+寰宇新闻2,P2p://sdgdklwos.finetv.tv:9906/5a142744000f25045fbe6f82276e0d88
+寰宇新闻台,P2p://sdgdklwos.finetv.tv:9906/59fd2b5e0006d13802bde4340bc41e87
+寰宇财经台,P2p://sdgdklwos.finetv.tv:9906/59fd2b98000b4fba02bec7ed4c560211
+寰宇综合台,P2p://sdgdklwos.finetv.tv:9906/59fd383a000db1c102f021590c272f6e
+靖天电影台,P2p://sdgdklwos.finetv.tv:9906/59fd358c00069b9502e5a7d404d940d2
+靖天国际台,P2p://sdgdklwos.finetv.tv:9906/59fd32c800056a3402dad9e646096d29
+靖天卡通台,P2p://sdgdklwos.finetv.tv:9906/59fd38e0000de06a02f2a9c951a975a6
+靖天戏剧台,P2p://sdgdklwos.finetv.tv:9906/59fd36f80009b75202eb367f603a273f
+靖天映画台,P2p://sdgdklwos.finetv.tv:9906/59fd3565000a788d02e5107642590dce
+靖天育乐台,P2p://sdgdklwos.finetv.tv:9906/59fd3068000ea26902d195477bc86f19
+靖洋戏剧台,P2p://sdgdklwos.finetv.tv:9906/59fd259600089bb202a74f6123416e8d
+民视台湾台,P2p://sdgdklwos.finetv.tv:9906/59fd0670000decc5022da459628c3d1a
+民视新闻台,P2p://sdgdklwos.finetv.tv:9906/59fd05930008403b022a439a3b9b7401
+卫视电影台,P2p://sdgdklwos.finetv.tv:9906/59fd0369000ea5750221d12f32a532b8
+卫视合家欢,P2p://sdgdklwos.finetv.tv:9906/59fd14190000e1040262fd2560d91f69
+卫视西片台,P2p://sdgdklwos.finetv.tv:9906/59fd1475000301e1026465123e2e3650
+卫视中文台,P2p://sdgdklwos.finetv.tv:9906/59fd0394000660a0022277050be47b46
+中视经典台,P2p://sdgdklwos.finetv.tv:9906/59fd09bd0002ab6d023a86337415321a
+中视新闻台,P2p://sdgdklwos.finetv.tv:9906/59fd2282000219b8029b479b6fc21d86
+中天新闻台,P2p://sdgdklwos.finetv.tv:9906/59fd05020006070602280c953c2545e6
+中天亚洲台,P2p://sdgdklwos.finetv.tv:9906/59fd05260002b0730228985b2c380c8a
+中天娱乐台,P2p://sdgdklwos.finetv.tv:9906/59fd049e0006fb6e0226863427c16955
+中天综合台,P2p://sdgdklwos.finetv.tv:9906/59fd04bc00059d610226fb164a845fa5
+TVBS 欢乐台,P2p://sdgdklwos.finetv.tv:9906/59fd20ae000635720294248563346fd6
+TVBS 精采台,P2p://sdgdklwos.finetv.tv:9906/59fd250f000aa01602a54096673b0f2a
+TVBS 新闻台,P2p://sdgdklwos.finetv.tv:9906/59fd096d0003aa9702394e013b6206a2
+FOX娱乐综合,P2p://sdgdklwos.finetv.tv:9906/59fd14cf000321f60265c4a24ca93407
+FOX家庭影院,P2p://sdgdklwos.finetv.tv:9906/59fd229f000615aa029bb9ed79916213
+FOX警匪电影,P2p://sdgdklwos.finetv.tv:9906/59fd14ae0007a794026544e32f606291
+FOX优质电影,P2p://sdgdklwos.finetv.tv:9906/59fd246a0009125502a2bba01b0f4bf5
+HBO强档巨献,P2p://sdgdklwos.finetv.tv:9906/59fd22e50004a1f8029ccaff41480126
+HBO原创巨献,P2p://sdgdklwos.finetv.tv:9906/59fd14fc0005019f026674e730ed03b5
+
+
 东森财经,vjms://58.215.133.185:8500:3502/live/cid=456#vjms://121.14.222.75:8500:3502/live/cid=456#p8p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts#vjms://23.237.33.155:8500:3502/live/cid=456
 非凡新闻,vjms://58.215.133.185:8500:3502/live/cid=443#vjms://121.14.222.75:8500:3502/live/cid=443#p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts#vjms://23.237.33.155:8500:3502/live/cid=443
 三立新闻,vjms://58.215.133.185:8500:3502/live/cid=352#vjms://121.14.222.75:8500:3502/live/cid=352#vjms://23.237.33.155:8500:3502/live/cid=352
@@ -624,22 +689,4 @@ MV,#genre#
 水长城镜头四,https://gccncc.v.wscdns.com/gc/wgw04_1/index.m3u8?contentid=2820180516001
 狮子山鸟瞰古城,https://gccncc.v.wscdns.com/gc/ljgcszsnkgc_1/index.m3u8?contentid=2820180516001
 远眺玉龙雪山,https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8?contentid=2820180516001
-大研花巷景观台,https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8?contentid=2820180516001
-峨眉云海日出,https://gctxyc.liveplay.myqcloud.com/gc/emsarm_1/index.m3u8?contentid=2820180516001
-贡嘎雪山,https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1/index.m3u8?contentid=2820180516001
-远眺万佛顶,https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8?contentid=2820180516001
-普贤菩萨像,https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8?contentid=2820180516001
-乐山大佛全景,https://gccncc.v.wscdns.com/gc/lsdfgfl_1/index.m3u8?contentid=2820180516001
-悬空寺全景,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8?contentid=2820180516001
-恒宗,https://gcalic.v.myalicdn.com/gc/hsxkssqdzrqj_1/index.m3u8?contentid=2820180516001
-悬空寺侧景,https://gcalic.v.myalicdn.com/gc/hsxkscj_1/index.m3u8?contentid=2820180516001
-天涯鸟瞰,https://gctxyc.liveplay.myqcloud.com/gc/tyhjtynl_1/index.m3u8?contentid=2820180516001
-天涯石,https://gctxyc.liveplay.myqcloud.com/gc/tyhjtys_1/index.m3u8?contentid=2820180516001
-南天一柱,https://gctxyc.liveplay.myqcloud.com/gc/tyhjntyz_1/index.m3u8?contentid=2820180516001
-日月石,https://gccncc.v.wscdns.com/gc/tyhjrys_1/index.m3u8?contentid=2820180516001
-雪乡大石碑,https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8?contentid=2820180516001
-雪乡梦幻家园,https://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1/index.m3u8?contentid=2820180516001
-观景台,https://gccncc.v.wscdns.com/gc/mdjxxmhjygjt_1/index.m3u8?contentid=2820180516001
-嘉峪关长城,https://gctxyc.liveplay.myqcloud.com/gc/jyg04_1/index.m3u8?contentid=2820180516001
-大水库,https://gccncc.v.wscdns.com/gc/ljgcdsc_1/index.m3u8?contentid=2820180516001
-
+大研花巷景观台,https://gcalic.v.myalicdn.com/gc/ljgcdy
