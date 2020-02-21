@@ -60,6 +60,11 @@ CCTV17,http://112.50.243.5/PLTV/88888888/224/3221226990/1.m3u8
 CCTV17,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
 广西卫视,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000294203.m3u8
 四川卫视,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000295003.m3u8
+甘肃少儿,http://117.156.28.119/270000001111/1110000071/index.m3u8
+甘肃经济,http://117.156.28.119/270000001111/1110000070/index.m3u8
+甘肃都市,http://117.156.28.119/270000001111/1110000068/index.m3u8
+
+
 
 CCTV1,http://211.137.115.110:8080/gitv_live/G_CCTV-1-MD/G_CCTV-1-MD.m3u8
 CCTV2,http://211.137.115.110:8080/gitv_live/G_CCTV-2-MD/G_CCTV-2-MD.m3u8
@@ -68,14 +73,8 @@ CCTV3,http://211.137.115.110:8080/gitv_live/G_CCTV-3-HD/G_CCTV-3-HD.m3u8
 CCTV5,http://211.137.115.110:8080/gitv_live/G_CCTV-5-HD/G_CCTV-5-HD.m3u8
 CCTV6,http://211.137.115.110:8080/gitv_live/G_CCTV-6-HD/G_CCTV-6-HD.m3u8
 CCTV8,http://211.137.115.110:8080/gitv_live/G_CCTV-8-HD/G_CCTV-8-HD.m3u8
-
-
-
 CCTV11,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-11/1.m3u8
-
 CCTV13,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/013/2000204603.m3u8
-
-
 CCTV15,http://39.135.34.151:18890/000000001000/1000000002000008163/1.m3u8?
 CCTV16,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 
