@@ -63,8 +63,7 @@ CCTV17,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
 甘肃少儿,http://117.156.28.119/270000001111/1110000071/index.m3u8
 甘肃经济,http://117.156.28.119/270000001111/1110000070/index.m3u8
 甘肃都市,http://117.156.28.119/270000001111/1110000068/index.m3u8
-
-
+甘肃影视,http://117.156.28.119/270000001111/1110000067/index.m3u8
 
 CCTV1,http://211.137.115.110:8080/gitv_live/G_CCTV-1-MD/G_CCTV-1-MD.m3u8
 CCTV2,http://211.137.115.110:8080/gitv_live/G_CCTV-2-MD/G_CCTV-2-MD.m3u8
@@ -171,6 +170,21 @@ CGTN,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225822/index.m3u8
 冬奥纪实,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/1.m3u8
 纪实人文,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225946/1.m3u8
 
+DOX新知,http://106.12.152.67/aadfdddd.php?id=8df92ef18e714e80bc302723d5e933ee
+DOX新艺,http://106.12.152.67/aadfdddd.php?id=3fec5428637fe3d00cea8deb981ca71c
+DOX怡家,http://106.12.152.67/aadfdddd.php?id=9c6e3fd0b37dd8b7e4bc1f06c44cb6cf
+DOX英伦,http://106.12.152.67/aadfdddd.php?id=21e5f6a02640bf440df4c079b4c3ad23
+DOX院线,http://106.12.152.67/aadfdddd.php?id=8a7d213b10550559a073db188d08d5f7
+DOX映画,http://106.12.152.67/aadfdddd.php?id=e16878a022c216b17975299a9ac369dc
+DOX美剧,http://106.12.152.67/aadfdddd.php?id=1c639fe68ed5de6804966813425bdccd
+DOX雅趣,http://106.12.152.67/aadfdddd.php?id=98a5538384f14ca487ca96786a441bbe
+ICS,http://117.156.28.21/PLTV/88888888/224/3221225639/index.m3u8
+生活时尚,http://117.156.28.21/PLTV/88888888/224/3221225703/index.m3u8
+求索记录,http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
+求索记录,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
+求索科学,http://112.17.40.200/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
+求索动物,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
+
 电信高清,#genre#
 CETV4教育,http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8
 邳州综合频道,http://stream.pznews.com/pztv1/sd/live.m3u8
@@ -218,20 +232,6 @@ CGTN,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 重庆卫视,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
 安徽卫视,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
 
-DOX新知,http://106.12.152.67/aadfdddd.php?id=8df92ef18e714e80bc302723d5e933ee
-DOX新艺,http://106.12.152.67/aadfdddd.php?id=3fec5428637fe3d00cea8deb981ca71c
-DOX怡家,http://106.12.152.67/aadfdddd.php?id=9c6e3fd0b37dd8b7e4bc1f06c44cb6cf
-DOX英伦,http://106.12.152.67/aadfdddd.php?id=21e5f6a02640bf440df4c079b4c3ad23
-DOX院线,http://106.12.152.67/aadfdddd.php?id=8a7d213b10550559a073db188d08d5f7
-DOX映画,http://106.12.152.67/aadfdddd.php?id=e16878a022c216b17975299a9ac369dc
-DOX美剧,http://106.12.152.67/aadfdddd.php?id=1c639fe68ed5de6804966813425bdccd
-DOX雅趣,http://106.12.152.67/aadfdddd.php?id=98a5538384f14ca487ca96786a441bbe
-ICS,http://117.156.28.21/PLTV/88888888/224/3221225639/index.m3u8
-生活时尚,http://117.156.28.21/PLTV/88888888/224/3221225703/index.m3u8
-求索记录,http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
-求索记录,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
-求索科学,http://112.17.40.200/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
-求索动物,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
 
 
 
