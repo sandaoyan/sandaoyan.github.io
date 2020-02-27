@@ -47,23 +47,20 @@ CCTV11,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
 山东卫视,http://223.110.243.170/PLTV/1/224/3221227517/index.m3u8
 CCTV12,http://211.137.115.110:8080/gitv_live/G_CCTV-12-HD/G_CCTV-12-HD.m3u8
 CCTV12,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
-河南卫视,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000296103.m3u8
+甘肃都市,http://117.156.28.119/270000001111/1110000068/index.m3u8
 CCTV13,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
-河北卫视,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000293403.m3u8
+甘肃影视,http://117.156.28.119/270000001111/1110000067/index.m3u8
 CCTV14,http://211.137.115.110:8080/gitv_live/G_CCTV-14-HD/G_CCTV-14-HD.m3u8
 CCTV14,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
-贵州卫视,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000293303.m3u8
+甘肃经济,http://117.156.28.119/270000001111/1110000070/index.m3u8
 CCTV15,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
 CCTV15,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
-东南卫视,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000292503.m3u8
+东南卫视,http://117.169.124.37:6610/ysten-businessmobile/live/dongnanstv/yst.m3u8
 CCTV17,http://112.50.243.5/PLTV/88888888/224/3221226990/1.m3u8
 CCTV17,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
-广西卫视,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000294203.m3u8
-四川卫视,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000295003.m3u8
 甘肃少儿,http://117.156.28.119/270000001111/1110000071/index.m3u8
-甘肃经济,http://117.156.28.119/270000001111/1110000070/index.m3u8
-甘肃都市,http://117.156.28.119/270000001111/1110000068/index.m3u8
-甘肃影视,http://117.156.28.119/270000001111/1110000067/index.m3u8
+
+
 
 CCTV1,http://211.137.115.110:8080/gitv_live/G_CCTV-1-MD/G_CCTV-1-MD.m3u8
 CCTV2,http://211.137.115.110:8080/gitv_live/G_CCTV-2-MD/G_CCTV-2-MD.m3u8
@@ -91,7 +88,7 @@ CCTV16,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 山东卫视,http://211.137.115.110:8080/gitv_live/G_SHANDONG-MD/G_SHANDONG-MD.m3u8
 东方卫视,http://211.137.115.110:8080/gitv_live/G_DONGFANG-MD/G_DONGFANG-MD.m3u8
 北京卫视,http://211.137.115.110:8080/gitv_live/G_BEIJING-MD/G_BEIJING-MD.m3u8
-东南卫视,http://117.169.124.37:6610/ysten-businessmobile/live/dongnanstv/yst.m3u8
+
 厦门卫视,http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
 厦门-2,http://112.50.243.8/PLTV/88888888/224/3221226777/1.m3u8
 无锡都市资讯,http://live-wx.wifiwx.com/wxtv3/sd/live.m3u8
@@ -136,6 +133,14 @@ CGTN,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 辽宁卫视,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000281303.m3u8
 重庆卫视,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
 安徽卫视,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
+东南卫视,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000292503.m3u8
+河南卫视,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000296103.m3u8
+河北卫视,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000293403.m3u8
+贵州卫视,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000293303.m3u8
+广西卫视,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000294203.m3u8
+四川卫视,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000295003.m3u8
+
+
 
 CCTV1,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8
 CCTV2,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
@@ -178,12 +183,13 @@ DOX院线,http://106.12.152.67/aadfdddd.php?id=8a7d213b10550559a073db188d08d5f7
 DOX映画,http://106.12.152.67/aadfdddd.php?id=e16878a022c216b17975299a9ac369dc
 DOX美剧,http://106.12.152.67/aadfdddd.php?id=1c639fe68ed5de6804966813425bdccd
 DOX雅趣,http://106.12.152.67/aadfdddd.php?id=98a5538384f14ca487ca96786a441bbe
-ICS,http://117.156.28.21/PLTV/88888888/224/3221225639/index.m3u8
+
 生活时尚,http://117.156.28.21/PLTV/88888888/224/3221225703/index.m3u8
 求索记录,http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
 求索记录,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
 求索科学,http://112.17.40.200/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
 求索动物,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
+ICS,http://117.156.28.21/PLTV/88888888/224/3221225639/index.m3u8
 
 电信高清,#genre#
 CETV4教育,http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8
@@ -244,7 +250,13 @@ CCTV4K,http://cdn-in.iqy.sc96655.com/tslive/c214_scc_20190618_pr3jsp04_original_
 动漫秀场,http://cdn-in.iqy.sc96655.com/tslive/c212_scc_20190618_0ao2empo_original_r10/c212_scc_20190618_0ao2empo_original_r10.m3u8&
 都市剧场,http://cdn-in.iqy.sc96655.com/tslive/c214_scc_20190618_4lpqgfgj_original_r10/c214_scc_20190618_4lpqgfgj_original_r10.m3u8&
 
-
+LOVE NATURE 4K UHD,http://dmitry-tv.ru/his/itv_zabava/CH_LOVENATURE4K_HLSUHD.m3u8
+Eurosport4K UHD,http://dmitry-tv.ru/his/itv_zabava/CH_EUROSPORT4K_HLSUHD.m3u8
+Russian Extreme Ultra UHD,http://dmitry-tv.ru/his/itv_zabava/CH_RUSSIANEXTREMEULTRA_HLSUHD.m3u8
+KINO.WATCH UHD 4K,https://or-be-01.mycdn.video/watch/4k/index.m3u8?token=NJAZAMYQLP
+Ultra HD Cinema UHD,http://dmitry-tv.ru/his/itv_zabava/CH_ULTRAHDCINEMA_HLSUHD.m3u8
+One.by 4K,http://rtmp.one.by:1499
+Кино UHD,http://188.35.9.18:16050/udp/238.0.16.1:69000
 
 港澳台,#genre#
 RTHK31,P2p://sdgdklwos.finetv.tv:9906/5b1ea0dc000bba59d03063fa2f1a513c
