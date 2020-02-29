@@ -741,9 +741,5 @@ HOT星颜,p2p://51.79.41.138:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts
 潘多拉粉红,p2p://51.79.41.138:18912/5c18f90c000e8229c074606a15084f35.ts.ts
 潘多拉完美,p2p://51.79.41.138:18912/5c18f905000c08fbc07444661e2e685e.ts.ts
 青春乐园台,p8p://0198.02686.cc:16871/5d25b7e6000a7b120a2fc6c21324f51c.ts
-日韩高清1,https://www.800-cdn.com/20191104/E1HxL2k9/index.m3u8
-日韩高清2,https://www.800-cdn.com/20191104/BmPJsJib/index.m3u8
-日韩高清3,https://www.800-cdn.com/20191104/FOYD2Arr/index.m3u8
-日韩高清4,https://www.800-cdn.com/20191104/xWsSpVkx/index.m3u8
-日韩高清5,https://www.800-cdn.com/20191104/QLNa0Ar4/index.m3u8
+
 
