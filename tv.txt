@@ -513,11 +513,9 @@ MV,#genre#
 孟庭苇-无声的雨,http://vodcdn.video.taobao.com/oss/ali-video/d404a897abb4526c94bb5f72dc566952/video.m3u8
 孟庭苇-谁的眼泪在飞,http://vodcdn.video.taobao.com/oss/ali-video/bfcfddb1694a43957962294c2f75bdfb/video.m3u8
 裘正海-爱我的人和我爱的人,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/9Nbjzo7cialBKOcZ0fj%40%40hd.m3u8
-谢霆锋-谢谢你的爱1999,http://hc.yinyuetai.com/uploads/videos/common/3212013BC39F125BE5CCD30A6C88B0B2.flv
-徐怀钰-分飞,http://hc.yinyuetai.com/uploads/videos/common/3E25016111C430FE83D21924E28B6E9A.mp4
 大壮-我们不一样,http://vodcdn.video.taobao.com/oss/taobao-ugc/9572871aa45747a786679a822d7e2709/1511859261/video.m3u8.m3u8
 王心凌-第一次爱的人,http://vodcdn.video.taobao.com/oss/ali-video/ca36ac1783434eb19f59aadd056b05e1/1457686780/video.m3u8.m3u8
-王心凌-我会好好的,http://vodcdn.video.taobao.com/oss/ali-video/8f327fd6bce61d0cf4159601a64b395b/video.m3u8
+王心凌-我会好好的,http://vodcdn.video.taobao.com/oss/ali-video/8f327fd6bce61d0cf4159601a64b395b/video.m3u8 
 谭咏麟-披着羊皮的狼,http://hc.yinyuetai.com/uploads/videos/common/6779015644E6F25729F99A1AC217CB3D.flv
 誓言-求佛,http://vodcdn.video.taobao.com/oss/ali-video/f4f761d970399f186ce1f9ac6d009721/video.m3u8
 许茹芸-独角戏,http://vodcdn.video.taobao.com/oss/ali-video/5333f389ce940d0a2c1dd6090927746c/video.m3u8
@@ -527,15 +525,10 @@ MV,#genre#
 任齐贤-心太软,http://vodcdn.video.taobao.com/oss/ali-video/1675208d8b5f0f0d8ce09236f4068dfe/video.m3u8
 周华健-朋友,http://vodcdn.video.taobao.com/oss/ali-video/6079de4355c45a42073ead75954c1b2f/video.m3u8
 周华健-风雨无阻,http://vodcdn.video.taobao.com/oss/ali-video/8d77795bdc63d87125ba47f993e0bfb4/video.m3u8
-周慧敏-痴心换情深,http://vodcdn.video.taobao.com/oss/ali-video/aa07f0b5c8a36740b3bee03d69a4116c/video.m3u8
 胡杨林-香水有毒,http://vodcdn.video.taobao.com/oss/ali-video/180f9fcdb9e2b24d3b13a526fb90003e/video.m3u8
-艾歌-一生中最爱的人,http://vodcdn.video.taobao.com/oss/ali-video/7506ddfc8f692a7cda1b2ef73531f78b/video.m3u8
-梁静茹-勇气,http://vodcdn.video.taobao.com/oss/ali-video/f501ffc81da040099b17fb1db30b92fe/1462937648/video.m3u8.m3u8
 光良-童话,http://vodcdn.video.taobao.com/oss/ali-video/e2c54a5b89aaa794cfc186c41d2ef348/video.m3u8
-光良-第一次,http://vodcdn.video.taobao.com/oss/ali-video/fe68ff471420aaefcb3a7f4f413ad3f4/video.m3u8
 王杰-说谎的爱人,http://vodcdn.video.taobao.com/oss/ali-video/c018ec304eb6566b56d7f0b85c77b473/video.m3u8
 张韶涵-隐形的翅膀,http://hc.yinyuetai.com/uploads/videos/common/455E01477E887FC3AE6A4A6D24E8ACA3.flv
-许志安-为什么你背着我爱别人,http://hc.yinyuetai.com/uploads/videos/common/AFB30131EE1D4935CDD9541A4C8E755D.flv
 刘德华-冰雨,http://hc.yinyuetai.com/uploads/videos/common/D481012EF1292CE964F50001DD7A8EDD.flv
 周传雄-黄昏,http://hc.yinyuetai.com/uploads/videos/common/62BF012CD3BD538CDF884505277BB594.flv
 小虎队-青苹果乐园,http://hc.yinyuetai.com/uploads/videos/common/5366_xiaohudui_qingpingguoleyuan.flv
@@ -547,7 +540,6 @@ MV,#genre#
 云菲菲-邂逅,http://hc.yinyuetai.com/uploads/videos/common/6B5E01454A6A1F7CDF329DDD8555465F.flv
 车静子-其实我很在乎你,http://hc.yinyuetai.com/uploads/videos/common/2E65A4BBCC10E118BAFFF065BEDDE793.flv
 宇桐非-感动天感动地,http://hc.yinyuetai.com/uploads/videos/common/187FF81F1570ECF47CD31DCD046C48E9.flv
-张惠妹-听海,http://vodcdn.video.taobao.com/oss/ali-video/c105aa7685c54fbfa74b92e8cc88a3e3/1457681472/video.m3u8.m3u8
 张惠妹-我可以抱你吗,http://vodcdn.video.taobao.com/oss/taobao-ugc/f4428d3e798c4d279f90ba68a5b06dfa/1520326486/video.m3u8.m3u8
 许佳慧-预谋,http://hc.yinyuetai.com/uploads/videos/common/E9C80142C0ED347A6460A5E6C04DBD03.flv
 潘美辰-我想有个家,http://hc.yinyuetai.com/uploads/videos/common/65F12DFEEC9365050E3FFD906F4500FD.flv
