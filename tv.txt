@@ -704,7 +704,7 @@ MV,#genre#
 远眺玉龙雪山,https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8?contentid=2820180516001
 大研花巷景观台,https://gcalic.v.myalicdn.com/gc/ljgcdy
 
-OOO,#genre#
+OOO_520,#genre#
 K频道,p8p://0198.02686.cc:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
 HAPPY,p2p://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
 拉风台,p8p://0198.02686.cc:16871/5d25b7e6000300ff0a2fc4d86a4b3abf.ts
