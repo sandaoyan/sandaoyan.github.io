@@ -232,7 +232,7 @@ CGTN,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 辽宁卫视,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000281303.m3u8
 重庆卫视,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
 安徽卫视,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
-
+CCTV15,rtsp://zb4.iptv.gd.cn.fastcdn.com/PLTV/88888905/224/3221229902/10000100000000060000000010595397_0.smil?icpid=88888888
 
 LOVE NATURE 4K UHD,http://dmitry-tv.ru/his/itv_zabava/CH_LOVENATURE4K_HLSUHD.m3u8
 Eurosport4K UHD,http://dmitry-tv.ru/his/itv_zabava/CH_EUROSPORT4K_HLSUHD.m3u8
