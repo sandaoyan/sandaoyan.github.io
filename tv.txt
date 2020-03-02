@@ -230,25 +230,6 @@ CGTN,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 重庆卫视,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
 安徽卫视,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
 
-快乐垂钓,http://cdn-in.iqy.sc96655.com/tslive/c214_scc_20190618_fq3c2esl_original_r10/c214_scc_20190618_fq3c2esl_original_r10.m3u8&
-CHC高清电影,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190618_ek4k254b_original_r10/c211_scc_20190618_ek4k254b_original_r10.m3u8&
-CHC家庭影院,http://cdn-in.iqy.sc96655.com/tslive/c212_scc_20190618_q0ktot1t_original_r10/c212_scc_20190618_q0ktot1t_original_r10.m3u8&
-CHC动作电影,http://cdn-in.iqy.sc96655.com/tslive/c213_scc_20190618_wzkayvu1_original_r10/c213_scc_20190618_wzkayvu1_original_r10.m3u8&
-欢笑剧场,http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190618_zfhmkt12_original_r10/c211_scc_20190618_zfhmkt12_original_r10.m3u8&
-CCTV4K,http://cdn-in.iqy.sc96655.com/tslive/c214_scc_20190618_pr3jsp04_original_r10/c214_scc_20190618_pr3jsp04_original_r10.m3u8&
-吉林卫视,http://cdn-in.iqy.sc96655.com/tslive/c213_scc_20190618_a3rpna2i_original_r10/c213_scc_20190618_a3rpna2i_original_r10.m3u8&
-生活时尚,http://cdn-in.iqy.sc96655.com/tslive/c212_scc_20190618_vrqwjwec_original_r10/c212_scc_20190618_vrqwjwec_original_r10.m3u8&
-极速汽车,http://cdn-in.iqy.sc96655.com/tslive/c214_scc_20190618_foyfbby2_original_r10/c214_scc_20190618_foyfbby2_original_r10.m3u8&
-动漫秀场,http://cdn-in.iqy.sc96655.com/tslive/c212_scc_20190618_0ao2empo_original_r10/c212_scc_20190618_0ao2empo_original_r10.m3u8&
-都市剧场,http://cdn-in.iqy.sc96655.com/tslive/c214_scc_20190618_4lpqgfgj_original_r10/c214_scc_20190618_4lpqgfgj_original_r10.m3u8&
-CCTV15,rtsp://zb4.iptv.gd.cn.fastcdn.com/PLTV/88888905/224/3221229902/10000100000000060000000010595397_0.smil?icpid=88888888
-广西卫视,rtsp://183.58.12.204/PLTV/88888905/224/3221227148/10000100000000060000000000937768_0.smil
-贵州卫视,rtsp://183.58.12.204/PLTV/88888905/224/3221227125/10000100000000060000000000937773_0.smil
-河北卫视,rtsp://183.58.12.204/PLTV/88888905/224/3221227128/10000100000000060000000000937776_0.smil
-河南卫视,rtsp://183.58.12.204/PLTV/88888905/224/3221227093/10000100000000060000000000937769_0.smil
-黑龙江卫视,rtsp://183.58.12.204/PLTV/88888905/224/3221227302/10000100000000060000000001141347_0.smil
-
-
 
 LOVE NATURE 4K UHD,http://dmitry-tv.ru/his/itv_zabava/CH_LOVENATURE4K_HLSUHD.m3u8
 Eurosport4K UHD,http://dmitry-tv.ru/his/itv_zabava/CH_EUROSPORT4K_HLSUHD.m3u8
