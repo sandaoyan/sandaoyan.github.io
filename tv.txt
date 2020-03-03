@@ -54,7 +54,7 @@ CCTV11,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
 CCTV12,http://211.137.115.110:8080/gitv_live/G_CCTV-12-HD/G_CCTV-12-HD.m3u8
 CCTV12,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
 甘肃都市,http://117.156.28.119/270000001111/1110000068/index.m3u8
-CCTV13,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+CCTV13,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 甘肃影视,http://117.156.28.119/270000001111/1110000067/index.m3u8
 CCTV14,http://211.137.115.110:8080/gitv_live/G_CCTV-14-HD/G_CCTV-14-HD.m3u8
 CCTV14,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
@@ -76,7 +76,6 @@ CCTV5,http://211.137.115.110:8080/gitv_live/G_CCTV-5-HD/G_CCTV-5-HD.m3u8
 CCTV6,http://211.137.115.110:8080/gitv_live/G_CCTV-6-HD/G_CCTV-6-HD.m3u8
 CCTV8,http://211.137.115.110:8080/gitv_live/G_CCTV-8-HD/G_CCTV-8-HD.m3u8
 CCTV11,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-11/1.m3u8
-CCTV13,http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/013/2000204603.m3u8
 CCTV15,http://39.135.34.151:18890/000000001000/1000000002000008163/1.m3u8?
 CCTV16,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 
@@ -99,10 +98,6 @@ CCTV16,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 厦门-2,http://112.50.243.8/PLTV/88888888/224/3221226777/1.m3u8
 无锡都市资讯,http://live-wx.wifiwx.com/wxtv3/sd/live.m3u8
 无锡新闻综合,http://live-wx.wifiwx.com/wxtv1/sd/live.m3u8
-武汉新闻,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000215.m3u8
-湖北公共,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000148.m3u8
-湖北综合,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000146.m3u8
-湖北经视,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000145.m3u8
 哈尔滨新闻,http://39.134.65.162/PLTV/88888888/224/3221225684/index.m3u8
 都市剧场,http://112.17.40.140/PLTV/88888888/224/3221226825/index.m3u8
 上海电视剧,http://117.156.28.21/PLTV/88888888/224/3221225654/index.m3u8
@@ -232,7 +227,15 @@ CGTN,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 辽宁卫视,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000281303.m3u8
 重庆卫视,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
 安徽卫视,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
+
+武汉新闻,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000215.m3u8
+湖北公共,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000148.m3u8
+湖北综合,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000146.m3u8
+湖北经视,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000145.m3u8
+
+
 CCTV15,rtsp://zb4.iptv.gd.cn.fastcdn.com/PLTV/88888905/224/3221229902/10000100000000060000000010595397_0.smil?icpid=88888888
+
 广东综艺4K,sop://p2p.52itv.cn:80/10071$P2P-4K
 
 LOVE NATURE 4K UHD,http://dmitry-tv.ru/his/itv_zabava/CH_LOVENATURE4K_HLSUHD.m3u8
