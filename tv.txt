@@ -54,6 +54,7 @@ CCTV11,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
 CCTV12,http://211.137.115.110:8080/gitv_live/G_CCTV-12-HD/G_CCTV-12-HD.m3u8
 CCTV12,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
 甘肃都市,http://117.156.28.119/270000001111/1110000068/index.m3u8
+CCTV13,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/013/2000204603.m3u8
 CCTV13,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 甘肃影视,http://117.156.28.119/270000001111/1110000067/index.m3u8
 CCTV14,http://211.137.115.110:8080/gitv_live/G_CCTV-14-HD/G_CCTV-14-HD.m3u8
