@@ -369,23 +369,9 @@ FOX_SPORTS_3,tvbus://3h9WDkiGgWhPQECA8QZyqRT2xUtGv6uHd2LRav4Ss18NFcw7QD
 華藝綜合,tvbus://3kAYoypFJJ9BSzSrCkPp4NGVsxpZHAHdKH4Y8VP5zhMaEV5aq4
 華藝影劇,tvbus://41S7x6cJ4C73CTCZTrvbD6MH7NTewtWMeVVwJpNbwUunHyKUA4
 CHC家庭影院,tvbus://4DhHcFhaMMQY6x3Xxu79GBEUSzFHN5CYRL7oNBijfLiasXqMop
-都市频道,tvbus://4Sckyqi5Y22navQj9PzmPKGhyiVfT8VAtAbX3Gkb4ytbhuESb2
 CHC动作电影,tvbus://3YyQthnHA5QrbEqDgnrP3CWosSwBw2s9fjazLmbCpJ7ve8crUR
-OASIS,tvbus://3Jx1wQsrZd3Uv75cnoqab8Fz3HeN9xrYQ3zTTL9Nh8URtbnhKh
-ASTRO_WARNA,tvbus://4XsZxBHzPETYWH1iBGHEdB9PMbDgddv3tQuH1JmtiQ3zgqJoPX
-OKEY,tvbus://3wkYcCwYLYRR5eWDHcvpyiJwtnFC1gm1WK2Ypov1AVWMiS1w3W
-爱奇艺,tvbus://3KdQmsHHv9grz9X5HeAPsWjjXvaXqSpCMYoQioBhLoMMahvcWv
-AEC,tvbus://4SVuMUx64b1gZV6BvWTdes5Cg5nSZYZUnRv9WuJ9LPhp2ShMtd
-Alhijrah,tvbus://4poycUWuX8Rvf1PNTFqcWxXNnZ2Y37npRutioUbuJ8jJzun3Us
-GO_SHOP,tvbus://3i5S2mXxzPywwTy3wm4YetMn26W7oimXKwUwC88Upu76bfpxBX
-VAS,tvbus://4jgEgsueqv55499n1Qm3m23n9mcbbXQtHkQepBetA31hgZHpmm
 雙星,tvbus://3rFiNJAz46rgSXmmemXZieEhw9YUpYFq8NUKrvjxD1m97aHpeb
-全佳,tvbus://4dA1qX1qx8xrrtsHFBKMWwg4QoExX2zc1cjryeZ8bVgvgoqsEw
-華麗,tvbus://3PyTZ1jHC9ySsB4ASkAQEeW7YfYFm7vFC2GnyJ1eXw18ip8hRW
-天映頻道,tvbus://4WHQf76S15vRHHESSF71mw9YbgeRMVe3iea5oMMGYNFpUZYJqZ
-小太陽,tvbus://4avfh6CcWiNL93LQXXonnrwCcjTUzA6UEqzFmwvnispAr1BTLM
 歡喜,tvbus://3WeW4xwpMtbuMxdfjmCXETEaw7pzZj8dAWYSoGZ3g4bRvYkCk7
-
 
 
 
