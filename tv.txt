@@ -188,7 +188,8 @@ CGTN,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 湖北公共,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000148.m3u8
 湖北综合,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000146.m3u8
 湖北经视,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000145.m3u8
-
+CHC家庭影院,tvbus://4DhHcFhaMMQY6x3Xxu79GBEUSzFHN5CYRL7oNBijfLiasXqMop
+CHC动作电影,tvbus://3YyQthnHA5QrbEqDgnrP3CWosSwBw2s9fjazLmbCpJ7ve8crUR
 
 广东综艺4K,sop://p2p.52itv.cn:80/10071$P2P-4K
 
@@ -201,14 +202,9 @@ One.by 4K,http://rtmp.one.by:1499
 Кино UHD,http://188.35.9.18:16050/udp/238.0.16.1:69000
 
 港澳台,#genre#
-CCTV6,tvbus://3CoPxRmmTMCs1MjizH59JSPAaCBUDyhKLNZruwkhcWJi4Pbe1W
-CCTV7,tvbus://3P7rrSz8eX8pvpbPwRL3tPMDQpMpK1tt9SHy7suoDjk57nnd4G
-CCTV8,tvbus://3bvffG3qZCPYyMUsjxEhMdZV9syFE12r9SE7zKANdeGJPYACis
 RTHK31,P2p://sdgdklwos.finetv.tv:9906/5b1ea0dc000bba59d03063fa2f1a513c
 RTHK32,P2p://sdgdklwos.finetv.tv:9906/5b1ea120000af380d0316d6b59657817
 凤凰电影,rtmp://58.200.131.2:1935/livetv/fhdy
-凤凰资讯,http://liveali.ifeng.com/live/FHZX.m3u8
-凤凰中文,http://liveali.ifeng.com/live/FHZW.m3u8
 凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 天映经典,P2p://sdgdklwos.finetv.tv:9906/5b2e01c400098d0f0c42edad22c37385
 天映频道,P2p://sdgdklwos.finetv.tv:9906/5b2f1ee9000d3e3d109cc71f4b240eb3
