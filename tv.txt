@@ -201,6 +201,9 @@ One.by 4K,http://rtmp.one.by:1499
 Кино UHD,http://188.35.9.18:16050/udp/238.0.16.1:69000
 
 港澳台,#genre#
+CCTV6,tvbus://3CoPxRmmTMCs1MjizH59JSPAaCBUDyhKLNZruwkhcWJi4Pbe1W
+CCTV7,tvbus://3P7rrSz8eX8pvpbPwRL3tPMDQpMpK1tt9SHy7suoDjk57nnd4G
+CCTV8,tvbus://3bvffG3qZCPYyMUsjxEhMdZV9syFE12r9SE7zKANdeGJPYACis
 RTHK31,P2p://sdgdklwos.finetv.tv:9906/5b1ea0dc000bba59d03063fa2f1a513c
 RTHK32,P2p://sdgdklwos.finetv.tv:9906/5b1ea120000af380d0316d6b59657817
 凤凰电影,rtmp://58.200.131.2:1935/livetv/fhdy
