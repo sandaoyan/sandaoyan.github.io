@@ -237,9 +237,7 @@ Bloomberg_TV,tvbus://4NCJaSMkQybVWogPxfg6yCNTrGGFVUFMqecmoY1X9ignQ237T7
 客家衛視,tvbus://3EL4D3mz9YFWnp7QkkVyiuMXf5XnjF5rhN15UZEgYme8d3BP5i
 國家地理高畫質頻道,tvbus://4rCzF92tpigEaTDyFzUYgZox2deV8MRNanzviXfVbUsiJCWP49
 探索頻道,tvbus://3YTQyx5qi6o9dtJF1aoqCdPvaTb3EyE37w4EkeWwxESzBMe7EE
-TLC旅遊生活_HD,tvbus://4PHzrFyKUaoX7wSRTqhXWJyDxp9eR5vfz8e2uwE9iPSwGQ6Ap8
 迪士尼,tvbus://3nKZ66d1TVDq386edjjUdeARCgrHVZm9Kxe3YrLpmUBd7ZnndT
-MOMO親子,tvbus://3CsobrbeJVBFbfnmMz8doKnM7fTAB6y9gUaDGgt6gwpQwytgFX
 東森幼幼,tvbus://3chF4Rr9GUqkiJB2QuW6iWj6VBnciWfYsjJ5UaXxKehdxk76QE
 緯來綜合,tvbus://3cSGNML3towieyykSCpozUTdnqsMuDqqLa8FmQi5ARu5MhqNRT
 八大第一,tvbus://4G1Pp66jJvD2c1TykPUhYZuUffSuKurALHDfGpYSwySt9BUkAQ
@@ -250,7 +248,6 @@ MOMO親子,tvbus://3CsobrbeJVBFbfnmMz8doKnM7fTAB6y9gUaDGgt6gwpQwytgFX
 東森綜合,tvbus://4hvG8GVhufmtk1VWTySJ7gmVeKXU4mGfNA5Chs3zMfTnZKWcbK
 東森超視,tvbus://4JKXr5NeLLNWjRY84Vcgbc6FR1nwzPcxx6kJow5pfrPMTGnpzb
 中天綜合,tvbus://4oVPrArC1K58sEb5wwmwL1PiwdrY5DMUrWkzyCij1Qxxv9gGWT
-信大电视,tvbus://3JUqgrFgDnV2jryk3nV5XNJrrUNJTS6xwBxQgxC478UhmxrZr9
 天良电视,tvbus://4ihyB4gVz5KQmQZ87t2dw5RRxESDzqZdd3nMTrpjwu2S7c4WNF
 中天娛樂,tvbus://3otDgwf5nUhiW69dVAM3sxTZ9JaTXmmci2vw32us8oX7jfL3wT
 東森戲劇,tvbus://48YdGGajPQbNsDGt7jePrtPkm13fqKxecE4L3n7LPernZnBCHg
