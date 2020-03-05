@@ -205,7 +205,6 @@ One.by 4K,http://rtmp.one.by:1499
 港澳台,#genre#
 
 翡翠臺,tvbus://3cQ49Q394wz82zQPDgApQRrFPv57HJ4rmSsBWVGd34ZdiRDqkk
-VIUTV,tvbus://3NQgHKwgbbKdJ4LhEnt2KuvtxU7zbshzQL3UrV2k3oz5XYNVyS
 TVB星河,tvbus://2x1hbZ9nHnRxGmUz74sgiW6BfXNr3KFgbbLFgryHAEVvP7UfUD
 RTHK32,tvbus://3vqLa5eRdbsXvENdt3wBAQcCvTvKNRZM2kTNyA4P2FkSmpN23w
 鳳凰香港,tvbus://3TnLG4CSBJC4D3NesXB6v4EhuRW33PeYMrNPrixpuz9Z8aYMrp
@@ -213,8 +212,6 @@ RTHK32,tvbus://3vqLa5eRdbsXvENdt3wBAQcCvTvKNRZM2kTNyA4P2FkSmpN23w
 now直播,tvbus://3JGDpXioJpH6NRBQFeUgju8mCcYQUHiFYz6GRBkkSWnbGPRABS
 now新闻,tvbus://3iBaeeta2PhkXUTh6G9jzKNjGn98D72gUnhB8QxsqnPr9JgXuB
 香港開電視,tvbus://4tEWVwazfYxEPmrqU5Xhr9GNDF7a9LR3JXhDKX2MFWRwoJYTDN
-now sport prime,tvbus://3uEWvczEzfF8ZRzBh1YYaP76zdHhqw6ZMWqkBJCSedb4oXFt2S
-有線體育,tvbus://4i5jLEWEzxnQbezFuJRwgJTuVnRnAniDYC7WxeJLdskPhCTYvE
 有線18臺,tvbus://4JxHjvQYy8ejrj2dJYMurugKF1VV418b4k5yrSB2C4JNdVVMv1
 有線財經,tvbus://3WLtb7Fwsr5CRigDf6uK3mX83q3QXFXh6pBXum8Ebq58u1327W
 有線娛樂,tvbus://3CrMPFZqaFxTGeDtQX2E5gkF6ZdVKk2bj72ff3RTSwJdYWwhg6
@@ -235,9 +232,7 @@ Bloomberg_TV,tvbus://4NCJaSMkQybVWogPxfg6yCNTrGGFVUFMqecmoY1X9ignQ237T7
 臺視,tvbus://3MWbYokmFjcnHYCRYSP3y19WGbnqgghEGqdfyB8pE8oeLR82o6
 大愛電視,tvbus://3cmXtkBPee9paSJ7yVURCCbQkAVHv8FySFqGDeJJNDUgRWBeoT
 中視,tvbus://34spY7rZCVYAX7UGX3BmGphZbqbLyDhHTaWCnCrdTnpKRgqHqZ
-霹靂臺灣臺,tvbus://47VDaAC4HAf7raXUWgfUBWykvXL6L9CJy1v1nKEp7Y51FtH7Ae
 公視,tvbus://3foqWReSshcvfmDRwDyqyhc9Hc47hNirRBf3QY9EfaeRK1PRKQ
-東森亞洲衛視,tvbus://36GGFy3dD9QcSMJtMVULFD2gwDduxnaeMWTasvv2MGaPZWnLug
 原民臺,tvbus://3EnAdf5yzpNDPkXo2meP5gugy41ZVfHB48iqkdXAz8dUPiQLdT
 客家衛視,tvbus://3EL4D3mz9YFWnp7QkkVyiuMXf5XnjF5rhN15UZEgYme8d3BP5i
 國家地理高畫質頻道,tvbus://4rCzF92tpigEaTDyFzUYgZox2deV8MRNanzviXfVbUsiJCWP49
