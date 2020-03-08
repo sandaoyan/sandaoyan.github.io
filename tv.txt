@@ -204,6 +204,11 @@ One.by 4K,http://rtmp.one.by:1499
 
 港澳台,#genre#
 
+TVB翡翠台,https://app.kds.tw/live/tvb1.php?id=jade&u=123456
+TVB明珠台,https://app.kds.tw/live/tvb1.php?id=pearl&u=123456
+TVB J2台,https://app.kds.tw/live/tvb1.php?id=j2&u=123456
+TVB无线新闻,https://app.kds.tw/live/tvb1.php?id=inews&u=97058412
+香港台,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 翡翠臺,tvbus://3cQ49Q394wz82zQPDgApQRrFPv57HJ4rmSsBWVGd34ZdiRDqkk
 TVB星河,tvbus://2x1hbZ9nHnRxGmUz74sgiW6BfXNr3KFgbbLFgryHAEVvP7UfUD
 RTHK32,tvbus://3vqLa5eRdbsXvENdt3wBAQcCvTvKNRZM2kTNyA4P2FkSmpN23w
