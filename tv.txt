@@ -191,7 +191,7 @@ CGTN,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 湖北经视,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000145.m3u8
 CHC家庭影院,tvbus://4DhHcFhaMMQY6x3Xxu79GBEUSzFHN5CYRL7oNBijfLiasXqMop
 CHC动作电影,tvbus://3YyQthnHA5QrbEqDgnrP3CWosSwBw2s9fjazLmbCpJ7ve8crUR
-
+4K电影,http://60.255.149.248/tslive/c214_scc_20191122_m4avmczq_original_r10/c214_scc_20191122_m4avmczq_original_r10.m3u8&
 广东综艺4K,sop://p2p.52itv.cn:80/10071$P2P-4K
 
 LOVE NATURE 4K UHD,http://dmitry-tv.ru/his/itv_zabava/CH_LOVENATURE4K_HLSUHD.m3u8
