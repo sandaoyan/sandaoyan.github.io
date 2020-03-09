@@ -9,6 +9,7 @@ CCTV4K,http://117.148.187.56:80/PLTV/88888888/224/3221226758/1.m3u8
 广东卫视,http://223.110.245.172/PLTV/1/224/3221227476/index.m3u8
 广东卫视,http://223.110.245.134/PLTV/1/224/3221227476/index.m3u8
 CCTV1,http://223.110.243.138/PLTV/1/224/3221227467/index.m3u8
+CCTV1,http://60.255.149.210/tslive/c211_scc_20190617_t0x01q5a_original_r10/c211_scc_20190617_t0x01q5a_original_r10.m3u8&
 CCTV1,http://223.110.245.138/PLTV/1/224/3221227467/index.m3u8
 湖北卫视,http://223.110.243.168/PLTV/1/224/3221227479/index.m3u8
 湖北卫视,http://223.110.243.170/PLTV/1/224/3221227479/index.m3u8
@@ -205,7 +206,7 @@ One.by 4K,http://rtmp.one.by:1499
 
 CCTV4K,http://60.255.149.210/tslive/c214_scc_20190618_pr3jsp04_original_r10/c214_scc_20190618_pr3jsp04_original_r10.m3u8&
 4K电影,http://60.255.149.248/tslive/c214_scc_20191122_m4avmczq_original_r10/c214_scc_20191122_m4avmczq_original_r10.m3u8&
-CCTV1FD,http://60.255.149.210/tslive/c211_scc_20190617_t0x01q5a_original_r10/c211_scc_20190617_t0x01q5a_original_r10.m3u8&
+CCTV1,http://60.255.149.210/tslive/c211_scc_20190617_t0x01q5a_original_r10/c211_scc_20190617_t0x01q5a_original_r10.m3u8&
 CCTV2FD,http://60.255.149.210/tslive/c212_scc_20190617_y2vstiy0_original_r10/c212_scc_20190617_y2vstiy0_original_r10.m3u8&
 CCTV3FD,http://60.255.149.210/tslive/c213_scc_20190618_0apbps2b_original_r10/c213_scc_20190618_0apbps2b_original_r10.m3u8&
 CCTV4FD,http://60.255.149.210/tslive/c214_scc_20190618_horpaeho_original_r10/c214_scc_20190618_horpaeho_original_r10.m3u8&
