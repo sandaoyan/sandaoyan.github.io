@@ -193,16 +193,6 @@ CGTN,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 CHC家庭影院,tvbus://4DhHcFhaMMQY6x3Xxu79GBEUSzFHN5CYRL7oNBijfLiasXqMop
 CHC动作电影,tvbus://3YyQthnHA5QrbEqDgnrP3CWosSwBw2s9fjazLmbCpJ7ve8crUR
 
-广东综艺4K,sop://p2p.52itv.cn:80/10071$P2P-4K
-
-LOVE NATURE 4K UHD,http://dmitry-tv.ru/his/itv_zabava/CH_LOVENATURE4K_HLSUHD.m3u8
-Eurosport4K UHD,http://dmitry-tv.ru/his/itv_zabava/CH_EUROSPORT4K_HLSUHD.m3u8
-Russian Extreme Ultra UHD,http://dmitry-tv.ru/his/itv_zabava/CH_RUSSIANEXTREMEULTRA_HLSUHD.m3u8
-KINO.WATCH UHD 4K,https://or-be-01.mycdn.video/watch/4k/index.m3u8?token=NJAZAMYQLP
-Ultra HD Cinema UHD,http://dmitry-tv.ru/his/itv_zabava/CH_ULTRAHDCINEMA_HLSUHD.m3u8
-One.by 4K,http://rtmp.one.by:1499
-Кино UHD,http://188.35.9.18:16050/udp/238.0.16.1:69000
-
 
 CCTV4K,http://60.255.149.210/tslive/c214_scc_20190618_pr3jsp04_original_r10/c214_scc_20190618_pr3jsp04_original_r10.m3u8&
 4K电影,http://60.255.149.248/tslive/c214_scc_20191122_m4avmczq_original_r10/c214_scc_20191122_m4avmczq_original_r10.m3u8&
@@ -310,6 +300,18 @@ CETV1,http://60.255.149.210/tslive/c213_scc_20190618_hckfiiqn_original_r10/c213_
 昭化综合,http://60.255.149.210/tslive/c211_scc_20190617_t0x01q5a_original_r10/zhxwzh_4000.m3u8&
 恩阳新闻,http://60.255.149.210/tslive/c211_scc_20190617_t0x01q5a_original_r10/eyxw_4000.m3u8&
 平昌综合,http://60.255.149.210/tslive/c211_scc_20190617_t0x01q5a_original_r10/pcxw_4000.m3u8&
+
+
+广东综艺4K,sop://p2p.52itv.cn:80/10071$P2P-4K
+
+LOVE NATURE 4K UHD,http://dmitry-tv.ru/his/itv_zabava/CH_LOVENATURE4K_HLSUHD.m3u8
+Eurosport4K UHD,http://dmitry-tv.ru/his/itv_zabava/CH_EUROSPORT4K_HLSUHD.m3u8
+Russian Extreme Ultra UHD,http://dmitry-tv.ru/his/itv_zabava/CH_RUSSIANEXTREMEULTRA_HLSUHD.m3u8
+KINO.WATCH UHD 4K,https://or-be-01.mycdn.video/watch/4k/index.m3u8?token=NJAZAMYQLP
+Ultra HD Cinema UHD,http://dmitry-tv.ru/his/itv_zabava/CH_ULTRAHDCINEMA_HLSUHD.m3u8
+One.by 4K,http://rtmp.one.by:1499
+Кино UHD,http://188.35.9.18:16050/udp/238.0.16.1:69000
+
 
 港澳台,#genre#
 
