@@ -177,9 +177,6 @@ CGTN,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 海南卫视,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000291503.m3u8
 山东卫视,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000294803.m3u8
 江西卫视,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000294103.m3u8
-
-
-
 湖北卫视,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000294503.m3u8
 河南卫视,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000296103.m3u8
 河北卫视,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000293403.m3u8
