@@ -139,6 +139,7 @@ CGTN,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225822/index.m3u8
 ICS,http://117.156.28.21/PLTV/88888888/224/3221225639/index.m3u8
 
 电信高清,#genre#
+徐州-4,rtsp://180.100.161.168:554/PLTV/88888888/224/3221225917/10000100000000060000000000000330_0.smil
 邳州综合频道,http://stream.pznews.com/pztv1/sd/live.m3u8
 邳州综艺频道,http://stream.pznews.com/pztv2/sd/live.m3u8
 CCTV1,http://111.48.79.78/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
