@@ -20,15 +20,18 @@ CCTV2,http://183.207.249.36/PLTV/1/224/3221227543/index.m3u8
 江苏卫视,http://223.110.243.172/PLTV/1/224/3221227552/index.m3u8
 CCTV3,http://223.110.245.136/PLTV/1/224/3221227546/index.m3u8
 天津卫视,http://223.110.243.135/PLTV/1/224/3221227488/index.m3u8
+重庆卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225831/1.m3u8
 CCTV4,http://223.110.245.138/PLTV/1/224/3221227549/index.m3u8
 黑龙江卫视,http://223.110.243.136/PLTV/1/224/3221227514/index.m3u8
 黑龙江卫视,http://223.110.245.138/PLTV/1/224/3221227514/index.m3u8
 CCTV5,http://223.110.243.136/PLTV/4/224/3221227537/index.m3u8
 CCTV5,http://183.207.249.34/PLTV/4/224/3221227537/index.m3u8
 安徽卫视,http://223.110.245.172/PLTV/1/224/3221227558/index.m3u8
+东南卫视,http://117.169.124.37:6610/ysten-businessmobile/live/dongnanstv/yst.m3u8
 CCTV5+,http://223.110.243.136/PLTV/1/224/3221227502/index.m3u8
 CCTV5+,http://223.110.245.168/PLTV/1/224/3221227502/index.m3u8
 东方卫视,http://223.110.245.136/PLTV/1/224/3221227511/index.m3u8
+吉林卫视,http://39.135.15.70:6610/PLTV/88888888/224/3221225753/1/1000.m3u8?IAS
 CCTV6,http://223.110.245.135/PLTV/1/224/3221227505/index.m3u8
 CCTV6,http://223.110.243.138/PLTV/1/224/3221227505/index.m3u8
 北京卫视,http://223.110.243.170/PLTV/1/224/3221227508/index.m3u8
@@ -208,11 +211,14 @@ One.by 4K,http://rtmp.one.by:1499
 
 
 港澳台,#genre#
-
+凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+TVB明珠台,https://tv.elibei.com/tv/play?token=f7d2c7dd769c478bfe767c01d4026db7&k=7449867010c26a0b26566c330d124e1e&cid=184&uid=36808
+翡翠台,https://tv.elibei.com/tv/play?token=499b831fdfbdb8bc62b5a3b23ee3b27a&k=7449867010c26a0b26566c330d124e1e&cid=183&uid=36808
+TVB J2,https://tv.elibei.com/tv/play?token=489c8d68b159f764ef9b6f1ce13638df&k=7449867010c26a0b26566c330d124e1e&cid=178&uid=36808
+无线新闻,https://tv.elibei.com/tv/play?token=c53c2425123852327994cc6b8b57e2e2&k=7449867010c26a0b26566c330d124e1e&cid=196&uid=36808
 RTHK31,P2p://sdgdklwos.finetv.tv:9906/5b1ea0dc000bba59d03063fa2f1a513c
 RTHK32,P2p://sdgdklwos.finetv.tv:9906/5b1ea120000af380d0316d6b59657817
 凤凰电影,rtmp://58.200.131.2:1935/livetv/fhdy
-凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 天映经典,P2p://sdgdklwos.finetv.tv:9906/5b2e01c400098d0f0c42edad22c37385
 天映频道,P2p://sdgdklwos.finetv.tv:9906/5b2f1ee9000d3e3d109cc71f4b240eb3
 香港卫视,http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
