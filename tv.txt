@@ -28,7 +28,6 @@ CCTV4,http://223.110.245.138/PLTV/1/224/3221227549/index.m3u8
 CCTV5,http://223.110.243.136/PLTV/4/224/3221227537/index.m3u8
 CCTV5,http://183.207.249.34/PLTV/4/224/3221227537/index.m3u8
 安徽卫视,http://223.110.245.172/PLTV/1/224/3221227558/index.m3u8
-东南卫视,http://117.169.124.37:6610/ysten-businessmobile/live/dongnanstv/yst.m3u8
 CCTV5+,http://223.110.243.136/PLTV/1/224/3221227502/index.m3u8
 CCTV5+,http://223.110.245.168/PLTV/1/224/3221227502/index.m3u8
 东方卫视,http://223.110.245.136/PLTV/1/224/3221227511/index.m3u8
@@ -194,14 +193,12 @@ CGTN,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/200165680
 安徽卫视,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
 
 CHC动作电影,http://125.210.152.18:9090/live/DZDYHD.m3u8
-CHC家庭电影,http://125.210.152.18:9090/live/JTYYHD.m3u8
+CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD.m3u8
 
 武汉新闻,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000215.m3u8
 湖北公共,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000148.m3u8
 湖北综合,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000146.m3u8
 湖北经视,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000145.m3u8
-CHC家庭影院,tvbus://4DhHcFhaMMQY6x3Xxu79GBEUSzFHN5CYRL7oNBijfLiasXqMop
-CHC动作电影,tvbus://3YyQthnHA5QrbEqDgnrP3CWosSwBw2s9fjazLmbCpJ7ve8crUR
 
 LOVE NATURE 4K UHD,http://dmitry-tv.ru/his/itv_zabava/CH_LOVENATURE4K_HLSUHD.m3u8
 Eurosport4K UHD,http://dmitry-tv.ru/his/itv_zabava/CH_EUROSPORT4K_HLSUHD.m3u8
@@ -443,12 +440,6 @@ HBO HD,P2p://190.2.146.92:18912/5c7249dd000ca2101d58106551ff3ed4.ts
 JET综合,P2p://190.2.146.92:18912/5c724892000e3e1c1d5303da4a3c6c26.ts
 东森综合,P2p://190.2.146.92:18912/5c724877000e7b2d1d529a721b487255.ts
 TVBS欢乐,P2p://190.2.146.92:18912/5c72488a000a56b71d52e3a07060345e.ts
-
-
-
-
-香港台,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-
 
 
 MV,#genre#
@@ -697,8 +688,6 @@ HOT星颜,p2p://51.79.41.138:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts
 东京热美少妇,https://qqc1107.phpdaniu.com/japan/ZW0910/8F8YJ4lB/800kb/hls/index.m3u8
 东京热奸空姐,https://qqc1107.phpdaniu.com/japan/ZW0910/AITV4deO/index.m3u8
 牛仔裤女郎,https://qqc1107.phpdaniu.com/japan/20191013/jz4knROn/500kb/hls/index.m3u8
-18禁 Ⅰ 操到翻白眼,https://qqc1107.phpdaniu.com/japan/wuma/031116-519_06/index.m3u8
-18禁 Ⅰ 爆弹肉体小衣,https://qqc1107.phpdaniu.com/japan/20191013/S9iMljUH/500kb/hls/index.m3u8
 18禁 Ⅰ 被秒插却很爽,https://qqc1107.phpdaniu.com/japan/20191013/TnoqbCFH/500kb/hls/index.m3u8
 18禁 Ⅰ 让少妇淫叫潮吹,https://qqc1107.phpdaniu.com/japan/20191101/M5PFQupR/index.m3u8
 18禁 Ⅰ 女孩的最终幻想,https://qqc1107.phpdaniu.com/oumei/2019922/qqc002/1000kb/hls/index.m3u8
@@ -745,90 +734,10 @@ HOT星颜,p2p://51.79.41.138:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts
 18禁 Ⅰ 叫床声超大大奶少妇,https://qqc1107.phpdaniu.com/japan/20191101/f3meHQuD/500kb/hls/index.m3u8
 18禁 Ⅰ 洗澡的翘屁少妇被操,https://qqc1107.phpdaniu.com/japan/20191101/VwgHYSi8/index.m3u8
 18禁 Ⅰ 妹子被大屌插到尖叫,https://qqc1107.phpdaniu.com/japan/20191101/x7qjNL7o/index.m3u8
-日韩高清,https://www.800-cdn.com/20191104/E1HxL2k9/index.m3u8
-日韩高清2,https://www.800-cdn.com/20191104/BmPJsJib/index.m3u8
-日韩高清3,https://www.800-cdn.com/20191104/FOYD2Arr/index.m3u8
-日韩高清4,https://www.800-cdn.com/20191104/xWsSpVkx/index.m3u8
-日韩高清5,https://www.800-cdn.com/20191104/QLNa0Ar4/index.m3u8
-日韩高清6,https://www.800-cdn.com/20191104/1NVic5n6/index.m3u8
-日韩高清7,https://www.800-cdn.com/20191104/mxUrCin3/index.m3u8
-日韩高清8,https://www.800-cdn.com/20191104/gfXL8zE8/index.m3u8
-日韩高清9,https://www.800-cdn.com/20191104/PSnzMnZd/index.m3u8
-日韩高清10,https://www.800-cdn.com/20191104/lL8NPXx2/index.m3u8
-日韩高清11,https://www.800-cdn.com/20191104/y0KFfsPy/index.m3u8
-日韩高清12,https://www.800-cdn.com/20191104/WbOhWHnk/index.m3u8
-日韩高清13,https://www.800-cdn.com/20191027/R87kAR0L/index.m3u8
-日韩高清14,https://www.800-cdn.com/20191027/RBJZ7rSf/index.m3u8
-日韩高清15,https://www.800-cdn.com/20191027/4sGRBas8/index.m3u8
-日韩高清16,https://www.800-cdn.com/20191027/f6eNa800/index.m3u8
-日韩高清17,https://www.800-cdn.com/20191027/uAH7rRu4/index.m3u8
-日韩高清18,https://www.800-cdn.com/20191027/QAIdDBmi/index.m3u8
-日韩高清19,https://www.800-cdn.com/20191027/5X3C0amn/index.m3u8
-日韩高清20,https://www.800-cdn.com/20191027/ZKXHEQyF/index.m3u8
-日韩高清21,https://www.800-cdn.com/20191027/hqEHcPYy/index.m3u8
-日韩高清22,https://www.800-cdn.com/20191027/9NOUhwRt/index.m3u8
-日韩高清23,https://www.800-cdn.com/20191027/bYH5tZAI/index.m3u8
-日韩高清24,https://www.800-cdn.com/20191027/2nvgyYWH/index.m3u8
-日韩高清25,https://www.800-cdn.com/20191027/bySOhvPZ/index.m3u8
-日韩高清26,https://www.800-cdn.com/20191027/xqHCnmsK/index.m3u8
-日韩高清27,https://www.800-cdn.com/20191024/ArdisIvp/index.m3u8
-日韩高清28,https://www.800-cdn.com/20191024/nP15lEjD/index.m3u8
-日韩高清29,https://www.800-cdn.com/20191024/y2HqkX9g/index.m3u8
-日韩高清30,https://www.800-cdn.com/20191024/TpNs2GDB/index.m3u8
-日韩高清31,http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
-日韩高清32,http://video.jiagew762.com:8091/20180616/wmxnujCZ/index.m3u8
-日韩高清33,http://video.jiagew762.com:8091/20180614/NDShlY4s/index.m3u8
-日韩高清34,http://video.jiagew762.com:8091/20180614/NDShlY4s/index.m3u8
-日韩高清35,http://video.jiagew762.com:8091/20180614/rBl1szfa/index.m3u8
-日韩高清36,http://video.jiagew762.com:8091/20180615/kQOBxis1/index.m3u8
-日韩高清37,http://video.jiagew762.com:8091/20180614/1ltODGjX/index.m3u8
-日韩高清38,http://video.jiagew762.com:8091/20180615/U9uFMZw1/index.m3u8
-日韩高清39,http://video.jiagew762.com:8091/20180614/BUlr34Q7/index.m3u8
-日韩高清40,http://video.jiagew762.com:8091/20180615/YsDPfuX5/index.m3u8
-日韩高清41,http://video.jiagew762.com:8091/20180615/eQN4S0ro/index.m3u8
-日韩高清42,http://video.jiagew762.com:8091/20180616/tsrocUhb/index.m3u8
-日韩高清43,http://video.jiagew762.com:8091/20180615/hb6aWRVY/index.m3u8
-日韩高清44,http://video.jiagew762.com:8091/20180615/Hy0GyDqw/index.m3u8
-日韩高清45,http://video.jiagew762.com:8091/20180615/VNb8JbbL/index.m3u8
-日韩高清46,http://video.jiagew762.com:8091/20180616/UnA748MV/index.m3u8
-日韩高清47,http://video.jiagew762.com:8091/20180616/wmxnujCZ/index.m3u8
-日韩高清48,http://video.jiagew762.com:8091/20180616/BpzeWWhs/index.m3u8
-日韩高清49,http://video.jiagew762.com:8091/20180616/4QUnWwoD/index.m3u8
-日韩高清50,http://video.jiagew762.com:8091/20180616/Ddwhp9yH/index.m3u8
-高清无码,https://www.800-cdn.com/20191104/E1HxL2k9/index.m3u8
-高清无码2,https://www.800-cdn.com/20191104/BmPJsJib/index.m3u8
-高清无码3,https://www.800-cdn.com/20191104/FOYD2Arr/index.m3u8
-高清无码4,https://www.800-cdn.com/20191104/xWsSpVkx/index.m3u8
-高清无码5,https://www.800-cdn.com/20191104/QLNa0Ar4/index.m3u8
-高清无码6,https://www.800-cdn.com/20191104/1NVic5n6/index.m3u8
-高清无码7,https://www.800-cdn.com/20191104/mxUrCin3/index.m3u8
-高清无码8,https://www.800-cdn.com/20191104/gfXL8zE8/index.m3u8
-高清无码9,https://www.800-cdn.com/20191104/PSnzMnZd/index.m3u8
-高清无码10,https://www.800-cdn.com/20191104/lL8NPXx2/index.m3u8
-高清无码11,https://www.800-cdn.com/20191104/y0KFfsPy/index.m3u8
-高清无码12,https://www.800-cdn.com/20191104/WbOhWHnk/index.m3u8
-高清无码13,https://www.800-cdn.com/20191027/R87kAR0L/index.m3u8
-高清无码14,https://www.800-cdn.com/20191027/RBJZ7rSf/index.m3u8
-高清无码15,https://www.800-cdn.com/20191027/4sGRBas8/index.m3u8
-高清无码16,https://www.800-cdn.com/20191027/f6eNa800/index.m3u8
-高清无码17,https://www.800-cdn.com/20191027/uAH7rRu4/index.m3u8
-高清无码18,https://www.800-cdn.com/20191027/QAIdDBmi/index.m3u8
-高清无码19,https://www.800-cdn.com/20191027/5X3C0amn/index.m3u8
-高清无码20,https://www.800-cdn.com/20191027/ZKXHEQyF/index.m3u8
-高清无码21,https://www.800-cdn.com/20191027/hqEHcPYy/index.m3u8
-高清无码22,https://www.800-cdn.com/20191027/9NOUhwRt/index.m3u8
-高清无码23,https://www.800-cdn.com/20191027/bYH5tZAI/index.m3u8
-高清无码24,https://www.800-cdn.com/20191027/2nvgyYWH/index.m3u8
-高清无码25,https://www.800-cdn.com/20191027/bySOhvPZ/index.m3u8
-高清无码26,https://www.800-cdn.com/20191027/xqHCnmsK/index.m3u8
-高清无码27,https://www.800-cdn.com/20191024/ArdisIvp/index.m3u8
-高清无码28,https://www.800-cdn.com/20191024/nP15lEjD/index.m3u8
-高清无码29,https://www.800-cdn.com/20191024/y2HqkX9g/index.m3u8
-高清无码30,https://www.800-cdn.com/20191024/TpNs2GDB/index.m3u8
-正牌韦小宝之奉旨勾女,https://www.zuori.cc/index/downloads?d=43165&v=iBWoFndA
+
 种鬼 未删减,https://www.zuori.cc/index/downloads?d=43165&v=LYkI9MXR
 飞侠小白龙,https://www.zuori.cc/index/downloads?d=43165&v=3KBw5jrO
-香港 ◆ 香港第一凶宅 ,https://www.zuori.cc/index/downloads?d=43165&v=QIqRk5ev
+香港第一凶宅 ,https://www.zuori.cc/index/downloads?d=43165&v=QIqRk5ev
 
 
 
