@@ -137,9 +137,9 @@ http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstok
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI8.png" group-title="央视卫视",湖北经济
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000145.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="央视卫视",哈尔滨新闻
+#EXTINF:-1 group-title="央视卫视",哈尔滨新闻
 http://39.134.65.162/PLTV/88888888/224/3221225684/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="央视卫视",厦门-2
+#EXTINF:-1 group-title="央视卫视",厦门-2
 http://112.50.243.8/PLTV/88888888/224/3221226777/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视卫视",无锡都市资讯
 http://live-wx.wifiwx.com/wxtv3/sd/live.m3u8
