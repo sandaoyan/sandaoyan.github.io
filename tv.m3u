@@ -29,9 +29,9 @@ http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视卫视",CCTV13
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视卫视",CCTV14少儿
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视卫视",CCTV14
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视卫视",CCTV15音乐
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视卫视",CCTV15
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视卫视",CCTV17
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
@@ -85,6 +85,7 @@ http://39.135.15.70:6610/PLTV/88888888/224/3221225753/1/1000.m3u8?IAS
 http://211.137.115.110:8080/gitv_live/G_TIANJIN-MD/G_TIANJIN-MD.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="央视卫视",云南卫视
 http://39.130.218.239:6610/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
+
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="央视卫视",青海卫视
 http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=206&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="央视卫视",山西卫视
@@ -97,6 +98,41 @@ http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_h
 http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=009&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="央视卫视",西藏卫视
 http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=018&Provider_id=&Pcontent_id=index.m3u8
+
+#EXTINF:-1 group-title="央视卫视",CGTN
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
+#EXTINF:-1 group-title="央视卫视",厦门卫视
+http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
+#EXTINF:-1 group-title="央视卫视",欢笑剧场
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226729/1.m3u8
+#EXTINF:-1 group-title="央视卫视",甘肃都市
+http://117.156.28.119/270000001111/1110000068/index.m3u8
+#EXTINF:-1 group-title="央视卫视",甘肃影视
+http://117.156.28.119/270000001111/1110000067/index.m3u8
+#EXTINF:-1 group-title="央视卫视",甘肃经济
+http://117.156.28.119/270000001111/1110000070/index.m3u8
+#EXTINF:-1 group-title="央视卫视",甘肃少儿
+http://117.156.28.119/270000001111/1110000071/index.m3u8
+#EXTINF:-1 group-title="央视卫视",哈尔滨新闻
+http://39.134.65.162/PLTV/88888888/224/3221225684/index.m3u8
+#EXTINF:-1 group-title="央视卫视",上海电视剧
+http://117.156.28.21/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:-1 group-title="央视卫视",茶频道
+http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
+#EXTINF:-1 group-title="央视卫视",冬奥纪实
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/1.m3u8
+#EXTINF:-1 group-title="央视卫视",纪实人文
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225946/1.m3u8
+
+#EXTINF:-1 group-title="央视卫视",无锡都市资讯
+http://live-wx.wifiwx.com/wxtv3/sd/live.m3u8
+#EXTINF:-1 group-title="央视卫视",无锡新闻综合
+http://live-wx.wifiwx.com/wxtv1/sd/live.m3u8
+
+#EXTINF:-1 group-title="电影",Bestv4K
+http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.downk.cc/item/5e65bf4598271cb2b8f19985.png" group-title="电影",4K电影
 http://60.255.149.215/tslive/c214_scc_20191122_m4avmczq_original_r10/c214_scc_20191122_m4avmczq_original_r10.m3u8&
