@@ -148,9 +148,9 @@ http://live-wx.wifiwx.com/wxtv1/sd/live.m3u8
 
 #EXTINF:-1 group-title="电影",邵氏电影
 http://tx2play1.douyucdn.cn/live/4246519rbNFUb1Pf.flv
-#EXTINF:-1 group-title="电影",Bestv4K
+#EXTINF:-1 tvg-logo="https://pic.downk.cc/item/5e65bf4598271cb2b8f19985.png" group-title="电影",Bestv4K
 http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.downk.cc/item/5e65bf4598271cb2b8f19985.png" group-title="电影",4K电影
+#EXTINF:-1 tvg-logo="https://pic.downk.cc/item/5e65bf4598271cb2b8f19985.png" group-title="电影",4K电影
 http://60.255.149.215/tslive/c214_scc_20191122_m4avmczq_original_r10/c214_scc_20191122_m4avmczq_original_r10.m3u8&
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://pic.downk.cc/item/5e5652f46127cc0713d5e11c.png" group-title="电影",CHC高清电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
