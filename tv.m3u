@@ -137,8 +137,6 @@ http://live-wx.wifiwx.com/wxtv1/sd/live.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226729/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="央视卫视",东方影视
 http://keonline.shanghai.liveplay.qq.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="央视卫视",动漫秀场
-http://keonline.shanghai.liveplay.qq.com/live/program/live/dmxchd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="央视卫视",极速汽车
 http://keonline.shanghai.liveplay.qq.com/live/program/live/jsqchd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="央视卫视",上海外语
