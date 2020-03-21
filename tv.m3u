@@ -142,6 +142,8 @@ http://liveplay-kk.rtxapp.com/live/program/live/dsjchd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="央视卫视",都市剧场
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="央视卫视",全纪实
 http://liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="央视卫视",极速汽车
+http://liveplay-kk.rtxapp.com/live/program/live/jsqchd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="央视卫视",上海ICS
 http://liveplay-kk.rtxapp.com/live/program/live/wypdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="央视卫视",上海新闻
