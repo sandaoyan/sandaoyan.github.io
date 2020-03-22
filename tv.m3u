@@ -261,4 +261,9 @@ http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="港澳台",CTI中天亚洲台
 http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 
-
+#EXTINF:-1 group-title="色情台",﻿HAPPY幸福
+p2p://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
+#EXTINF:-1 group-title="色情台",惊艳台HD
+p2p://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
+#EXTINF:-1 group-title="色情台",彩虹电影
+p2p://51.79.41.138:18912/5c18f8eb000ca180c073df055bc26b76.ts.ts
