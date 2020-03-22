@@ -115,6 +115,8 @@ http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="央视卫视",茶频道
 http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="央视卫视",金鹰纪实
+rtmp://ivi.bupt.edu.cn:1935/livetv/gedocu
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="央视卫视",冬奥纪实
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="央视卫视",纪实人文
@@ -165,6 +167,14 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=
 
 #EXTINF:-1 tvg-logo="https://pic.downk.cc/item/5e65bf4598271cb2b8f19985.png" group-title="电影",Bestv4K
 http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://pic.downk.cc/item/5e5652f46127cc0713d5e11c.png" group-title="电影",CHC高清电影
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://pic.downk.cc/item/5e5652f46127cc0713d5e116.png" group-title="电影",CHC动作电影
+rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭影院" tvg-logo="http://pic.downk.cc/item/5e5652f46127cc0713d5e11e.png" group-title="电影",CHC家庭电影
+http://125.210.152.18:9090/live/JTYYHD.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.downk.cc/item/5e5652f46127cc0713d5e121.png" group-title="电影",峨眉电影HD
+http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.downk.cc/item/5e5cc1d198271cb2b8a81e00.png" group-title="电影",周星驰作品集
 http://47.240.60.73/migu.php?id=623338112
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.downk.cc/item/5e5cc24198271cb2b8a84cc9.png" group-title="电影",成龙作品集
@@ -187,14 +197,6 @@ http://aldirect.rtmp.huya.com/huyalive/30765679-2554414680-10971127511022305280-
 http://aldirect.rtmp.huya.com/huyalive/29141112-2689675756-11552069408864075776-3048959626-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.downk.cc/item/5e5cc16298271cb2b8a7e4bc.png" group-title="电影",徐峥
 http://aldirect.rtmp.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://pic.downk.cc/item/5e5652f46127cc0713d5e11c.png" group-title="电影",CHC高清电影
-http://ivi.bupt.edu.cn/hls/chchd.m3u8
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://pic.downk.cc/item/5e5652f46127cc0713d5e116.png" group-title="电影",CHC动作电影
-http://125.210.152.18:9090/live/DZDYHD.m3u8
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭影院" tvg-logo="http://pic.downk.cc/item/5e5652f46127cc0713d5e11e.png" group-title="电影",CHC家庭电影
-http://125.210.152.18:9090/live/JTYYHD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.downk.cc/item/5e5652f46127cc0713d5e121.png" group-title="电影",峨眉电影HD
-http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="电影",湖南潇湘电影HD
 http://124.232.231.246:6610/000000001001/201600020006/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020005&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
 #EXTINF:-1 tvg-id="7128" tvg-name="龙华电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华电影.png" group-title="电影",龙华电影
