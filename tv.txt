@@ -96,8 +96,19 @@ CCTV16,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 都市剧场,http://112.17.40.140/PLTV/88888888/224/3221226825/index.m3u8
 上海电视剧,http://117.156.28.21/PLTV/88888888/224/3221225654/index.m3u8
 茶频道,http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
-
-
+CETV-1,rtmp://ivi.bupt.edu.cn:1935/livetv/cetv1hd
+CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
+CHC家庭影院,rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
+CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
+北京卫视,http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
+北京文艺,http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
+北京科教,http://ivi.bupt.edu.cn/hls/btv3.m3u8
+北京影视,http://ivi.bupt.edu.cn/hls/btv4.m3u8
+北京财经,http://ivi.bupt.edu.cn/hls/btv5.m3u8
+北京体育,http://ivi.bupt.edu.cn/hls/btv6.m3u8
+北京生活,http://ivi.bupt.edu.cn/hls/btv7.m3u8
+北京青年,http://ivi.bupt.edu.cn/hls/btv8.m3u8
+北京新闻,http://ivi.bupt.edu.cn/hls/btv9.m3u8
 
 
 
@@ -216,13 +227,8 @@ KINO.WATCH UHD 4K,https://or-be-01.mycdn.video/watch/4k/index.m3u8?token=NJAZAMY
 Ultra HD Cinema UHD,http://dmitry-tv.ru/his/itv_zabava/CH_ULTRAHDCINEMA_HLSUHD.m3u8
 One.by 4K,http://rtmp.one.by:1499
 Кино UHD,http://188.35.9.18:16050/udp/238.0.16.1:69000
-CETV-1高清,rtmp://ivi.bupt.edu.cn:1935/livetv/cetv1hd
-CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
-北京卫视高清,http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
-北京文艺高清,http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
-北京影视高清,rtmp://ivi.bupt.edu.cn:1935/livetv/btv4hd
-北京体育高清,http://ivi.bupt.edu.cn/hls/btv6hd.m3u8
-北京新闻高清,rtmp://ivi.bupt.edu.cn:1935/livetv/btv9hd
+
+
 
 港澳台,#genre#
 
