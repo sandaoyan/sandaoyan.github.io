@@ -100,16 +100,7 @@ CETV-1,rtmp://ivi.bupt.edu.cn:1935/livetv/cetv1hd
 CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 CHC家庭影院,rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
 CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
-北京卫视,http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
 北京文艺,http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
-北京科教,http://ivi.bupt.edu.cn/hls/btv3.m3u8
-北京影视,http://ivi.bupt.edu.cn/hls/btv4.m3u8
-北京财经,http://ivi.bupt.edu.cn/hls/btv5.m3u8
-北京体育,http://ivi.bupt.edu.cn/hls/btv6.m3u8
-北京生活,http://ivi.bupt.edu.cn/hls/btv7.m3u8
-北京青年,http://ivi.bupt.edu.cn/hls/btv8.m3u8
-北京新闻,http://ivi.bupt.edu.cn/hls/btv9.m3u8
-
 
 
 CCTV1,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8
