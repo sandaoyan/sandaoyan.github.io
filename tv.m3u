@@ -148,7 +148,7 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226729/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="央视卫视",都市剧场
 http://112.17.40.140/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="央视卫视",全纪实
-rtmp://ivi.bupt.edu.cn:1935/livetv/documentaryhd
+http://liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="央视卫视",极速汽车
 http://liveplay-kk.rtxapp.com/live/program/live/jsqchd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="央视卫视",上海ICS
