@@ -216,7 +216,13 @@ KINO.WATCH UHD 4K,https://or-be-01.mycdn.video/watch/4k/index.m3u8?token=NJAZAMY
 Ultra HD Cinema UHD,http://dmitry-tv.ru/his/itv_zabava/CH_ULTRAHDCINEMA_HLSUHD.m3u8
 One.by 4K,http://rtmp.one.by:1499
 Кино UHD,http://188.35.9.18:16050/udp/238.0.16.1:69000
-
+CETV-1高清,rtmp://ivi.bupt.edu.cn:1935/livetv/cetv1hd
+CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
+北京卫视高清,http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
+北京文艺高清,http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
+北京影视高清,rtmp://ivi.bupt.edu.cn:1935/livetv/btv4hd
+北京体育高清,http://ivi.bupt.edu.cn/hls/btv6hd.m3u8
+北京新闻高清,rtmp://ivi.bupt.edu.cn:1935/livetv/btv9hd
 
 港澳台,#genre#
 
