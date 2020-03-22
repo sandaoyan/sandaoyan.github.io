@@ -158,9 +158,10 @@ Bestv4K,http://112.17.40.140/PLTV/88888888/224/3221226718/index.m3u8
 国家地理台,sop://p2p.cibn.cc:80/943
 广东综艺4K,sop://p2p.52itv.cn:80/10071$P2P-4K
 广东综艺4K,sop://127.0.0.1:3912/10071
+全纪实,http://liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8
+
 
 电信高清,#genre#
-
 邳州综合,http://stream.pznews.com/pztv1/sd/live.m3u8
 邳州综艺,http://stream.pznews.com/pztv2/sd/live.m3u8
 CCTV1,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
