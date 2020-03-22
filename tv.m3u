@@ -135,12 +135,16 @@ http://112.50.243.8/PLTV/88888888/224/3221226777/1.m3u8
 http://live-wx.wifiwx.com/wxtv3/sd/live.m3u8
 #EXTINF:-1 group-title="央视卫视",无锡新闻综合
 http://live-wx.wifiwx.com/wxtv1/sd/live.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E6%96%87%E8%89%BA.png" group-title="央视卫视",北京文艺
+http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="央视卫视",CETV-1
+rtmp://ivi.bupt.edu.cn:1935/livetv/cetv1hd
+
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="央视卫视",欢笑剧场
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226729/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="央视卫视",都市剧场
-http://liveplay-kk.rtxapp.com/live/program/live/dsjchd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="央视卫视",都市剧场
+http://112.17.40.140/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="央视卫视",全纪实
 http://liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="央视卫视",极速汽车
