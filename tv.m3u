@@ -223,6 +223,53 @@ http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 #EXTINF:-1 tvg-logo="https://pic.downk.cc/item/5e65bf4598271cb2b8f19985.png" group-title="电影",4K电影
 http://60.255.149.215/tslive/c214_scc_20191122_m4avmczq_original_r10/c214_scc_20191122_m4avmczq_original_r10.m3u8&
 
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="港澳台",大爱1台
+http://tv1.wanfudaluye.com/live/live.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="港澳台",大爱2台
+http://iptv.52qdg.com/iptv.php?id=tw&pamid=002
+#EXTINF:-1, group-title="港澳台",有线新闻
+http://hk.tv0668.com/dl/hk520.php?id=31
+#EXTINF:-1, group-title="港澳台",无线新闻
+http://hk.tv0668.com/dl/hk520.php?id=9
+#EXTINF:-1, group-title="港澳台",TVB翡翠
+http://hk.tv0668.com/dl/hk520.php?id=1
+#EXTINF:-1, group-title="港澳台",TVB明珠
+http://hk.tv0668.com/dl/hk520.php?id=13
+#EXTINF:-1, group-title="港澳台",亚旅卫视
+http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+#EXTINF:-1, group-title="港澳台",中天综合
+http://iptv.52qdg.com/iptv.php?id=tw&pamid=005
+#EXTINF:-1, group-title="港澳台",中天娱乐
+http://iptv.52qdg.com/iptv.php?id=tw&pamid=006
+#EXTINF:-1, group-title="港澳台",中天新闻
+http://iptv.52qdg.com/iptv.php?id=tw&pamid=004
+#EXTINF:-1, group-title="港澳台",東森新闻
+http://iptv.52qdg.com/iptv.php?id=tw&pamid=003
+#EXTINF:-1, group-title="港澳台",唯心電視
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1, group-title="港澳台",百事通教学
+http://112.17.40.145/PLTV/88888888/224/3221226596/index.m3u8
+#EXTINF:-1, group-title="港澳台",动物世界
+http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
+#EXTINF:-1, group-title="港澳台",大众影视
+http://39.134.52.206/wh7f454c46tw2522585283_-1736190513/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8?icpid=88888890&RTS=1575014274&from=1&ocs=2_39.134.52.206_80&hms_devid=835&vqe=3-ott-zhibo.wasu.tv/live/394/index.m3u8
+#EXTINF:-1, group-title="港澳台",宝贝第一
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1, group-title="港澳台",澳门卫视
+http://hk.tv0668.com/dl/hk520.php?id=23
+#EXTINF:-1, group-title="港澳台",莲花卫视
+http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
+#EXTINF:-1, group-title="港澳台",澳亚卫视
+http://hk.tv0668.com/dl/hk520.php?id=24
+#EXTINF:-1, group-title="港澳台",日本NHK华语
+https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+#EXTINF:-1, group-title="港澳台",日本NHK英语
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻
 https://tv.elibei.com/tv/play?token=c53c2425123852327994cc6b8b57e2e2&k=7449867010c26a0b26566c330d124e1e&cid=196&uid=36808
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
