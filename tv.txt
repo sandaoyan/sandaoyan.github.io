@@ -220,7 +220,7 @@ CETV-1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u
 译制片,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226901/index.m3u8
 原声电影,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226904/index.m3u8
 兵团卫视,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226859/index.m3u8
-
+新闻综合,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226849/index.m3u8
 
 
 邳州综合,http://stream.pznews.com/pztv1/sd/live.m3u8
