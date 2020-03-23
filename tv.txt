@@ -64,6 +64,7 @@ CCTV14,http://211.137.115.110:8080/gitv_live/G_CCTV-14-HD/G_CCTV-14-HD.m3u8
 CCTV15,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
 东南卫视,http://117.169.124.37:6610/ysten-businessmobile/live/dongnanstv/yst.m3u8
 CCTV17,http://112.50.243.5/PLTV/88888888/224/3221226990/1.m3u8
+CCTV17,http://117.169.124.37:6610/ysten-businessmobile/live/HD-4000k-1080P-cctv17/1.m3u8
 甘肃少儿,http://117.156.28.119/270000001111/1110000071/index.m3u8
 
 
@@ -108,8 +109,6 @@ CHC家庭影院,rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
 CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD.m3u8
 CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 CHC动作电影,http://125.210.152.18:9090/live/DZDYHD.m3u8
-
-
 
 CCTV1,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8
 CCTV2,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
