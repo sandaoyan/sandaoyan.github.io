@@ -295,9 +295,8 @@ BBC经典,http://qdntv96789.applinzi.com/96tv.php?633138330
 大爱2台,http://iptv.52qdg.com/iptv.php?id=tw&pamid=002
 大爱2台,http://iptv.52qdg.com/iptv.php?id=tw&pamid=017
 TITV,http://iptv.52qdg.com/iptv.php?id=tw&pamid=018
-信吉,http://iptv.52qdg.com/iptv.php?id=tw&pamid=021
 人间卫视,http://iptv.52qdg.com/iptv.php?id=tw&pamid=022
-GH,http://iptv.52qdg.com/iptv.php?id=tw&pamid=023
+佛教台,http://iptv.52qdg.com/iptv.php?id=tw&pamid=023
 
 无线新闻,http://www.liveviptv.xyz/tv/tvb.php
 无线新闻,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
@@ -320,6 +319,9 @@ RTHK32,http://hk.tv0668.com/dl/hk520.php?id=21
 电影台HD,http://hk.tv0668.com/dl/hk520.php?id=30
 有线电视,http://hk.tv0668.com/dl/hk520.php?id=34
 功夫台,http://hk.tv0668.com/dl/hk520.php?id=35
+
+
+
 
 
 TVB星河,http://tvbilive14-i.akamaihd.net/hls/live/496347/CXHMovie/CXHMovie-01.m3u8
