@@ -294,9 +294,8 @@ BBC经典,http://qdntv96789.applinzi.com/96tv.php?633138330
 大爱2台,http://iptv.52qdg.com/iptv.php?id=tw&pamid=002
 大爱2台,http://iptv.52qdg.com/iptv.php?id=tw&pamid=017
 TITV,http://iptv.52qdg.com/iptv.php?id=tw&pamid=018
-WS,http://iptv.52qdg.com/iptv.php?id=tw&pamid=019
 信吉,http://iptv.52qdg.com/iptv.php?id=tw&pamid=021
-FG,http://iptv.52qdg.com/iptv.php?id=tw&pamid=022
+人间卫视,http://iptv.52qdg.com/iptv.php?id=tw&pamid=022
 GH,http://iptv.52qdg.com/iptv.php?id=tw&pamid=023
 
 无线新闻,http://www.liveviptv.xyz/tv/tvb.php
