@@ -298,19 +298,32 @@ WS,http://iptv.52qdg.com/iptv.php?id=tw&pamid=019
 信吉,http://iptv.52qdg.com/iptv.php?id=tw&pamid=021
 FG,http://iptv.52qdg.com/iptv.php?id=tw&pamid=022
 GH,http://iptv.52qdg.com/iptv.php?id=tw&pamid=023
-有线新闻,http://hk.tv0668.com/dl/hk520.php?id=31
-无线新闻,http://hk.tv0668.com/dl/hk520.php?id=9
+
 无线新闻,http://www.liveviptv.xyz/tv/tvb.php
 无线新闻,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 TVB翡翠,http://hk.tv0668.com/dl/hk520.php?id=1
 VIUTV,http://hk.tv0668.com/dl/hk520.php?id=8
 无线财经,http://hk.tv0668.com/dl/hk520.php?id=10
-
-
 TVB明珠,http://hk.tv0668.com/dl/hk520.php?id=13
 TVB明珠,http://hk.tv0668.com/dl/hk520.php?id=12
+耀才财经,http://hk.tv0668.com/dl/hk520.php?id=19
+有线新闻,http://hk.tv0668.com/dl/hk520.php?id=31
+无线新闻,http://hk.tv0668.com/dl/hk520.php?id=9
+澳门卫视,http://hk.tv0668.com/dl/hk520.php?id=23
+澳亚卫视,http://hk.tv0668.com/dl/hk520.php?id=24
+凤凰香港,http://hk.tv0668.com/dl/hk520.php?id=2
+凤凰资讯,http://hk.tv0668.com/dl/hk520.php?id=3
+香港卫视,http://hk.tv0668.com/dl/hk520.php?id=6
+TVB星河,http://hk.tv0668.com/dl/hk520.php?id=17
+TVB明珠,http://hk.tv0668.com/dl/hk520.php?id=18
+RTHK32,http://hk.tv0668.com/dl/hk520.php?id=21
+电影台HD,http://hk.tv0668.com/dl/hk520.php?id=30
+有线电视,http://hk.tv0668.com/dl/hk520.php?id=34
+功夫台,http://hk.tv0668.com/dl/hk520.php?id=35
+
+
 TVB星河,http://tvbilive14-i.akamaihd.net/hls/live/496347/CXHMovie/CXHMovie-01.m3u8
-耀才財經,http://hk.tv0668.com/dl/hk520.php?id=19
+
 凤凰香港,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 阳光卫视,http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
@@ -333,13 +346,13 @@ HBO2台,http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8？fluxustv.m3u8
 
 半島电视,http://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8?540p/dsjtv.m3u8
 
-澳门卫视,http://hk.tv0668.com/dl/hk520.php?id=23
+
 
 澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
 
 莲花卫视,http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
 
-澳亚卫视,http://hk.tv0668.com/dl/hk520.php?id=24
+
 
 澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
 
