@@ -171,7 +171,7 @@ CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226675/index.m3u8
 CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226721/index.m3u8
 CCTV2,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226703/index.m3u8
 CCTV2,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226711/index.m3u8
-CCTV4,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226720/index.m3u8
+CCTV14,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226720/index.m3u8
 CCTV4,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226692/index.m3u8
 CCTV4,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226899/index.m3u8
 CCTV5+,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226745/index.m3u8
