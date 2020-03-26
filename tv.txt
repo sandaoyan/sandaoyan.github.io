@@ -282,8 +282,11 @@ One.by 4K,http://rtmp.one.by:1499
 
 
 港澳台,#genre#
+卫视电影,http://pull.scphsd.com/live/d3d96c59fbc7cc7f69a9083ad03800ce.flv
+美亚电影,http://pull.scphsd.com/live/b1c3997d267b55851c015fef337cf848.flv
+星卫电影,http://pull.scphsd.com/live/07c8c7d50c8a0554b7810b7179d4a6f3.flv
 BBC经典,http://qdntv96789.applinzi.com/96tv.php?633138330
-大愛1台,http://tv1.wanfudaluye.com/live/live.m3u8
+大爱1台,http://tv1.wanfudaluye.com/live/live.m3u8
 大爱1台,http://iptv.52qdg.com/iptv.php?id=tw&pamid=001
 大爱2台,http://iptv.52qdg.com/iptv.php?id=tw&pamid=002
 大爱2台,http://iptv.52qdg.com/iptv.php?id=tw&pamid=017
