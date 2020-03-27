@@ -164,6 +164,9 @@ Bestv4K,http://112.17.40.140/PLTV/88888888/224/3221226718/index.m3u8
 
 
 电信高清,#genre#
+法国,rtsp://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226007/99180001000000060000000000000432.smil
+法国e,rtmp://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226007/99180001000000060000000000000432.smil
+
 CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226675/index.m3u8
 CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226721/index.m3u8
 CCTV2,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226703/index.m3u8
