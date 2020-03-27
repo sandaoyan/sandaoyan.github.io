@@ -2,8 +2,6 @@
 学而思,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226840/index.m3u8
 学而思2 ,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226843/index.m3u8
 CETV4学习,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226846/index.m3u8
-学而思3,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226937/index.m3u8
-CETV4学,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226940/index.m3u8
 Best教学,http://liveplay-kk.rtxapp.com/live/program/live/hdnba7/4000000/mnf.m3u8
 企鹅辅 小学五年级,http://live-edu.wasu.tv/live/QiEFuDao-lv5.m3u8
 小学五年级3频道,http://39.135.139.223:6610/PLTV/88888910/224/3221225954/index.m3u8 
@@ -157,16 +155,11 @@ CGTN,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225822/index.m3u8
 ICS,http://117.156.28.21/PLTV/88888888/224/3221225639/index.m3u8
 Bestv4K,http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
 Bestv4K,http://112.17.40.140/PLTV/88888888/224/3221226718/index.m3u8
-国家地理台,sop://p2p.cibn.cc:80/943
-广东综艺4K,sop://p2p.52itv.cn:80/10071$P2P-4K
-广东综艺4K,sop://127.0.0.1:3912/10071
+
 全纪实,http://liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8
 
 
 电信高清,#genre#
-法国,rtsp://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226007/99180001000000060000000000000432.smil
-法国e,rtmp://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226007/99180001000000060000000000000432.smil
-
 CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226675/index.m3u8
 CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226721/index.m3u8
 CCTV2,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226703/index.m3u8
