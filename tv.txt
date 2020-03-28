@@ -99,9 +99,7 @@ CCTV16,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 上海电视剧,http://117.156.28.21/PLTV/88888888/224/3221225654/index.m3u8
 茶频道,http://39.135.250.70/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226058/99180001000000060000000000000415.smil
 茶频道,http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
-海南卫视,http://39.135.250.70/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226007/99180001000000060000000000000432.smil
-CCTV15,http://39.135.250.70/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226055/00000001000000060000000000000501.smil
-卫视,http://39.135.250.70/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226057/00000001000000060000000000000497_mdn_1.smil
+
 北京文艺,http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
 CETV-1,rtmp://ivi.bupt.edu.cn:1935/livetv/cetv1hd
 CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
@@ -161,6 +159,10 @@ Bestv4K,http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
 Bestv4K,http://112.17.40.140/PLTV/88888888/224/3221226718/index.m3u8
 
 全纪实,http://liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8
+
+海南卫视,http://39.135.250.70/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226007/99180001000000060000000000000432.smil
+CCTV15,http://39.135.250.70/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226055/00000001000000060000000000000501.smil
+CCTV11,http://39.135.250.70/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226057/00000001000000060000000000000497_mdn_1.smil
 
 
 电信高清,#genre#
