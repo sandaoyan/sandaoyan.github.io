@@ -4,9 +4,6 @@
 CETV4学习,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226846/index.m3u8
 Best教学,http://liveplay-kk.rtxapp.com/live/program/live/hdnba7/4000000/mnf.m3u8
 企鹅辅 小学五年级,http://live-edu.wasu.tv/live/QiEFuDao-lv5.m3u8
-小学五年级3频道,http://39.135.139.223:6610/PLTV/88888910/224/3221225954/index.m3u8 
-小学五年级2频道,http://39.135.139.223:6610/PLTV/88888910/224/3221225955/index.m3u8
-小学五年级1频道,http://39.135.139.223:6610/PLTV/88888910/224/3221225956/index.m3u8
 CCTV4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
 CCTV4K,http://117.148.187.56:80/PLTV/88888888/224/3221226758/1.m3u8
 广东卫视,http://223.110.245.172/PLTV/1/224/3221227476/index.m3u8
@@ -19,7 +16,6 @@ CCTV1,http://223.110.245.138/PLTV/1/224/3221227467/index.m3u8
 欢笑剧场,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226729/1.m3u8
 CCTV2,http://223.110.243.135/PLTV/1/224/3221227543/index.m3u8
 CCTV2,http://183.207.249.36/PLTV/1/224/3221227543/index.m3u8
-
 甘肃卫视,http://117.156.28.119/270000001111/1110000072/index.m3u8
 江苏卫视,http://223.110.243.172/PLTV/1/224/3221227552/index.m3u8
 CCTV3,http://223.110.245.136/PLTV/1/224/3221227546/index.m3u8
@@ -142,14 +138,14 @@ CGTN,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225822/index.m3u8
 冬奥纪实,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/1.m3u8
 纪实人文,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225946/1.m3u8
 
-青海卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225893/1.m3u8
-山西卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225895/1.m3u8
-云南卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225902/1.m3u8
-陕西卫视,http://cdn.sxbctv.com/PLTV/88888888/224/3221225498/index.m3u8
-宁夏卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225892/1.m3u8
-内蒙卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
-新疆卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
-西藏卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
+
+云南卫视,http://39.130.218.239:6610/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
+云南娱乐,http://39.130.206.132:6410/gitv_live/G_YNTV-3-HD/G_YNTV-3-HD.m3u8
+云南都市,http://39.130.206.132:6410/gitv_live/G_YNTV-2-HD/G_YNTV-2-HD.m3u8
+云南生活,http://39.130.206.132:6410/gitv_live/G_YNTV-4-HD/G_YNTV-4-HD.m3u8
+云南影视,http://39.130.206.132:6410/gitv_live/G_YNTV-5-HD/G_YNTV-5-HD.m3u8
+云南公共,http://39.130.206.132:6410/gitv_live/G_YNTV-6-HD/G_YNTV-6-HD.m3u8
+闽东电视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226635/index.m3u8
 
 求索记录,http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
 求索记录,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
@@ -699,6 +695,6 @@ MV,#genre#
 水长城镜头四,https://gccncc.v.wscdns.com/gc/wgw04_1/index.m3u8?contentid=2820180516001
 狮子山鸟瞰古城,https://gccncc.v.wscdns.com/gc/ljgcszsnkgc_1/index.m3u8?contentid=2820180516001
 远眺玉龙雪山,https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8?contentid=2820180516001
-大研花巷景观台,https://gcalic.v.myalicdn.com/gc/ljgcd
+大研花巷景观台,https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8?contentid=2820180516001
 
 
