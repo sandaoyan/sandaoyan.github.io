@@ -130,6 +130,8 @@ http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226859/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="央视卫视",茶频道
 http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" group-title="央视卫视",四海钓鱼
+http://112.17.40.140/PLTV/88888888/224/3221226533/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="央视卫视",金鹰纪实
 http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226714/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="央视卫视",冬奥纪实
