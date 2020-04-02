@@ -49,7 +49,7 @@ CCTV11,http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
 山东卫视,http://223.110.243.170/PLTV/1/224/3221227517/index.m3u8
 CCTV12,http://211.137.115.110:8080/gitv_live/G_CCTV-12-HD/G_CCTV-12-HD.m3u8
 甘肃都市,http://117.156.28.119/270000001111/1110000068/index.m3u8
-CCTV13,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+CCTV13,http://120.204.20.107/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 甘肃影视,http://117.156.28.119/270000001111/1110000067/index.m3u8
 CCTV14,http://211.137.115.110:8080/gitv_live/G_CCTV-14-HD/G_CCTV-14-HD.m3u8
 甘肃经济,http://117.156.28.119/270000001111/1110000070/index.m3u8
