@@ -7,7 +7,6 @@ Best教学,http://liveplay-kk.rtxapp.com/live/program/live/hdnba7/4000000/mnf.m3
 CCTV4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
 CCTV4K,http://117.148.187.56:80/PLTV/88888888/224/3221226758/1.m3u8
 广东卫视,http://223.110.245.172/PLTV/1/224/3221227476/index.m3u8
-广东卫视,http://223.110.245.134/PLTV/1/224/3221227476/index.m3u8
 CCTV1,http://223.110.243.138/PLTV/1/224/3221227467/index.m3u8
 CCTV1,http://223.110.245.138/PLTV/1/224/3221227467/index.m3u8
 湖北卫视,http://223.110.243.168/PLTV/1/224/3221227479/index.m3u8
@@ -37,7 +36,6 @@ CCTV7,http://211.137.115.110:8080/gitv_live/G_CCTV-7-HD/G_CCTV-7-HD.m3u8
 深圳卫视,http://223.110.243.138/PLTV/1/224/3221227555/index.m3u8
 CCTV8,http://223.110.243.135/PLTV/1/224/3221227473/index.m3u8
 湖南卫视,http://223.110.243.170/PLTV/1/224/3221227482/index.m3u8
-湖南卫视,http://223.110.243.172/PLTV/1/224/3221227482/index.m3u8
 湖南卫视,http://223.110.245.135/PLTV/1/224/3221227482/index.m3u8
 湖南卫视,http://223.110.245.169/PLTV/1/224/3221227482/index.m3u8
 湖南卫视,http://183.207.249.35/PLTV/3/224/3221227191/index.m3u8
@@ -49,7 +47,7 @@ CCTV11,http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
 山东卫视,http://223.110.243.170/PLTV/1/224/3221227517/index.m3u8
 CCTV12,http://211.137.115.110:8080/gitv_live/G_CCTV-12-HD/G_CCTV-12-HD.m3u8
 甘肃都市,http://117.156.28.119/270000001111/1110000068/index.m3u8
-CCTV13,http://120.204.20.107/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+CCTV13,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
 甘肃影视,http://117.156.28.119/270000001111/1110000067/index.m3u8
 CCTV14,http://211.137.115.110:8080/gitv_live/G_CCTV-14-HD/G_CCTV-14-HD.m3u8
 甘肃经济,http://117.156.28.119/270000001111/1110000070/index.m3u8
@@ -121,7 +119,7 @@ CCTV9,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225820/index.m3u8
 CCTV10,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225814/index.m3u8
 CCTV11,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/index.m3u8
 CCTV12,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225816/index.m3u8
-CCTV13,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
+
 CCTV14,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225819/index.m3u8
 CCTV15,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/index.m3u8
 CGTN,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225822/index.m3u8
