@@ -204,6 +204,10 @@ CETV-1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u
 原声电影,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226904/index.m3u8
 兵团卫视,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226859/index.m3u8
 新闻综合,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226849/index.m3u8
+高台新闻,http://117.156.28.55/PLTV/88888888/224/3221226038/index.m3u8
+崆峒电视,http://117.156.28.55/PLTV/88888888/224/3221226018/index.m3u8
+敦煌新闻,http://117.156.28.55/PLTV/88888888/224/3221225877/index.m3u8
+生活时尚,http://117.156.28.55/PLTV/88888888/224/3221225703/index.m3u8
 
 
 求索记录,http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
