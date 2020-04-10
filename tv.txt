@@ -254,10 +254,7 @@ One.by 4K,http://rtmp.one.by:1499
 TVB星河,http://tvbilive14-i.akamaihd.net/hls/live/496347/CXHMovie/CXHMovie-01.m3u8
 凤凰香港,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-阳光卫视,http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
 亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
-赛马频道,http://tvbilive11-i.akamaihd.net/hls/live/494672/CH88/CH88-01.m3u8
-MTV音乐,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 大爱1台,http://tv1.wanfudaluye.com/live/live.m3u8
 大爱1台,http://iptv.52qdg.com/iptv.php?id=tw&pamid=001
 大爱2台,http://iptv.52qdg.com/iptv.php?id=tw&pamid=002
