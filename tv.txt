@@ -144,12 +144,19 @@ CGTN,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225822/index.m3u8
 
 海峡卫视,http://player.200877926.top/18/tv.php?tv=fjtv&id=hxws
 
+海南卫视,http://218.76.94.119/live-cnc-cdn.ysp.cctv.cn/001/2000291503.m3u8
+河南卫视,http://218.76.94.119/live-cnc-cdn.ysp.cctv.cn/001/2000296103.m3u8
+河北卫视,http://218.76.94.119/live-cnc-cdn.ysp.cctv.cn/001/2000293403.m3u8
+广西卫视,http://218.76.94.119/live-cnc-cdn.ysp.cctv.cn/001/2000294203.m3u8
+四川卫视,http://218.76.94.119/live-cnc-cdn.ysp.cctv.cn/001/2000295003.m3u8
+
 云南卫视,http://39.130.218.239:6610/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
 云南娱乐,http://39.130.206.132:6410/gitv_live/G_YNTV-3-HD/G_YNTV-3-HD.m3u8
 云南都市,http://39.130.206.132:6410/gitv_live/G_YNTV-2-HD/G_YNTV-2-HD.m3u8
 云南生活,http://39.130.206.132:6410/gitv_live/G_YNTV-4-HD/G_YNTV-4-HD.m3u8
 云南影视,http://39.130.206.132:6410/gitv_live/G_YNTV-5-HD/G_YNTV-5-HD.m3u8
 云南公共,http://39.130.206.132:6410/gitv_live/G_YNTV-6-HD/G_YNTV-6-HD.m3u8
+
 
 
 CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226675/index.m3u8
