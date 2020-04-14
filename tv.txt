@@ -283,19 +283,6 @@ One.by 4K,http://rtmp.one.by:1499
 
 
 港澳台,#genre#
-
-HBO原創,p2p://fccsovh.pvbox.live:18912/5b14096a000a35a1031ce8879f0e06db.ts
-大愛二臺,p2p://fccsovh.pvbox.live:18912/5bdbf3990002e4dc8644ddaea1c38dd7.ts
-MTV LIVE HD,p2p://fccsovh.pvbox.live:18912/5b1408f100084d6ac9e54fca2a2b4b87.ts
-TVN ,p2p://fccsovh.pvbox.live:18912/5b14090b000aaf9df518e6bc59c1a58f.ts
-EYETV戲劇,p2p://fccsovh.pvbox.live:18912/5b14093e000e4339b8b0c6c5ce1e3723.ts
-龍華洋片,p2p://fccsovh.pvbox.live:18912/5b140917000c1e9b18cc343dccffbc94.ts
-龍華戲劇,p2p://fccsovh.pvbox.live:18912/5b14091600088a8c1332ee7424a2aada.ts
-龍華動畫,p2p://fccsovh.pvbox.live:18912/5b1409170002d1e2a66e2b6a27dc029d.ts
-龍華偶像,p2p://fccsovh.pvbox.live:18912/5b140918000126266aa17da93c82ff8b.ts
-龍華電影,p2p://fccsovh.pvbox.live:18912/5b140922000d1231461bc9a0356e90cc.ts
-好消息 2,p2p://fccsovh.pvbox.live:18912/5b140922000a72b2d248b81ff303acfd.ts
-
 TVB星河,http://tvbilive14-i.akamaihd.net/hls/live/496347/CXHMovie/CXHMovie-01.m3u8
 凤凰香港,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
