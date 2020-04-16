@@ -44,10 +44,9 @@ CCTV13,http://218.76.94.119/live-cnc-cdn.ysp.cctv.cn/001/2000204603.m3u8
 CCTV14,http://211.137.115.110:8080/gitv_live/G_CCTV-14-HD/G_CCTV-14-HD.m3u8
 厦门卫视,http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
 CCTV15,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
-东南卫视,http://117.169.124.37:6610/ysten-businessmobile/live/dongnanstv/yst.m3u8
+东南卫视,http://39.130.215.166:6410/gitv_live/G_DONGNAN-HD/G_DONGNAN-HD.m3u8
 CCTV17,http://112.50.243.5/PLTV/88888888/224/3221226990/1.m3u8
 CCTV17,http://117.169.124.37:6610/ysten-businessmobile/live/HD-4000k-1080P-cctv17/1.m3u8
-海峡卫视,http://player.200877926.top/18/tv.php?tv=fjtv&id=hxws
 
 
 CCTV1,http://211.137.115.110:8080/gitv_live/G_CCTV-1-MD/G_CCTV-1-MD.m3u8
@@ -179,10 +178,9 @@ CETV-1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u
 
 
 安徽卫视,http://39.130.215.166:6410/gitv_live/G_ANHUI-HD/G_ANHUI-HD.m3u8
-北京纪实,http://39.130.215.166:6410/gitv_live/G_BEIJINGJS-HD/G_BEIJINGJS-HD.m3u8
+东奥纪实,http://39.130.215.166:6410/gitv_live/G_BEIJINGJS-HD/G_BEIJINGJS-HD.m3u8
 北京卫视,http://39.130.215.166:6410/gitv_live/BTV-1/BTV-1.m3u8
 东方卫视,http://39.130.215.166:6410/gitv_live/DFWS-HD/DFWS-HD.m3u8
-东南卫视,http://39.130.215.166:6410/gitv_live/G_DONGNAN-HD/G_DONGNAN-HD.m3u8
 广东卫视,http://39.130.215.166:6410/gitv_live/GDWS-HD/GDWS-HD.m3u8
 贵州卫视,http://39.130.215.166:6410/gitv_live/G_GUIZHOU-HD/G_GUIZHOU-HD.m3u8
 黑龙江卫视,http://39.130.215.166:6410/gitv_live/G_HEILONGJIANG-HD/G_HEILONGJIANG-HD.m3u8
@@ -191,7 +189,7 @@ CETV-1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u
 江西卫视,http://39.130.215.166:6410/gitv_live/G_JIANGXI-HD/G_JIANGXI-HD.m3u8
 辽宁卫视,http://39.130.215.166:6410/gitv_live/G_LIAONING-HD/G_LIAONING-HD.m3u8
 山东卫视,http://39.130.215.166:6410/gitv_live/G_SHANDONG-HD/G_SHANDONG-HD.m3u8
-上海纪实,http://39.130.215.166:6410/gitv_live/G_SHANGHAIJS-HD/G_SHANGHAIJS-HD.m3u8
+纪实人文,http://39.130.215.166:6410/gitv_live/G_SHANGHAIJS-HD/G_SHANGHAIJS-HD.m3u8
 金鹰纪实,http://39.130.215.166:6410/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8
 深圳卫视,http://39.130.215.166:6410/gitv_live/SZWS-HD/SZWS-HD.m3u8
 重庆卫视,http://39.130.215.166:6410/gitv_live/G_CHONGQING-HD/G_CHONGQING-HD.m3u8
