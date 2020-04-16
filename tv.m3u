@@ -321,3 +321,19 @@ http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="港澳台",CTI中天亚洲台
 http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://img.tvb.com/ti_img/MyTVSuperPromo/2527/5c861fb93e81d_1552293817.jpeg" tvg-id="34c920b40d95f281cecfe2e61eecf5ab" group-title="港澳台",Jade
+http://acid-cloud.net:9981/stream/channelid/874563892?profile=pass
+#EXTINF:-1 tvg-logo="https://img.tvb.com/ti_img/MyTVSuperPromo/2527/5c861fcac9040_1552293834.jpeg" tvg-id="abd26758ceabd866d7f7f57b9ed09500" group-title="港澳台",J2
+http://acid-cloud.net:9981/stream/channelid/1483199147?profile=pass
+#EXTINF:-1 tvg-logo="https://img.tvb.com/ti_img/MyTVSuperPromo/2529/5c8862662d566_1552441958.jpeg" tvg-id="31ce6c104b96482c0fda78bb7e140640" group-title="港澳台",Pearl
+http://acid-cloud.net:9981/stream/channelid/275566129?profile=pass
+#EXTINF:-1 tvg-logo="https://img.tvb.com/ti_img/MyTVSuperPromo/2529/5c88625335b13_1552441939.jpeg" tvg-id="62a77aaa5d641207d4bf21df4a8d8055" group-title="港澳台",iNews
+http://acid-cloud.net:9981/stream/channelid/712681314?profile=pass
+#EXTINF:-1 tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" tvg-id="83a7c7ab188b7473f77ef39fa67219e1" group-title="港澳台",HK Open TV
+http://acid-cloud.net:9981/stream/channelid/734504835?profile=pass
+#EXTINF:-1 tvg-logo="https://viu.tv/assets/img/logo.png" tvg-id="22f400e9d52e922c77f957f97047f1e4" group-title="港澳台",Viu TV
+http://acid-cloud.net:9981/stream/channelid/1761670178?profile=pass
+#EXTINF:-1 tvg-logo="https://tube.hk/images/tv_cache/c/400x400_80viutv_six.jpg" tvg-id="db7873294f1908ec8ec297fb69f03640" group-title="港澳台",ViuTV6
+http://acid-cloud.net:9981/stream/channelid/695433435?profile=pass
