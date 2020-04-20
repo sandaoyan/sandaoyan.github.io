@@ -228,6 +228,22 @@ https://vod.mudu.tv/watch/2020-03-06/5eesof_15949.m3u8
 http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 #EXTINF:-1 tvg-logo="https://pic.downk.cc/item/5e65bf4598271cb2b8f19985.png" group-title="电影",4K电影
 http://60.255.149.215/tslive/c214_scc_20191122_m4avmczq_original_r10/c214_scc_20191122_m4avmczq_original_r10.m3u8&
+#EXTINF:-1 tvg-logo="",group-title="电影",BesTV动画频道
+http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-logo="",group-title="电影",BesTV体育赛事
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226030/index.m3u8
+#EXTINF:-1 tvg-logo="",group-title="电影",BesTV超级体育
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226023/index.m3u8
+#EXTINF:-1 tvg-logo="",group-title="电影",咪咕4K
+http://39.134.52.153/PLTV/88888888/224/3221226162/1.m3u8
+#EXTINF:-1 tvg-logo="",group-title="电影",咪咕4K
+http://112.50.243.8/PLTV/88888888/224/3221226833/1.m3u8
+#EXTINF:-1 tvg-logo="",group-title="电影",咪咕体育4K
+http://39.134.52.180/PLTV/88888888/224/3221226162/index.m3u8
+#EXTINF:-1 tvg-logo="",group-title="电影",咪咕直播4K
+http://39.134.52.153/PLTV/88888888/224/3221226158/1.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="港澳台",大爱1台
 http://tv1.wanfudaluye.com/live/live.m3u8
