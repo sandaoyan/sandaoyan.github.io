@@ -118,7 +118,7 @@ CCTV14,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225819/index.m3u8
 CCTV15,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/index.m3u8
 
 安徽卫视,http://39.130.215.166:6410/gitv_live/G_ANHUI-HD/G_ANHUI-HD.m3u8
-东奥纪实,http://39.130.215.166:6410/gitv_live/G_BEIJINGJS-HD/G_BEIJINGJS-HD.m3u8
+冬奥纪实,http://39.130.215.166:6410/gitv_live/G_BEIJINGJS-HD/G_BEIJINGJS-HD.m3u8
 北京卫视,http://39.130.215.166:6410/gitv_live/BTV-1/BTV-1.m3u8
 东方卫视,http://39.130.215.166:6410/gitv_live/DFWS-HD/DFWS-HD.m3u8
 广东卫视,http://39.130.215.166:6410/gitv_live/GDWS-HD/GDWS-HD.m3u8
@@ -240,7 +240,6 @@ CCTV5+,http://112.17.40.140/PLTV/88888888/224/3221226406/index.m3u8
 动物,http://112.17.40.140/PLTV/88888888/224/3221226179/index.m3u8
 美食,http://112.17.40.140/PLTV/88888888/224/3221226606/index.m3u8
 四海钓鱼,http://112.17.40.140/PLTV/88888888/224/3221226533/index.m3u8
-哈尔滨影视,http://111.40.205.87/PLTV/88888888/224/3221225760/index.m3u8
 
 
 
@@ -251,38 +250,33 @@ CCTV5+,http://112.17.40.140/PLTV/88888888/224/3221226406/index.m3u8
 四川卫视,http://218.76.94.119/live-cnc-cdn.ysp.cctv.cn/001/2000295003.m3u8
 贵州卫视,http://218.76.94.119/live-cnc-cdn.ysp.cctv.cn/001/2000293303.m3u8
 
-
-求索记录,http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
-求索科学,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
-求索动物,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
-求索记录,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
-
-Bestv4K,http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
-Bestv4K,http://112.17.40.140/PLTV/88888888/224/3221226718/index.m3u8
 爱上4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 极速汽车,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226274/index.m3u8
 相声小品,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226346/index.m3u8
 全纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225608/index.m3u8
 全纪实,http://liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8
 宝鸡新闻 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226383/index.m3u8
-宁强-1 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226390/index.m3u8
-宁强-2 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226389/index.m3u8
-CETV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225549/index.m3u8
-CETV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
-CETV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
-CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
+宁强-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226390/index.m3u8
+宁强-2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226389/index.m3u8
 CCTV发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
 CCTV老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 CCTV女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226237/index.m3u8
 
-陕西卫视,http://124.47.33.207/PLTV/88888888/224/3221225498/index.m3u8
-吉林卫视,http://124.47.33.203/PLTV/88888888/224/3221225598/index.m3u8
+求索记录,http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
+求索科学,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
+求索动物,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
+求索记录,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
+Bestv4K,http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
+Bestv4K,http://112.17.40.140/PLTV/88888888/224/3221226718/index.m3u8
+
 
 
 
 电信高清,#genre#
 邳州综合,http://stream.pznews.com/pztv1/sd/live.m3u8
 邳州综艺,http://stream.pznews.com/pztv2/sd/live.m3u8
+陕西卫视,http://124.47.33.207/PLTV/88888888/224/3221225498/index.m3u8
+吉林卫视,http://124.47.33.203/PLTV/88888888/224/3221225598/index.m3u8
 
 北京文艺,http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
 CETV-1,rtmp://ivi.bupt.edu.cn:1935/livetv/cetv1hd
