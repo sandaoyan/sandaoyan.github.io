@@ -92,7 +92,7 @@ CCTV8,http://211.137.115.110:8080/gitv_live/G_CCTV-8-HD/G_CCTV-8-HD.m3u8
 四川卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227006/1.m3u8
 厦门卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8
 闽东卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226635/index.m3u8
-
+康巴卫视,http://stream.kangbatv.com/test/playlist.m3u8
 
 甘肃卫视,http://117.156.28.119/270000001111/1110000072/index.m3u8
 甘肃影视,http://117.156.28.119/270000001111/1110000067/index.m3u8
@@ -142,6 +142,8 @@ CCTV15,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/index.m3u8
 云南生活,http://39.130.206.132:6410/gitv_live/G_YNTV-4-HD/G_YNTV-4-HD.m3u8
 云南影视,http://39.130.206.132:6410/gitv_live/G_YNTV-5-HD/G_YNTV-5-HD.m3u8
 云南公共,http://39.130.206.132:6410/gitv_live/G_YNTV-6-HD/G_YNTV-6-HD.m3u8
+
+
 
 CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226675/index.m3u8
 CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226721/index.m3u8
