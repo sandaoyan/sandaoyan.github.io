@@ -100,6 +100,10 @@ CCTV8,http://211.137.115.110:8080/gitv_live/G_CCTV-8-HD/G_CCTV-8-HD.m3u8
 甘肃经济,http://117.156.28.119/270000001111/1110000070/index.m3u8
 甘肃少儿,http://117.156.28.119/270000001111/1110000071/index.m3u8
 
+山东综艺,http://120.221.44.101:8089/PLTV/88888888/224/3221225855/index.m3u8
+山东影视,http://120.221.44.101:8089/PLTV/88888888/224/3221225802/1.m3u8
+山东齐鲁,http://120.221.5.102:8089/PLTV/88888888/224/3221226045/1.m3u8
+
 
 CCTV1,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8
 CCTV2,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
@@ -215,6 +219,11 @@ CETV-1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u
 茶频道,http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
 茶频道,http://39.135.250.70/PLTV/88888888/224/3221226058/99180001000000060000000000000415.smil
 
+四海钓鱼,http://live.hcs.cmvideo.cn:8088/wd_r4/peoplecn/shdiaoyu/1200/index.m3u8?ProgramID=&encrypt=
+CCTV13,http://live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctv13/2000/index.m3u8?ProgramID=&encrypt=
+CETV1,http://live.hcs.cmvideo.cn:8088/wd_r3/cctv/cetv1hd/3000/index.m3u8?ProgramID=&encrypt=
+全纪实,http://live.hcs.cmvideo.cn:8088/wd_r2/ocn/quanjishihd/3000/index.m3u8?ProgramID=&encrypt=
+
 CCTV1,http://112.17.40.140/PLTV/88888888/224/3221226541/index.m3u8
 CCTV2,http://112.17.40.140/PLTV/88888888/224/3221226138/index.m3u8
 CCTV5,http://112.17.40.140/PLTV/88888888/224/3221226400/index.m3u8
@@ -273,19 +282,16 @@ CCTV女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226237/i
 Bestv4K,http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
 Bestv4K,http://112.17.40.140/PLTV/88888888/224/3221226718/index.m3u8
 CHC动作电影,http://117.156.28.21/PLTV/88888888/224/3221225847/index.m3u8
-蓝光影视1台,http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
-蓝光影视2台,http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8
-蓝光影视3台,http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
-蓝光影视4台,http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
-蓝光影视5台,http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
-蓝光影视6台,http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8
-蓝光影视7台,http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8
-蓝光影视8台,http://112.17.40.145/PLTV/88888888/224/3221226608/index.m3u8
+影视1台,http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
+影视2台,http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8
+影视3台,http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
+影视4台,http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
+影视5台,http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
+影视6台,http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8
+影视7台,http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8
+影视8台,http://112.17.40.145/PLTV/88888888/224/3221226608/index.m3u8
 
-四海钓鱼,http://live.hcs.cmvideo.cn:8088/wd_r4/peoplecn/shdiaoyu/1200/index.m3u8?ProgramID=&encrypt=
-CCTV13,http://live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctv13/2000/index.m3u8?ProgramID=&encrypt=
-CETV1,http://live.hcs.cmvideo.cn:8088/wd_r3/cctv/cetv1hd/3000/index.m3u8?ProgramID=&encrypt=
-全纪实,http://live.hcs.cmvideo.cn:8088/wd_r2/ocn/quanjishihd/3000/index.m3u8?ProgramID=&encrypt=
+
 
 
 
