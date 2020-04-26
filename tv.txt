@@ -296,51 +296,16 @@ CHC动作电影,http://117.156.28.21/PLTV/88888888/224/3221225847/index.m3u8
 电视剧,http://ott.js.chinamobile.com/PLTV/3/224/3221227512/index.m3u8
 
 湖南卫视4K,http://www.wshl.tv/proxys_http/hn_otv_proxy_test.html?id=52a440143e2891e1f963f1f46e1145da
-广东综艺4K(珠江宽频),http://116.199.5.52:8114/00000000/index.m3u8?
-&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LI
-VES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnab
-le=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-爱上4K(成都电
-信),http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_cha
+爱上4K,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_cha
 n_hls_se_idx=092&Provider_id=&Pcontent_id=index.m3u8
-BasTV4K影院(移动),http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
 
 中国气象,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-四海钓鱼,http://125.210.152.18:9090/live/SHDY.m3u8
 武术频道,http://120.221.5.102:8089/PLTV/88888888/224/3221225996/index.m3u8
-CHC华城影视,http://by4.nty.tv189.cn/tm-cridyty-512k.m3u8
-CRI华诚影视 ,http://118.123.60.9:8114/hls/index.m3u8?
 
-Fsv_chan_hls_se_idx=36&FvSeid=1&Fsv_ctype=LIVES&Provider_id=&Pcontent_id=.m3u8
-岭南戏曲,http://szlive.grtn.cn/lnxq/sd/live.m3u8
-东北戏曲,http://stream1.jlntv.cn/dbxq/playlist.m3u8?_upt=ea4a8ed01540827167
-京视剧场(移
-
-动),http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227040/index.m3
-
-u8 
-求索生活台,http://125.210.152.18:9090/live/QSSH_1200.m3u8
-求索动物台,http://125.210.152.18:9090/live/QSDW_1200.m3u8
-求索科学台,http://125.210.152.18:9090/live/QSKX_1200.m3u8
-求索纪录台,http://125.210.152.18:9090/live/QSJLHD_H265.m3u8
-邵氏电影,https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-
-
-bvc/164219/live_97065163_17925468.m3u8
 邵氏鬼片,http://pull.kktv8.com/livekktv/143960119.flv
 4k影院,https://dlhls-cdn-mp.zhanqi.tv/zqlive/296268_hodBy.m3u8
 林正英,https://aldirect.hls.huya.com/huyalive/29359996-2689615538-
-
 11551810774523445248-2847687642-10057-A-1525496014-1_1200.m3u8
-周星驰电影,http://bd.flv.huya.com/src/94525224-2460685313-10568562945082523648-
-
-2789274524-10057-A-0-1.m3u8
-咪咕激情夜场影院,http://www.dszbdq.cn/diao/migu.php?id=625188208
-
-
-周华健 Ⅰ 江湖笑,http://220.194.238.108/13/r/j/b/a/rjbapixkxzajcjrxyczmixlrjccogs/hc.yinyuetai
-.com/CB18016B3AF989763E0D0E7CBC4B5F9A.mp4?sc=d982b98a2db88c97
-
-
 
 
 电信高清,#genre#
