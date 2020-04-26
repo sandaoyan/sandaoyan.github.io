@@ -89,6 +89,7 @@ CETV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u8
 湖南卫视,http://223.110.245.135/PLTV/1/224/3221227482/index.m3u8
 湖南卫视,http://223.110.245.169/PLTV/1/224/3221227482/index.m3u8
 湖南卫视,http://183.207.249.35/PLTV/3/224/3221227191/index.m3u8
+湖南卫视4K,http://www.wshl.tv/proxys_http/hn_otv_proxy_test.html?id=52a440143e2891e1f963f1f46e1145da
 浙江卫视,http://223.110.245.136/PLTV/1/224/3221227491/index.m3u8
 辽宁卫视,http://183.207.249.8/PLTV/1/224/3221227485/index.m3u8
 山东卫视,http://223.110.243.170/PLTV/1/224/3221227517/index.m3u8
@@ -261,6 +262,8 @@ CETV1,http://live.hcs.cmvideo.cn:8088/wd_r3/cctv/cetv1hd/3000/index.m3u8?Program
 宁强-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226390/index.m3u8
 宁强-2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226389/index.m3u8
 昌乐新闻,http://livealone302.iqilu.com/changle/changle_tv01/index.m3u8
+中国气象,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+武术频道,http://120.221.5.102:8089/PLTV/88888888/224/3221225996/index.m3u8
 
 求索动物,http://112.17.40.140/PLTV/88888888/224/3221226695/index.m3u8
 求索科学,http://112.17.40.140/PLTV/88888888/224/3221226608/index.m3u8
@@ -294,18 +297,7 @@ CHC动作电影,http://117.156.28.21/PLTV/88888888/224/3221225847/index.m3u8
 影视8台,http://112.17.40.145/PLTV/88888888/224/3221226608/index.m3u8
 电影9台,http://ott.js.chinamobile.com/PLTV/3/224/3221227579/index.m3u8
 电视剧,http://ott.js.chinamobile.com/PLTV/3/224/3221227512/index.m3u8
-
-湖南卫视4K,http://www.wshl.tv/proxys_http/hn_otv_proxy_test.html?id=52a440143e2891e1f963f1f46e1145da
-爱上4K,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_cha
-n_hls_se_idx=092&Provider_id=&Pcontent_id=index.m3u8
-
-中国气象,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-武术频道,http://120.221.5.102:8089/PLTV/88888888/224/3221225996/index.m3u8
-
 邵氏鬼片,http://pull.kktv8.com/livekktv/143960119.flv
-4k影院,https://dlhls-cdn-mp.zhanqi.tv/zqlive/296268_hodBy.m3u8
-林正英,https://aldirect.hls.huya.com/huyalive/29359996-2689615538-
-11551810774523445248-2847687642-10057-A-1525496014-1_1200.m3u8
 
 
 电信高清,#genre#
