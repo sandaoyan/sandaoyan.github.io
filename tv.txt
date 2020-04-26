@@ -295,24 +295,16 @@ CHC动作电影,http://117.156.28.21/PLTV/88888888/224/3221225847/index.m3u8
 电影9台,http://ott.js.chinamobile.com/PLTV/3/224/3221227579/index.m3u8
 电视剧,http://ott.js.chinamobile.com/PLTV/3/224/3221227512/index.m3u8
 
-湖南卫视4K,http://www.wshl.tv/proxys_http/hn_otv_proxy_test.html?
-
-id=52a440143e2891e1f963f1f46e1145da
+湖南卫视4K,http://www.wshl.tv/proxys_http/hn_otv_proxy_test.html?id=52a440143e2891e1f963f1f46e1145da
 广东综艺4K(珠江宽频),http://116.199.5.52:8114/00000000/index.m3u8?
-
 &Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LI
-
 VES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnab
-
 le=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 爱上4K(成都电
-
 信),http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_cha
-
 n_hls_se_idx=092&Provider_id=&Pcontent_id=index.m3u8
 BasTV4K影院(移动),http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
-Кино UHD,http://188.35.9.18:16050/udp/238.0.16.1:69000
-不踢啥事没有，一个被踢者的自白,！
+
 中国气象,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 四海钓鱼,http://125.210.152.18:9090/live/SHDY.m3u8
 武术频道,http://120.221.5.102:8089/PLTV/88888888/224/3221225996/index.m3u8
