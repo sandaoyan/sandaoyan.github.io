@@ -99,13 +99,15 @@ CETV-1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u
 厦门卫视,http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
 东南卫视,http://39.130.215.166:6410/gitv_live/G_DONGNAN-HD/G_DONGNAN-HD.m3u8
 
+
+
 邳州综艺,http://ott.js.chinamobile.com/PLTV/3/224/3221227573/index.m3u8
 邳州综合,http://ott.js.chinamobile.com/PLTV/3/224/3221227576/index.m3u8
 
 北京卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221225574/index.m3u8
 东方卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221227597/index.m3u8
 广东卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221227249/index.m3u8
-河北卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221227491/index.m3u8
+浙江卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221227491/index.m3u8
 湖南卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221227482/index.m3u8
 湖北卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221227565/index.m3u8
 黑龙江台,http://ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8
@@ -115,7 +117,6 @@ CETV-1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u
 山东卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221227517/index.m3u8
 浙江卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221225544/index.m3u8
 陶瓷工艺,http://ott.js.chinamobile.com/PLTV/3/224/3221227365/index.m3u8
-
 
 江苏卫视,http://211.137.115.110:8080/gitv_live/G_JIANGSU-MD/G_JIANGSU-MD.m3u8
 浙江卫视,http://211.137.115.110:8080/gitv_live/G_ZHEJIANG-MD/G_ZHEJIANG-MD.m3u8
@@ -132,7 +133,6 @@ CETV-1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u
 北京卫视,http://211.137.115.110:8080/gitv_live/G_BEIJING-MD/G_BEIJING-MD.m3u8
 
 
-
 重庆卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
 重庆卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225831/1.m3u8
 安徽卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225945/1.m3u8
@@ -146,12 +146,11 @@ CETV-1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u
 广东卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
 山东卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225943/1.m3u8
 辽宁卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225947/1.m3u8
-冬奥纪实,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/1.m3u8
-纪实人文,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225946/1.m3u8
 四川卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227006/1.m3u8
 厦门卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8
 闽东卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226635/index.m3u8
-康巴卫视,http://stream.kangbatv.com/test/playlist.m3u8
+冬奥纪实,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/1.m3u8
+纪实人文,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225946/1.m3u8
 
 甘肃卫视,http://117.156.28.119/270000001111/1110000072/index.m3u8
 甘肃影视,http://117.156.28.119/270000001111/1110000067/index.m3u8
@@ -171,6 +170,7 @@ CETV-1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u
 山东农科,http://120.221.5.102:8089/PLTV/88888888/224/3221226018/index.m3u8
 山东少儿,http://120.221.5.110:8089/PLTV/88888888/224/3221226195/index.m3u8
 
+康巴卫视,http://stream.kangbatv.com/test/playlist.m3u8
 
 安徽卫视,http://39.130.215.166:6410/gitv_live/G_ANHUI-HD/G_ANHUI-HD.m3u8
 冬奥纪实,http://39.130.215.166:6410/gitv_live/G_BEIJINGJS-HD/G_BEIJINGJS-HD.m3u8
