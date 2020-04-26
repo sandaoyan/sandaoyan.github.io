@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视卫视",邳州综艺
-http://ott.js.chinamobile.com/PLTV/3/224/3221227573/index.m3u8
-#EXTINF:-1 group-title="央视卫视",邳州综合
-http://ott.js.chinamobile.com/PLTV/3/224/3221227576/index.m3u8
 #EXTINF:-1 tvg-id="0" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视卫视",CCTV4k
 http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视卫视",CCTV1
@@ -154,7 +150,10 @@ http://live-wx.wifiwx.com/wxtv1/sd/live.m3u8
 http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="央视卫视",CETV-1
 http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u8
-
+#EXTINF:-1 group-title="央视卫视",邳州综艺
+http://ott.js.chinamobile.com/PLTV/3/224/3221227573/index.m3u8
+#EXTINF:-1 group-title="央视卫视",邳州综合
+http://ott.js.chinamobile.com/PLTV/3/224/3221227576/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="央视卫视",欢笑剧场
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226729/1.m3u8
