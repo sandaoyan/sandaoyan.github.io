@@ -22,6 +22,7 @@ CCTV9,http://211.137.115.110:8080/gitv_live/G_CCTV-9-HD/G_CCTV-9-HD.m3u8
 CCTV10,http://211.137.115.110:8080/gitv_live/G_CCTV-10-HD/G_CCTV-10-HD.m3u8
 CCTV11,http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
 CCTV12,http://211.137.115.110:8080/gitv_live/G_CCTV-12-HD/G_CCTV-12-HD.m3u8
+CCTV13,http://live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctv13/2000/index.m3u8?ProgramID=&encrypt=
 CCTV13,http://live-temp-litchi-hls-yf.jstv.com:80/live/zhibo-cctv13/online.m3u8
 CCTV13,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/001/2000204603.m3u8
 CCTV14,http://211.137.115.110:8080/gitv_live/G_CCTV-14-HD/G_CCTV-14-HD.m3u8
@@ -77,11 +78,15 @@ CCTV12,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226736/index.m3u
 CCTV14,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226720/index.m3u8
 CETV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u8
 
-沛县新闻,http://peixian-hls-tv-yf.cm.jstv.com/live/pxzh/online.m3u8
+
 邳州综艺,http://ott.js.chinamobile.com/PLTV/3/224/3221227573/index.m3u8
 邳州综合,http://ott.js.chinamobile.com/PLTV/3/224/3221227576/index.m3u8
 无锡资讯,http://live-wx.wifiwx.com/wxtv3/sd/live.m3u8
 无锡综合,http://live-wx.wifiwx.com/wxtv1/sd/live.m3u8
+沛县新闻,http://peixian-hls-tv-yf.cm.jstv.com/live/pxzh/online.m3u8
+丰县新闻,http://fengxian-hls-tv-yf.cm.jstv.com/live/fxxwzh/online.m3u8
+丰县生活,http://fengxian-hls-tv-yf.cm.jstv.com/live/fxshyl/online.m3u8
+丰县新农村,http://fengxian-hls-tv-yf.cm.jstv.com/live/fxxnc/online.m3u8
 
 江苏卫视,http://223.110.243.172/PLTV/1/224/3221227552/index.m3u8
 天津卫视,http://223.110.243.135/PLTV/1/224/3221227488/index.m3u8
@@ -95,7 +100,7 @@ CETV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u8
 湖南卫视,http://223.110.245.135/PLTV/1/224/3221227482/index.m3u8
 湖南卫视,http://223.110.245.169/PLTV/1/224/3221227482/index.m3u8
 湖南卫视,http://183.207.249.35/PLTV/3/224/3221227191/index.m3u8
-湖南卫视4K,http://www.wshl.tv/proxys_http/hn_otv_proxy_test.html?id=52a440143e2891e1f963f1f46e1145da
+蜗牛4K,http://www.wshl.tv/proxys_http/hn_otv_proxy_test.html?id=52a440143e2891e1f963f1f46e1145da
 浙江卫视,http://223.110.245.136/PLTV/1/224/3221227491/index.m3u8
 辽宁卫视,http://183.207.249.8/PLTV/1/224/3221227485/index.m3u8
 山东卫视,http://223.110.243.170/PLTV/1/224/3221227517/index.m3u8
@@ -162,6 +167,8 @@ CETV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u8
 甘肃都市,http://117.156.28.119/270000001111/1110000068/index.m3u8
 甘肃经济,http://117.156.28.119/270000001111/1110000070/index.m3u8
 甘肃少儿,http://117.156.28.119/270000001111/1110000071/index.m3u8
+武进新闻,https://live.wjyanghu.com/live/CH1.m3u8
+武进生活,https://live.wjyanghu.com/live/CH2.m3u8
 
 山东综艺,http://120.221.44.101:8089/PLTV/88888888/224/3221225855/index.m3u8
 山东影视,http://120.221.44.101:8089/PLTV/88888888/224/3221225802/1.m3u8
@@ -251,7 +258,7 @@ CETV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u8
 四海钓鱼,http://125.210.152.18:9090/live/SHDY.m3u8
 四海钓鱼,http://112.17.40.140/PLTV/88888888/224/3221226533/index.m3u8
 
-CCTV13,http://live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctv13/2000/index.m3u8?ProgramID=&encrypt=
+
 CETV1,http://live.hcs.cmvideo.cn:8088/wd_r3/cctv/cetv1hd/3000/index.m3u8?ProgramID=&encrypt=
 全纪实,http://live.hcs.cmvideo.cn:8088/wd_r2/ocn/quanjishihd/3000/index.m3u8?ProgramID=&encrypt=
 
