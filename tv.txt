@@ -84,9 +84,6 @@ CETV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u8
 无锡资讯,http://live-wx.wifiwx.com/wxtv3/sd/live.m3u8
 无锡综合,http://live-wx.wifiwx.com/wxtv1/sd/live.m3u8
 沛县新闻,http://peixian-hls-tv-yf.cm.jstv.com/live/pxzh/online.m3u8
-丰县新闻,http://fengxian-hls-tv-yf.cm.jstv.com/live/fxxwzh/online.m3u8
-丰县生活,http://fengxian-hls-tv-yf.cm.jstv.com/live/fxshyl/online.m3u8
-丰县新农村,http://fengxian-hls-tv-yf.cm.jstv.com/live/fxxnc/online.m3u8
 淄博新闻,http://120.221.5.112:8089/PLTV/88888888/224/3221225986/index.m3u8
 淄博公共,http://120.221.5.168:8089/PLTV/88888888/224/3221226014/index.m3u8
 宝鸡新闻 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226383/index.m3u8
@@ -298,7 +295,6 @@ Bestv4K,http://112.17.40.140/PLTV/88888888/224/3221226718/index.m3u8
 家庭剧场,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226740/index.m3u8
 大众影视,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8
 家庭影院,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226883/index.m3u8
-译制片,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226901/index.m3u8
 CHC动作电影,http://117.156.28.21/PLTV/88888888/224/3221225847/index.m3u8
 影视1台,http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
 影视2台,http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8
