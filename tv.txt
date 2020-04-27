@@ -77,6 +77,11 @@ CCTV12,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226736/index.m3u
 CCTV14,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226720/index.m3u8
 CETV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u8
 
+沛县新闻,http://peixian-hls-tv-yf.cm.jstv.com/live/pxzh/online.m3u8
+邳州综艺,http://ott.js.chinamobile.com/PLTV/3/224/3221227573/index.m3u8
+邳州综合,http://ott.js.chinamobile.com/PLTV/3/224/3221227576/index.m3u8
+无锡资讯,http://live-wx.wifiwx.com/wxtv3/sd/live.m3u8
+无锡综合,http://live-wx.wifiwx.com/wxtv1/sd/live.m3u8
 
 江苏卫视,http://223.110.243.172/PLTV/1/224/3221227552/index.m3u8
 天津卫视,http://223.110.243.135/PLTV/1/224/3221227488/index.m3u8
@@ -103,11 +108,6 @@ CETV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u8
 
 
 
-邳州综艺,http://ott.js.chinamobile.com/PLTV/3/224/3221227573/index.m3u8
-邳州综合,http://ott.js.chinamobile.com/PLTV/3/224/3221227576/index.m3u8
-
-无锡资讯,http://live-wx.wifiwx.com/wxtv3/sd/live.m3u8
-无锡综合,http://live-wx.wifiwx.com/wxtv1/sd/live.m3u8
 
 北京卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221225574/index.m3u8
 东方卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221227597/index.m3u8
@@ -302,6 +302,8 @@ CHC动作电影,http://117.156.28.21/PLTV/88888888/224/3221225847/index.m3u8
 电视剧,http://ott.js.chinamobile.com/PLTV/3/224/3221227512/index.m3u8
 邵氏鬼片,http://pull.kktv8.com/livekktv/143960119.flv
 邵氏电影,https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/164219/live_97065163_17925468.m3u8
+林正英电影,http://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_2000.m3u8
+
 
 电信高清,#genre#
 青海卫视,http://live.geermurmt.com/qhws/sd/live.m3u8
