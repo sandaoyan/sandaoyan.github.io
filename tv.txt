@@ -1,6 +1,6 @@
 移动高清,#genre#
 欢笑剧场,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226729/1.m3u8
-都市剧场,http://112.17.40.140/PLTV/88888888/224/3221226825/index.m3u8
+
 CCTV4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
 CCTV4K,http://117.148.187.56:80/PLTV/88888888/224/3221226758/1.m3u8
 
@@ -95,7 +95,7 @@ CETV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u8
 高台新闻,http://117.156.28.55/PLTV/88888888/224/3221226038/index.m3u8
 崆峒电视,http://117.156.28.55/PLTV/88888888/224/3221226018/index.m3u8
 敦煌新闻,http://117.156.28.55/PLTV/88888888/224/3221225877/index.m3u8
-
+都市剧场,http://112.17.40.140/PLTV/88888888/224/3221226825/index.m3u8
 江苏卫视,http://223.110.243.172/PLTV/1/224/3221227552/index.m3u8
 天津卫视,http://223.110.243.135/PLTV/1/224/3221227488/index.m3u8
 黑龙江卫视,http://223.110.243.136/PLTV/1/224/3221227514/index.m3u8
@@ -175,8 +175,8 @@ CETV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u8
 甘肃都市,http://117.156.28.119/270000001111/1110000068/index.m3u8
 甘肃经济,http://117.156.28.119/270000001111/1110000070/index.m3u8
 甘肃少儿,http://117.156.28.119/270000001111/1110000071/index.m3u8
-武进新闻,https://live.wjyanghu.com/live/CH1.m3u8
-武进生活,https://live.wjyanghu.com/live/CH2.m3u8
+
+
 
 山东综艺,http://120.221.44.101:8089/PLTV/88888888/224/3221225855/index.m3u8
 山东影视,http://120.221.44.101:8089/PLTV/88888888/224/3221225802/1.m3u8
@@ -251,7 +251,7 @@ CETV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u8
 
 生活时尚,http://117.156.28.55/PLTV/88888888/224/3221225703/index.m3u8
 上海ICS,http://117.156.28.21/PLTV/88888888/224/3221225639/index.m3u8
-上海电视,http://117.156.28.21/PLTV/88888888/224/3221225654/index.m3u8
+东方影视,http://117.156.28.21/PLTV/88888888/224/3221225654/index.m3u8
 
 
 茶频道,http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
@@ -261,7 +261,7 @@ CETV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u8
 四海钓鱼,http://125.210.152.18:9090/live/SHDY.m3u8
 四海钓鱼,http://112.17.40.140/PLTV/88888888/224/3221226533/index.m3u8
 
-
+全纪实,http://liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8
 CETV1,http://live.hcs.cmvideo.cn:8088/wd_r3/cctv/cetv1hd/3000/index.m3u8?ProgramID=&encrypt=
 全纪实,http://live.hcs.cmvideo.cn:8088/wd_r2/ocn/quanjishihd/3000/index.m3u8?ProgramID=&encrypt=
 
@@ -271,13 +271,13 @@ CCTV发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/i
 CCTV老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 CCTV女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226237/index.m3u8
 极速汽车,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226274/index.m3u8
-相声小品,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226346/index.m3u8
 全纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225608/index.m3u8
-全纪实,http://liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8
+
 
 中国气象,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 武术频道,http://120.221.5.102:8089/PLTV/88888888/224/3221225996/index.m3u8
 
+求索科学,http://112.17.40.145/PLTV/88888888/224/3221226608/index.m3u8
 求索动物,http://112.17.40.140/PLTV/88888888/224/3221226695/index.m3u8
 求索科学,http://112.17.40.140/PLTV/88888888/224/3221226608/index.m3u8
 求索记录,http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
@@ -303,8 +303,7 @@ CHC动作电影,http://117.156.28.21/PLTV/88888888/224/3221225847/index.m3u8
 影视5台,http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
 影视6台,http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8
 影视7台,http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8
-影视8台,http://112.17.40.145/PLTV/88888888/224/3221226608/index.m3u8
-电影9台,http://ott.js.chinamobile.com/PLTV/3/224/3221227579/index.m3u8
+电影8台,http://ott.js.chinamobile.com/PLTV/3/224/3221227579/index.m3u8
 电视剧,http://ott.js.chinamobile.com/PLTV/3/224/3221227512/index.m3u8
 邵氏鬼片,http://pull.kktv8.com/livekktv/143960119.flv
 邵氏电影,https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/164219/live_97065163_17925468.m3u8
