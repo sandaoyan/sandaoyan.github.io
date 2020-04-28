@@ -307,6 +307,10 @@ CHC动作电影,http://117.156.28.21/PLTV/88888888/224/3221225847/index.m3u8
 影视7台,http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8
 电影8台,http://ott.js.chinamobile.com/PLTV/3/224/3221227579/index.m3u8
 电视剧,http://ott.js.chinamobile.com/PLTV/3/224/3221227512/index.m3u8
+周星驰,http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.flv
+喜剧港片,http://tx2play1.douyucdn.cn/live/8294640reDY9Bjsj.flv
+林正英,http://tx2play1.douyucdn.cn/218859rBEzPMFyR5.flv
+香港赌片,http://tx2play1.douyucdn.cn/315457rm3dWHAWuW.flv
 邵氏鬼片,http://pull.kktv8.com/livekktv/143960119.flv
 邵氏电影,https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/164219/live_97065163_17925468.m3u8
 林正英电影,http://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_2000.m3u8
@@ -320,6 +324,9 @@ CHC动作电影,http://117.156.28.21/PLTV/88888888/224/3221225847/index.m3u8
 吉林卫视,http://124.47.33.203/PLTV/88888888/224/3221225598/index.m3u8
 
 北京文艺,http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
+
+CHC动作电影,http://iptv.pdsu.edu.cn/hls/chcatv.m3u8
+CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 CETV-1,rtmp://ivi.bupt.edu.cn:1935/livetv/cetv1hd
 CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 CHC家庭影院,rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
