@@ -22,6 +22,7 @@ CCTV9,http://211.137.115.110:8080/gitv_live/G_CCTV-9-HD/G_CCTV-9-HD.m3u8
 CCTV10,http://211.137.115.110:8080/gitv_live/G_CCTV-10-HD/G_CCTV-10-HD.m3u8
 CCTV11,http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
 CCTV12,http://211.137.115.110:8080/gitv_live/G_CCTV-12-HD/G_CCTV-12-HD.m3u8
+CCTV13,http://211.137.115.110:8080/gitv_live/CCTV-13/CCTV-13.m3u8
 CCTV13,http://211.137.115.110:8080/gitv_live/G_CCTV-13-HQ/G_CCTV-13-HQ.m3u8
 CCTV13,http://live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctv13/2000/index.m3u8?ProgramID=&encrypt=
 CCTV13,http://live-temp-litchi-hls-yf.jstv.com:80/live/zhibo-cctv13/online.m3u8
