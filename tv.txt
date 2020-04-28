@@ -28,7 +28,7 @@ CCTV13,http://live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctv13/2000/index.m3u8?P
 CCTV13,http://live-temp-litchi-hls-yf.jstv.com:80/live/zhibo-cctv13/online.m3u8
 CCTV13,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/001/2000204603.m3u8
 CCTV13,http://live-aba-cdn.ysp.cctv.cn/wcloud-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
-CCTV14,http://211.137.115.110:8080/gitv_live/G_CCTV-14-HD/G_CCTV-14-HD.m3u8
+CCTV14,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225819/index.m3u8
 CCTV15,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
 CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226841/index.m3u8
 CCTV17,http://112.50.243.5/PLTV/88888888/224/3221226990/1.m3u8
@@ -46,10 +46,6 @@ CCTV12,http://ott.js.chinamobile.com/PLTV/3/224/3221225556/index.m3u8
 CCTV1,http://211.137.115.110:8080/gitv_live/G_CCTV-1-MD/G_CCTV-1-MD.m3u8
 CCTV2,http://211.137.115.110:8080/gitv_live/G_CCTV-2-MD/G_CCTV-2-MD.m3u8
 CCTV4,http://211.137.115.110:8080/gitv_live/G_CCTV-4-MD/G_CCTV-4-MD.m3u8
-CCTV3,http://211.137.115.110:8080/gitv_live/G_CCTV-3-HD/G_CCTV-3-HD.m3u8
-CCTV5,http://211.137.115.110:8080/gitv_live/G_CCTV-5-HD/G_CCTV-5-HD.m3u8
-CCTV6,http://211.137.115.110:8080/gitv_live/G_CCTV-6-HD/G_CCTV-6-HD.m3u8
-CCTV8,http://211.137.115.110:8080/gitv_live/G_CCTV-8-HD/G_CCTV-8-HD.m3u8
 
 CCTV1,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8
 CCTV2,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
@@ -64,7 +60,6 @@ CCTV9,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225820/index.m3u8
 CCTV10,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225814/index.m3u8
 CCTV11,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/index.m3u8
 CCTV12,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225816/index.m3u8
-CCTV14,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225819/index.m3u8
 CCTV15,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/index.m3u8
 
 CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226675/index.m3u8
@@ -90,8 +85,6 @@ CETV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u8
 淄博新闻,http://120.221.5.112:8089/PLTV/88888888/224/3221225986/index.m3u8
 淄博公共,http://120.221.5.168:8089/PLTV/88888888/224/3221226014/index.m3u8
 宝鸡新闻 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226383/index.m3u8
-宁强-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226390/index.m3u8
-宁强-2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226389/index.m3u8
 昌乐新闻,http://livealone302.iqilu.com/changle/changle_tv01/index.m3u8
 哈尔滨新闻,http://39.134.65.162/PLTV/88888888/224/3221225684/index.m3u8
 厦门-2,http://112.50.243.8/PLTV/88888888/224/3221226777/1.m3u8
@@ -192,8 +185,6 @@ CETV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u8
 山东影视,http://120.221.5.174:8089/PLTV/88888888/224/3221225802/index.m3u8
 山东农科,http://120.221.5.102:8089/PLTV/88888888/224/3221226018/index.m3u8
 山东少儿,http://120.221.5.110:8089/PLTV/88888888/224/3221226195/index.m3u8
-
-
 
 
 安徽卫视,http://39.130.215.166:6410/gitv_live/G_ANHUI-HD/G_ANHUI-HD.m3u8
