@@ -26,6 +26,7 @@ CCTV13,http://211.137.115.110:8080/gitv_live/G_CCTV-13-HQ/G_CCTV-13-HQ.m3u8
 CCTV13,http://live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctv13/2000/index.m3u8?ProgramID=&encrypt=
 CCTV13,http://live-temp-litchi-hls-yf.jstv.com:80/live/zhibo-cctv13/online.m3u8
 CCTV13,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/001/2000204603.m3u8
+CCTV13,http://live-aba-cdn.ysp.cctv.cn/wcloud-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 CCTV14,http://211.137.115.110:8080/gitv_live/G_CCTV-14-HD/G_CCTV-14-HD.m3u8
 CCTV15,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
 CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226841/index.m3u8
