@@ -32,6 +32,7 @@ CCTV14,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225819/index.m3u8
 CCTV15,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
 CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226841/index.m3u8
 CCTV17,http://112.50.243.5/PLTV/88888888/224/3221226990/1.m3u8
+CGTN,http://39.130.215.158:6610/gitv_live/G_CGTVJL-HD/
 
 CCTV1,http://ott.js.chinamobile.com/PLTV/3/224/3221227467/index.m3u8
 CCTV2,http://ott.js.chinamobile.com/PLTV/3/224/3221227543/index.m3u8
@@ -113,7 +114,6 @@ CETV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u8
 湖北卫视,http://223.110.243.170/PLTV/1/224/3221227479/index.m3u8
 湖北卫视,http://223.110.245.168/PLTV/1/224/3221227479/index.m3u8
 厦门卫视,http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
-东南卫视,http://39.130.215.166:6410/gitv_live/G_DONGNAN-HD/G_DONGNAN-HD.m3u8
 
 
 
@@ -166,6 +166,8 @@ CETV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u8
 冬奥纪实,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/1.m3u8
 纪实人文,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225946/1.m3u8
 
+
+
 甘肃卫视,http://117.156.28.119/270000001111/1110000072/index.m3u8
 甘肃影视,http://117.156.28.119/270000001111/1110000067/index.m3u8
 甘肃都市,http://117.156.28.119/270000001111/1110000068/index.m3u8
@@ -206,6 +208,8 @@ CETV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u8
 浙江卫视,http://39.130.215.166:6410/gitv_live/ZJWS-HD/ZJWS-HD.m3u8
 天津卫视,http://39.130.215.166:6410/gitv_live/G_TIANJIN-HD/G_TIANJIN-HD.m3u8
 四川卫视,http://39.130.215.166:6410/gitv_live/G_SICHUAN-HD/G_SICHUAN-HD.m3u8
+东南卫视,http://39.130.215.166:6410/gitv_live/G_DONGNAN-HD/G_DONGNAN-HD.m3u8
+广西卫视,http://39.130.215.158:6610/gitv_live/G_GUANGXI-HD/
 云南卫视,http://39.130.218.239:6610/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
 云南娱乐,http://39.130.206.132:6410/gitv_live/G_YNTV-3-HD/G_YNTV-3-HD.m3u8
 云南都市,http://39.130.206.132:6410/gitv_live/G_YNTV-2-HD/G_YNTV-2-HD.m3u8
