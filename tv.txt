@@ -1,5 +1,4 @@
 移动高清,#genre#
-欢笑剧场,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226729/1.m3u8
 CCTV4K,http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8
 CCTV4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
 CCTV4K,http://117.148.187.56:80/PLTV/88888888/224/3221226758/1.m3u8
@@ -90,9 +89,7 @@ CETV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u8
 昌乐新闻,http://livealone302.iqilu.com/changle/changle_tv01/index.m3u8
 哈尔滨新闻,http://39.134.65.162/PLTV/88888888/224/3221225684/index.m3u8
 厦门-2,http://112.50.243.8/PLTV/88888888/224/3221226777/1.m3u8
-高台新闻,http://117.156.28.55/PLTV/88888888/224/3221226038/index.m3u8
-崆峒电视,http://117.156.28.55/PLTV/88888888/224/3221226018/index.m3u8
-敦煌新闻,http://117.156.28.55/PLTV/88888888/224/3221225877/index.m3u8
+欢笑剧场,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226729/1.m3u8
 都市剧场,http://112.17.40.140/PLTV/88888888/224/3221226825/index.m3u8
 江苏卫视,http://223.110.243.172/PLTV/1/224/3221227552/index.m3u8
 天津卫视,http://223.110.243.135/PLTV/1/224/3221227488/index.m3u8
@@ -106,7 +103,6 @@ CETV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u8
 湖南卫视,http://223.110.245.135/PLTV/1/224/3221227482/index.m3u8
 湖南卫视,http://223.110.245.169/PLTV/1/224/3221227482/index.m3u8
 湖南卫视,http://183.207.249.35/PLTV/3/224/3221227191/index.m3u8
-蜗牛4K,http://www.wshl.tv/proxys_http/hn_otv_proxy_test.html?id=52a440143e2891e1f963f1f46e1145da
 浙江卫视,http://223.110.245.136/PLTV/1/224/3221227491/index.m3u8
 辽宁卫视,http://183.207.249.8/PLTV/1/224/3221227485/index.m3u8
 山东卫视,http://223.110.243.170/PLTV/1/224/3221227517/index.m3u8
