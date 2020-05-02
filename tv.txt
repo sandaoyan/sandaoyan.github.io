@@ -80,8 +80,7 @@ CETV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u8
 
 邳州综艺,http://ott.js.chinamobile.com/PLTV/3/224/3221227573/index.m3u8
 邳州综合,http://ott.js.chinamobile.com/PLTV/3/224/3221227576/index.m3u8
-无锡资讯,http://live-wx.wifiwx.com/wxtv3/sd/live.m3u8
-无锡综合,http://live-wx.wifiwx.com/wxtv1/sd/live.m3u8
+
 沛县新闻,http://peixian-hls-tv-yf.cm.jstv.com/live/pxzh/online.m3u8
 淄博新闻,http://120.221.5.112:8089/PLTV/88888888/224/3221225986/index.m3u8
 淄博公共,http://120.221.5.168:8089/PLTV/88888888/224/3221226014/index.m3u8
@@ -89,7 +88,6 @@ CETV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u8
 昌乐新闻,http://livealone302.iqilu.com/changle/changle_tv01/index.m3u8
 哈尔滨新闻,http://39.134.65.162/PLTV/88888888/224/3221225684/index.m3u8
 厦门-2,http://112.50.243.8/PLTV/88888888/224/3221226777/1.m3u8
-欢笑剧场,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226729/1.m3u8
 都市剧场,http://112.17.40.140/PLTV/88888888/224/3221226825/index.m3u8
 江苏卫视,http://223.110.243.172/PLTV/1/224/3221227552/index.m3u8
 天津卫视,http://223.110.243.135/PLTV/1/224/3221227488/index.m3u8
@@ -301,10 +299,8 @@ CHC动作电影,http://117.156.28.21/PLTV/88888888/224/3221225847/index.m3u8
 影视6台,http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8
 影视7台,http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8
 电影8台,http://ott.js.chinamobile.com/PLTV/3/224/3221227579/index.m3u8
-电视剧,http://ott.js.chinamobile.com/PLTV/3/224/3221227512/index.m3u8
 周星驰,http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.flv
 喜剧港片,http://tx2play1.douyucdn.cn/live/8294640reDY9Bjsj.flv
-林正英,http://tx2play1.douyucdn.cn/218859rBEzPMFyR5.flv
 香港赌片,http://tx2play1.douyucdn.cn/315457rm3dWHAWuW.flv
 邵氏鬼片,http://pull.kktv8.com/livekktv/143960119.flv
 邵氏电影,https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/164219/live_97065163_17925468.m3u8
