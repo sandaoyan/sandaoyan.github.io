@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, group-title="央视卫视",蚂蟥养殖
+https://hls.cntv.kcdnvip.com:443/asp/hls/2000/0303000a/3/default/7b015112472c4132b90421c2d2b1ea13/2000.m3u8
 #EXTINF:-1 tvg-id="0" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视卫视",CCTV4k
 http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视卫视",CCTV1
