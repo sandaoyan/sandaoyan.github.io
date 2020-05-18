@@ -4,6 +4,10 @@
 蚂蟥教授,https://hls.cntv.kcdnvip.com:443/asp/hls/850/0303000a/3/default/6aeadbf7a9ed46d8b5af9f0f96a75124/850.m3u8
 致富吸血虫,https://hls.cntv.kcdnvip.com:443/asp/hls/850/0303000a/3/default/cb57d8594fff4653dfddc6a873ce78c4/850.m3u8
 泥塘里的吸血宝贝,https://hls.cntv.kcdnvip.com:443/asp/hls/850/0303000a/3/default/36e52b06c1704c74dd748aa1fc26f8e2/850.m3u8
+水蛭花园的秘密,https://hls.cntv.kcdnvip.com:443/asp/hls/850/0303000a/3/default/9ca83cac4bed47a88b3cdf8cda6ebed2/850.m3u8
+
+
+
 
 CCTV4K,http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8
 CCTV4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
