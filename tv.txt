@@ -1,5 +1,6 @@
 移动高清,#genre#
 蚂蟥养殖,https://hls.cntv.kcdnvip.com:443/asp/hls/2000/0303000a/3/default/7b015112472c4132b90421c2d2b1ea13/2000.m3u8
+蚂蟥教授,https://hls.cntv.kcdnvip.com:443/asp/hls/850/0303000a/3/default/6aeadbf7a9ed46d8b5af9f0f96a75124/850.m3u8
 CCTV4K,http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8
 CCTV4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
 CCTV4K,http://117.148.187.56:80/PLTV/88888888/224/3221226758/1.m3u8
