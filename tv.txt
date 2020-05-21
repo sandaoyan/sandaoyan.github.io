@@ -6,10 +6,6 @@
 泥塘里的吸血宝贝,https://hls.cntv.kcdnvip.com:443/asp/hls/850/0303000a/3/default/36e52b06c1704c74dd748aa1fc26f8e2/850.m3u8
 水蛭花园的秘密,https://hls.cntv.kcdnvip.com:443/asp/hls/850/0303000a/3/default/9ca83cac4bed47a88b3cdf8cda6ebed2/850.m3u8
 
-4K电影,http://122.97.211.219:8114/FvSeid=59c0f7255fb3c888&Fsv_filetype=1&Fsv_ctype=LIVE&Fsv_cid=11684&Fsv_otype=0&Provider_id=&Pcontent_id=
-
-
-
 CCTV4K,http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8
 CCTV4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
 CCTV4K,http://117.148.187.56:80/PLTV/88888888/224/3221226758/1.m3u8
@@ -252,6 +248,8 @@ CETV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u8
 东南卫视,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226046/index.m3u8
 
 康巴卫视,http://stream.kangbatv.com/test/playlist.m3u8
+青海卫视,http://live.geermurmt.com/qhws/sd/live.m3u8
+北京文艺,http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
 
 生活时尚,http://117.156.28.55/PLTV/88888888/224/3221225703/index.m3u8
 上海ICS,http://117.156.28.21/PLTV/88888888/224/3221225639/index.m3u8
@@ -289,7 +287,11 @@ CCTV女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226237/i
 求索动物,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
 求索记录,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
 
+CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
+CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD.m3u8
+CHC动作电影,http://125.210.152.18:9090/live/DZDYHD.m3u8
 
+4K电影,http://122.97.211.219:8114/FvSeid=59c0f7255fb3c888&Fsv_filetype=1&Fsv_ctype=LIVE&Fsv_cid=11684&Fsv_otype=0&Provider_id=&Pcontent_id=
 爱上4K,http://211.137.115.110:8080/gitv_live/G_AISHANG-4K/G_AISHANG-4K.m3u8
 爱上4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 Bestv4K,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
@@ -319,26 +321,6 @@ CHC动作电影,http://117.156.28.21/PLTV/88888888/224/3221225847/index.m3u8
 
 
 电信高清,#genre#
-青海卫视,http://live.geermurmt.com/qhws/sd/live.m3u8
-邳州综合,http://stream.pznews.com/pztv1/sd/live.m3u8
-邳州综艺,http://stream.pznews.com/pztv2/sd/live.m3u8
-陕西卫视,http://124.47.33.207/PLTV/88888888/224/3221225498/index.m3u8
-吉林卫视,http://124.47.33.203/PLTV/88888888/224/3221225598/index.m3u8
-
-北京文艺,http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
-
-CHC动作电影,http://iptv.pdsu.edu.cn/hls/chcatv.m3u8
-CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
-CETV-1,rtmp://ivi.bupt.edu.cn:1935/livetv/cetv1hd
-CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
-CHC家庭影院,rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
-CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD.m3u8
-CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
-CHC动作电影,http://125.210.152.18:9090/live/DZDYHD.m3u8
-CHC高清电影,rtmp://58.200.131.2:1935/livetv/chchd
-CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
-CHC家庭影院,rtmp://58.200.131.2:1935/livetv/chctv
-
 
 CCTV15,http://39.135.250.70/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226055/00000001000000060000000000000501.smil
 CCTV11,http://39.135.250.70/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226057/00000001000000060000000000000497_mdn_1.smil
