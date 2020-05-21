@@ -5,8 +5,8 @@
 致富吸血虫,https://hls.cntv.kcdnvip.com:443/asp/hls/850/0303000a/3/default/cb57d8594fff4653dfddc6a873ce78c4/850.m3u8
 泥塘里的吸血宝贝,https://hls.cntv.kcdnvip.com:443/asp/hls/850/0303000a/3/default/36e52b06c1704c74dd748aa1fc26f8e2/850.m3u8
 水蛭花园的秘密,https://hls.cntv.kcdnvip.com:443/asp/hls/850/0303000a/3/default/9ca83cac4bed47a88b3cdf8cda6ebed2/850.m3u8
-4k,http://122.97.211.220:8114/FvSeid=59c0f7255fb3c888&Fsv_filetype=1&Fsv_ctype=LIVE&Fsv_cid=11686&Fsv_otype=0&Provider_id=&Pcontent_id=
-4K-2,http://122.97.211.219:8114/FvSeid=59c0f7255fb3c888&Fsv_filetype=1&Fsv_ctype=LIVE&Fsv_cid=11684&Fsv_otype=0&Provider_id=&Pcontent_id=
+
+4K电影,http://122.97.211.219:8114/FvSeid=59c0f7255fb3c888&Fsv_filetype=1&Fsv_ctype=LIVE&Fsv_cid=11684&Fsv_otype=0&Provider_id=&Pcontent_id=
 
 
 
