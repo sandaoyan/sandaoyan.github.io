@@ -319,26 +319,6 @@ CHC动作电影,http://117.156.28.21/PLTV/88888888/224/3221225847/index.m3u8
 邵氏电影,https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/164219/live_97065163_17925468.m3u8
 
 
-
-电信高清,#genre#
-
-CCTV15,http://39.135.250.70/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226055/00000001000000060000000000000501.smil
-CCTV11,http://39.135.250.70/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226057/00000001000000060000000000000497_mdn_1.smil
-武汉新闻,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000215.m3u8
-湖北公共,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000148.m3u8
-湖北综合,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000146.m3u8
-湖北经视,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000145.m3u8
-
-LOVE NATURE 4K UHD,http://dmitry-tv.ru/his/itv_zabava/CH_LOVENATURE4K_HLSUHD.m3u8
-Eurosport4K UHD,http://dmitry-tv.ru/his/itv_zabava/CH_EUROSPORT4K_HLSUHD.m3u8
-Russian Extreme Ultra UHD,http://dmitry-tv.ru/his/itv_zabava/CH_RUSSIANEXTREMEULTRA_HLSUHD.m3u8
-KINO.WATCH UHD 4K,https://or-be-01.mycdn.video/watch/4k/index.m3u8?token=NJAZAMYQLP
-Ultra HD Cinema UHD,http://dmitry-tv.ru/his/itv_zabava/CH_ULTRAHDCINEMA_HLSUHD.m3u8
-One.by 4K,http://rtmp.one.by:1499
-Кино UHD,http://188.35.9.18:16050/udp/238.0.16.1:69000
-
-
-
 港澳台,#genre#
 中天新聞,p2p://190.2.148.110:18912/5c2dd72e0002527b44613e9248733895.ts
 民視新聞,p2p://190.2.148.110:18912/5b1409690004f733406e65209429ef75.ts
