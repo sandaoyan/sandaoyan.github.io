@@ -29,14 +29,10 @@ CCTV9,http://211.137.115.110:8080/gitv_live/G_CCTV-9-HD/G_CCTV-9-HD.m3u8
 CCTV10,http://211.137.115.110:8080/gitv_live/G_CCTV-10-HD/G_CCTV-10-HD.m3u8
 CCTV11,http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
 CCTV12,http://211.137.115.110:8080/gitv_live/G_CCTV-12-HD/G_CCTV-12-HD.m3u8
-CCTV13,http://39.134.134.134:8080/119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
 CCTV13,http://211.137.115.110:8080/gitv_live/CCTV-13/CCTV-13.m3u8
 CCTV13,http://211.137.115.110:8080/gitv_live/G_CCTV-13-HQ/G_CCTV-13-HQ.m3u8
 CCTV13,http://live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctv13/2000/index.m3u8?ProgramID=&encrypt=
 CCTV13,http://live-temp-litchi-hls-yf.jstv.com:80/live/zhibo-cctv13/online.m3u8
-CCTV13,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/001/2000204603.m3u8
-CCTV13,http://live-aba-cdn.ysp.cctv.cn/wcloud-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
-CCTV14,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225819/index.m3u8
 CCTV15,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
 CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226841/index.m3u8
 CCTV17,http://112.50.243.5/PLTV/88888888/224/3221226990/1.m3u8
@@ -55,21 +51,6 @@ CCTV12,http://ott.js.chinamobile.com/PLTV/3/224/3221225556/index.m3u8
 CCTV1,http://211.137.115.110:8080/gitv_live/G_CCTV-1-MD/G_CCTV-1-MD.m3u8
 CCTV2,http://211.137.115.110:8080/gitv_live/G_CCTV-2-MD/G_CCTV-2-MD.m3u8
 CCTV4,http://211.137.115.110:8080/gitv_live/G_CCTV-4-MD/G_CCTV-4-MD.m3u8
-
-CCTV1,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8
-CCTV2,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
-CCTV3,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225801/index.m3u8
-CCTV4,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/index.m3u8
-CCTV5,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225925/index.m3u8
-CCTV5+,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225821/index.m3u8
-CCTV6,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225804/index.m3u8
-CCTV7,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225805/index.m3u8
-CCTV8,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225806/index.m3u8
-CCTV9,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225820/index.m3u8
-CCTV10,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225814/index.m3u8
-CCTV11,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/index.m3u8
-CCTV12,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225816/index.m3u8
-CCTV15,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/index.m3u8
 
 CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226675/index.m3u8
 CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226721/index.m3u8
@@ -148,26 +129,6 @@ CETV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u8
 山东卫视,http://211.137.115.110:8080/gitv_live/G_SHANDONG-MD/G_SHANDONG-MD.m3u8
 东方卫视,http://211.137.115.110:8080/gitv_live/G_DONGFANG-MD/G_DONGFANG-MD.m3u8
 北京卫视,http://211.137.115.110:8080/gitv_live/G_BEIJING-MD/G_BEIJING-MD.m3u8
-
-
-重庆卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
-重庆卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225831/1.m3u8
-安徽卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225945/1.m3u8
-江苏卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225930/1.m3u8
-浙江卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225934/1.m3u8
-湖南卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225935/1.m3u8
-东方卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225936/1.m3u8
-北京卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225937/1.m3u8
-黑龙江卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225940/1.m3u8
-天津卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225941/1.m3u8
-广东卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
-山东卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225943/1.m3u8
-辽宁卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225947/1.m3u8
-四川卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227006/1.m3u8
-厦门卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8
-闽东卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226635/index.m3u8
-冬奥纪实,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/1.m3u8
-纪实人文,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225946/1.m3u8
 
 
 
@@ -531,8 +492,6 @@ olala,https://plbl.m9.lfstrm.tv/olala/normal/0/mono.m3u8
 
 RedTraffic Blowjob,http://live.redtraffic.xyz/blowjob.m3u8
 RedTraffic Cuckold,http://live.redtraffic.xyz/cuckold.m3u8
-RedTraffic Fetish,http://live.redtraffic.xyz/fetish.m3u8
-RedTraffic Hardcore,http://live.redtraffic.xyz/hardcore.m3u8
 RedTraffic Interracial,http://live.redtraffic.xyz/interracial.m3u8
 RedTraffic Latina,http://live.redtraffic.xyz/latina.m3u8
 RedTraffic MILF,http://live.redtraffic.xyz/milf.m3u8
