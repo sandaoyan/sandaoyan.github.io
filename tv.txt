@@ -33,6 +33,7 @@ CCTV13,http://211.137.115.110:8080/gitv_live/CCTV-13/CCTV-13.m3u8
 CCTV13,http://211.137.115.110:8080/gitv_live/G_CCTV-13-HQ/G_CCTV-13-HQ.m3u8
 CCTV13,http://live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctv13/2000/index.m3u8?ProgramID=&encrypt=
 CCTV13,http://live-temp-litchi-hls-yf.jstv.com:80/live/zhibo-cctv13/online.m3u8
+CCTV14,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226720/index.m3u8
 CCTV15,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
 CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226841/index.m3u8
 CCTV17,http://112.50.243.5/PLTV/88888888/224/3221226990/1.m3u8
@@ -63,7 +64,6 @@ CCTV7,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226907/index.m3u8
 CCTV9,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226734/index.m3u8
 CCTV10,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226702/index.m3u8
 CCTV12,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226736/index.m3u8
-CCTV14,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226720/index.m3u8
 CETV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u8
 
 
@@ -209,8 +209,8 @@ CETV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u8
 新闻综合,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226849/index.m3u8
 东南卫视,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226046/index.m3u8
 
-康巴卫视,http://stream.kangbatv.com/test/playlist.m3u8
 青海卫视,http://live.geermurmt.com/qhws/sd/live.m3u8
+康巴卫视,http://stream.kangbatv.com/test/playlist.m3u8
 北京文艺,http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
 
 CCTV1,http://39.135.16.157:6610/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
@@ -296,10 +296,9 @@ CGTN,http://39.135.16.157:6610/PLTV/88888888/224/3221226010/1/index.m3u8?fmt=ts2
 
 
 
-生活时尚,http://117.156.28.55/PLTV/88888888/224/3221225703/index.m3u8
+
 上海ICS,http://117.156.28.21/PLTV/88888888/224/3221225639/index.m3u8
 东方影视,http://117.156.28.21/PLTV/88888888/224/3221225654/index.m3u8
-
 中国气象,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 武术频道,http://120.221.5.102:8089/PLTV/88888888/224/3221225996/index.m3u8
 茶频道,http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
