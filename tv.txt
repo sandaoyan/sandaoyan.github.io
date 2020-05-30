@@ -100,7 +100,7 @@ CETV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u8
 厦门卫视,http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
 
 
-
+河南卫视,http://39.134.230.196:9090/39.134.213.85/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226162/index.m3u8
 
 北京卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221225574/index.m3u8
 东方卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221227597/index.m3u8
