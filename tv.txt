@@ -503,18 +503,11 @@ MV,#genre#
 
 
 OOO_520,#genre#
-茄子台,https://cdn1.ibizastream.biz:441/free/1/playlist_dvr.m3u8
-西红柿,https://cdn1.ibizastream.biz:441/free/2/playlist_dvr.m3u8
-IBIZA1,https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
-IBIZA2,https://cdn1.ibizastream.biz:441/free/Stream2/playlist.m3u8
-
 花花公子,https://plbl.m9.lfstrm.tv/playboy/normal/0/mono.m3u8
 olala,https://plbl.m9.lfstrm.tv/olala/normal/0/mono.m3u8
-
 RedTraffic Blowjob,http://live.redtraffic.xyz/blowjob.m3u8
 RedTraffic Cuckold,http://live.redtraffic.xyz/cuckold.m3u8
 RedTraffic Interracial,http://live.redtraffic.xyz/interracial.m3u8
-RedTraffic Latina,http://live.redtraffic.xyz/latina.m3u8
 RedTraffic MILF,http://live.redtraffic.xyz/milf.m3u8
 RedTraffic Pornstar,http://live.redtraffic.xyz/pornstar.m3u8
 RedTraffic POV,http://live.redtraffic.xyz/pov.m3u8
@@ -527,7 +520,6 @@ RedTraffic Threesome,http://live.redtraffic.xyz/threesome.m3u8
 十五本道,p9p://192.95.32.107:9906/59222d0e0007d49c4e052e4a57ce514b&link
 本道無碼6,p8p://0198.02686.cc:16871/5d25b7e700043adb0a2fc9103d0f3e9d.ts
 本道無碼10,p6p://0198.02686.cc:16871/5d25b7e900054d910a2fd126812250f8.ts
-
 K频道,p8p://0198.02686.cc:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
 HAPPY,p2p://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
 拉风台,p8p://0198.02686.cc:16871/5d25b7e6000300ff0a2fc4d86a4b3abf.ts
