@@ -10,8 +10,6 @@
 CCTV4K,http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8
 CCTV4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
 CCTV4K,http://117.148.187.56:80/PLTV/88888888/224/3221226758/1.m3u8
-
-
 CCTV1,http://223.110.243.138/PLTV/1/224/3221227467/index.m3u8
 CCTV1,http://223.110.245.138/PLTV/1/224/3221227467/index.m3u8
 CCTV2,http://223.110.243.135/PLTV/1/224/3221227543/index.m3u8
@@ -213,7 +211,7 @@ CETV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u8
 
 青海卫视,http://live.geermurmt.com/qhws/sd/live.m3u8
 康巴卫视,http://stream.kangbatv.com/test/playlist.m3u8
-北京文艺,http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
+内蒙古卫视,tvbus://1RFi9DSfGVJhF7o9LBqHR1mUgGhZ5s3YMiRmWp33Rzf7DPofny
 
 CCTV1,http://39.135.16.157:6610/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
 CCTV1,http://39.135.16.157:6610/PLTV/88888888/224/3221225726/1/index.m3u8?fmt=ts2hls
@@ -378,9 +376,27 @@ G+TV11,http://39.135.16.157:6610/PLTV/88888888/224/3221226045/1/index.m3u8?fmt=t
 香港赌片,http://tx2play1.douyucdn.cn/315457rm3dWHAWuW.flv
 邵氏鬼片,http://pull.kktv8.com/livekktv/143960119.flv
 邵氏电影,https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/164219/live_97065163_17925468.m3u8
-
-
 林正英系列2,https://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
+
+港澳台,#genre#
+香港卫视,http://59.51.67.45:9981/stream/channelid/1863354312?ticket=0A1CA425C7500C2E24742055CAD1312C592DC80E&profile=pass
+TVB News,http://59.51.67.45:9981/stream/channelid/2092619416?ticket=2FB867BBC4F7C1A3F7BE9049F165F1754CC806BF&profile=pass
+Animax Asia HD,http://59.51.67.45:9981/stream/channelid/1303931311?ticket=29116D7D4A85F2E6D3C541074D9EA3BAD8F2CE4A&profile=pass
+Animax TW HD,http://59.51.67.45:9981/stream/channelid/82719321?ticket=559668F1932A3755FF4A5D9EF35CD57210CD3346&profile=pass
+Animax Taiwan HD2,http://59.51.67.45:9981/stream/channelid/981328714?ticket=BDC7AC963ED5D7B28B341CB96F7656EDC929161B&profile=pass
+AXN EA HD,http://59.51.67.45:9981/stream/channelid/1437510379?ticket=5BF839544F2CCFAA326895A63534F9A67A86B354&profile=pass
+AXN TW HD,http://59.51.67.45:9981/stream/channelid/1825915683?ticket=8EA25010A86CCABF7F729349E317C8F0116CE449&profile=pass
+SET ONE ,http://59.51.67.45:9981/stream/channelid/2001371080?ticket=6FBCDCE3B9A7F65D212B5C81470D8CBDDE9FF8D1&profile=pass
+GEM,http://59.51.67.45:9981/stream/channelid/543625596?ticket=0562F785F0F39DF14266560255F8FCF1494C8AA1&profile=pass
+BBC Earth,http://59.51.67.45:9981/stream/channelid/1580030557?ticket=59358AC2182453EDDA92006AC5D32CA3C5865FA6&profile=pass
+BBC Lifestyle HD,http://59.51.67.45:9981/stream/channelid/1735902835?ticket=BE97FADE038B5C9A9DF3242497F07BB323432C83&profile=pass
+BBC CBeeBies HD,http://59.51.67.45:9981/stream/channelid/1237196219?ticket=B885B1EA567AAB8BF00B0F2A68BE3147FFE8E14D&profile=pass
+DC-TWN HD (NTSC),http://59.51.67.45:9981/stream/channelid/474158875?ticket=E97A33C63796305B8F2488E46C3AF5D86EA6FAE1&profile=pass
+DC-SEA (HD-50i),http://59.51.67.45:9981/stream/channelid/1349784275?ticket=54C289729CECA00AAACEEDB1D89B516E5638E01E&profile=pass
+DXD-ROSEA_MAL,http://59.51.67.45:9981/stream/channelid/512542134?ticket=44A27B49A2C72D66CDA6B06B4A26ABF1879C4CD5&profile=pass
+DJ-Asia (PAL),http://59.51.67.45:9981/stream/channelid/1252263854?ticket=982C8C26053504B0653A22A74A58BBB4D8289F3B&profile=pass
+DC-HKG,http://59.51.67.45:9981/stream/channelid/2018444008?ticket=465C277E0E0D2D28D09549CCC9349CBD8BBA05F2&profile=pass
+
 
 MV,#genre#
 叶倩文-潇洒走一回,http://vodcdn.video.taobao.com/oss/ali-video/371d75312720e701b5f3988d46cdf4ef/video.m3u8
