@@ -65,10 +65,22 @@ CCTV10,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226702/index.m3u
 CCTV12,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226736/index.m3u8
 CETV1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u8
 
-
+邳州综合,http://stream.pznews.com/pztv1/sd/live.m3u8
+邳州综艺,http://stream.pznews.com/pztv2/sd/live.m3u8
 邳州综艺,http://ott.js.chinamobile.com/PLTV/3/224/3221227573/index.m3u8
 邳州综合,http://ott.js.chinamobile.com/PLTV/3/224/3221227576/index.m3u8
-
+无锡新闻,http://live-wx.wifiwx.com/wxtv1/sd/live.m3u8
+无锡综合,http://live-wx.wifiwx.com/wxtv2/sd/live.m3u8
+无锡科教,http://live-wx.wifiwx.com/wxtv3/sd/live.m3u8
+无锡生活,http://live-wx.wifiwx.com/wxtv4/sd/live.m3u8
+河北农民,http://223.110.245.170/PLTV/3/224/3221225536/index.m3u8
+河北农民,http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/jiangxistv/1.m3u8
+河北农民,http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225536/index.m3u8
+河北农民,http://112.50.243.8/PLTV/88888888/224/3221225868/1.m3u8
+北京青年,http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227436/index.m3u8
+巴中综合频道,http://ocj2.kksmg.com/ocj1/ocj1.m3u8
+巴中公共频道,http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_247.m3u8
+巴中综合频道,http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.m3u8
 沛县新闻,http://peixian-hls-tv-yf.cm.jstv.com/live/pxzh/online.m3u8
 淄博新闻,http://120.221.5.112:8089/PLTV/88888888/224/3221225986/index.m3u8
 淄博公共,http://120.221.5.168:8089/PLTV/88888888/224/3221226014/index.m3u8
